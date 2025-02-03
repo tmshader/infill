@@ -58,3 +58,9 @@ Anixus Vex:
   description: "A powerful, fast, precise CoreXY 3D printer aimed at intense speed"
   repository: "https://raw.githubusercontent.com/invictus-anic3tus/anixus-vex/refs/heads/main/journal.md"
   file_name: anixus_vex.md
+
+prntr:
+  title: "prntr"
+  description: "A small, fast printer used for rapid prototyping"
+  repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/design.md"
+  file_name: prntr.md
