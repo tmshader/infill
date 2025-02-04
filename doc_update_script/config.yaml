@@ -101,3 +101,10 @@ B0lta:
   description: "A fast, precise 3d printer with a large bed, aimed at size over speed"
   repository: "https://github.com/AverseABFun/B0lta-printer/blob/main/JOURNAL-Arthur.md"
   file_name: b0lta.md
+
+Nighthawk:
+  title: "Nighthawk"
+  description: "A budget friendly, accurate and enclosed Core-XY printer with a large bed"
+  repository: "https://raw.githubusercontent.com/yashsethu/nighthawk/refs/heads/main/logbook.md"
+  file_name: nighthawk.md
+
