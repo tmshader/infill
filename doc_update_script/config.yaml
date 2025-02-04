@@ -5,6 +5,7 @@ Infinite Benchy Theorem:
   description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
   repository: "https://raw.githubusercontent.com/qcoral/infinite-benchy-theorem/refs/heads/main/design.md"
   file_name: infinite_benchy_theorem.md
+
 Radeon:
   title: "Radeon"
   description: "A budget-friendly printer designed around CoreXY kinematics and linear rails."
@@ -64,3 +65,39 @@ Grasshopper:
   description: "A cheap, fast, CoreXY 3D printer with multicolor capabilities."
   repository: "https://raw.githubusercontent.com/IM-THE-GRASS/Grasshopper/refs/heads/main/journal.md"
   file_name: Grasshopper.md
+
+Sculptura:
+  title: "Sculptura"
+  description: "Open-source and customized budget 3d printer built from scratch for printing multicolor decorative items :D"
+  repository: "https://raw.githubusercontent.com/arsoninstigator/sculptura/refs/heads/main/README.md"
+  file_name: sculptura.md
+
+Tesseract:
+  title: "Tesseract":
+  description: "Affordable 4 axis 3d printer for under 300 dollars":
+  repository: "https://raw.githubusercontent.com/EmperorNumerius/Tesseract/refs/heads/main/design.md":
+  file_name: tesseract.md
+
+prntr:
+  title: "prntr"
+  description: "A small, fast printer used for rapid prototyping"
+  repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/design.md"
+  file_name: prntr.md
+  
+pixl:
+  title: "pixl"
+  description: "A small corexy printer with a 180 mm cubed build volume"
+  repository: "https://raw.githubusercontent.com/vibsthebot/pixl/refs/heads/main/design.md"
+  file_name: pixl.md
+
+Veloce:
+  title: "Veloce"
+  description: "A powerful, fast, precise CoreXY 3D printer, to innovate on z-axis correction to get more reliable printing"
+  repository: "https://raw.githubusercontent.com/RR-CREATOR/Veloce/refs/heads/main/DESIGN.md"
+  file_name: veloce.md
+
+B0lta:
+  title: "B0lta"
+  description: "A fast, precise 3d printer with a large bed, aimed at size over speed"
+  repository: "https://github.com/AverseABFun/B0lta-printer/blob/main/JOURNAL-Arthur.md"
+  file_name: b0lta.md
