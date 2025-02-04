@@ -101,3 +101,9 @@ B0lta:
   description: "A fast, precise 3d printer with a large bed, aimed at size over speed"
   repository: "https://raw.githubusercontent.com/AverseABFun/B0lta-printer/refs/heads/main/LAUNCHPAD_SITE.md"
   file_name: b0lta.md
+
+Comet-eer:
+  title: "Comet-eer"
+  description: "A 3d printer that is easy to assemble, disassemble and store"
+  repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/README.md"
+  file_name: comet-eer.md
