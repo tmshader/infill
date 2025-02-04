@@ -102,6 +102,12 @@ B0lta:
   repository: "https://raw.githubusercontent.com/AverseABFun/B0lta-printer/refs/heads/main/LAUNCHPAD_SITE.md"
   file_name: b0lta.md
 
+Nighthawk:
+  title: "Nighthawk"
+  description: "A budget friendly, accurate and enclosed Core-XY printer with a large bed"
+  repository: "https://raw.githubusercontent.com/yashsethu/nighthawk/refs/heads/main/logbook.md"
+  file_name: nighthawk.md
+
 Comet-eer:
   title: "Comet-eer"
   description: "A 3d printer that is easy to assemble, disassemble and store"
