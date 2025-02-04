@@ -60,6 +60,11 @@ Anixus Vex:
   repository: "https://raw.githubusercontent.com/invictus-anic3tus/anixus-vex/refs/heads/main/journal.md"
   file_name: anixus_vex.md
 
+Sculptura:
+  title: "Sculptura"
+  description: "Open-source and customized budget 3d printer built from scratch for printing multicolor decorative items :D"
+  repository: "https://raw.githubusercontent.com/arsoninstigator/sculptura/refs/heads/main/README.md"
+  file_name: sculptura.md
 
 Tesseract:
   title: "Tesseract":
