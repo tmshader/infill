@@ -4,6 +4,8 @@ description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
 project_name: "Infinite Benchy Theorem"
 repository: "https://raw.githubusercontent.com/qcoral/infinite-benchy-theorem/refs/heads/main/design.md"
 ---
+dari // alexren's attempt 
+
 Pitch: budget enclosed belted 3D printer. Can print farm for all my YSWS needs. Also just a fun device
 
 Links I've gathered so far:
