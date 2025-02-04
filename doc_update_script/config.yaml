@@ -99,5 +99,5 @@ Veloce:
 B0lta:
   title: "B0lta"
   description: "A fast, precise 3d printer with a large bed, aimed at size over speed"
-  repository: "https://github.com/AverseABFun/B0lta-printer/blob/main/JOURNAL-Arthur.md"
+  repository: "https://raw.githubusercontent.com/AverseABFun/B0lta-printer/refs/heads/main/LAUNCHPAD_SITE.md"
   file_name: b0lta.md
