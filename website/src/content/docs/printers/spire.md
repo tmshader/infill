@@ -24,3 +24,12 @@ https://cad.onshape.com/documents/ecbd1ecc80a05f878c9e2e54/w/9dcd75629b77e3e1a0c
 
 
 ![](https://cloud-4adfs32od-hack-club-bot.vercel.app/0image.png)
+
+
+Update one.one:
+4 hours
+- Changed the design from a side mounted to top mount
+- Changed the hotend+extruder
+- cadded more stuff
+- changed size from 180x180 to 250x250
+![image](https://github.com/user-attachments/assets/6f468370-7b79-4f1d-bccf-cf5dfd8e3456)
