@@ -60,6 +60,12 @@ Anixus Vex:
   repository: "https://raw.githubusercontent.com/invictus-anic3tus/anixus-vex/refs/heads/main/journal.md"
   file_name: anixus_vex.md
 
+Grasshopper:
+  title: "Grasshopper"
+  description: "A cheap, fast, CoreXY 3D printer with multicolor capabilities."
+  repository: "https://raw.githubusercontent.com/IM-THE-GRASS/Grasshopper/refs/heads/main/journal.md"
+  file_name: Grasshopper.md
+
 Sculptura:
   title: "Sculptura"
   description: "Open-source and customized budget 3d printer built from scratch for printing multicolor decorative items :D"
