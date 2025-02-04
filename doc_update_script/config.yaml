@@ -73,9 +73,9 @@ Sculptura:
   file_name: sculptura.md
 
 Tesseract:
-  title: "Tesseract":
-  description: "Affordable 4 axis 3d printer for under 300 dollars":
-  repository: "https://raw.githubusercontent.com/EmperorNumerius/Tesseract/refs/heads/main/design.md":
+  title: "Tesseract"
+  description: "Affordable 4 axis 3d printer for under 300 dollars"
+  repository: "https://raw.githubusercontent.com/EmperorNumerius/Tesseract/refs/heads/main/design.md"
   file_name: tesseract.md
 
 prntr:
