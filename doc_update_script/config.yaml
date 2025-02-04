@@ -59,6 +59,12 @@ Anixus Vex:
   repository: "https://raw.githubusercontent.com/invictus-anic3tus/anixus-vex/refs/heads/main/journal.md"
   file_name: anixus_vex.md
 
+prntr:
+  title: "prntr"
+  description: "A small, fast printer used for rapid prototyping"
+  repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/design.md"
+  file_name: prntr.md
+  
 pixl:
   title: "pixl"
   description: "A small corexy printer with a 180 mm cubed build volume"
