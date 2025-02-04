@@ -23,9 +23,9 @@ repository: "https://raw.githubusercontent.com/Echo-Labs-Development/Quantum-One
 | -------- | -------- |
 | 2.1.25 | 2 Hours |
 | 2.2.25 | 4 Hours |
-| 2.3.25 | 3 Hours |
+| 2.3.25 | 5 Hours |
 
-### Total Hours: 9 Hours
+### Total Hours: 11 Hours
 
 ## BOM
  | Item Name | Link | Quanity | Price |
@@ -35,7 +35,8 @@ repository: "https://raw.githubusercontent.com/Echo-Labs-Development/Quantum-One
  | RJ-45 Ethernet Panel Mount | [https://www.adafruit.com](https://www.adafruit.com/product/4130) | x1 | $5.95 |
  | Usb-C Panel Mount | [https://www.adafruit.com](https://www.adafruit.com/product/4259) | x1 | $5.95 |
  | 24v 220x220 PCB Bed Heater | [https://www.aliexpress.us](https://www.aliexpress.us/item/3256807814642251.html?spm=a2g0o.productlist.main.17.981813aeOB3Hfn&algo_pvid=90e91e82-7bb1-45e6-b3d9-c68414ed180c&algo_exp_id=90e91e82-7bb1-45e6-b3d9-c68414ed180c-8&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%2112.68%2112.68%21%21%2112.68%2112.68%21%402103245417386310408614140e5d96%2112000043217585410%21sea%21US%210%21ABX&curPageLogUid=BDLcSioq41uV&utparam-url=scene%3Asearch%7Cquery_from%3A) | x1 | $12.68 |
- | | | Total Price | $85.92 |
+ | E3D Revo Micro | [https://www.3djake.com](https://www.3djake.com/e3d/revo-micro) | x1 | $47.51  |
+ | | | Total Price | $133.43 |
  
 All Prices USD. Shiping and Tax Not Included
 
@@ -59,4 +60,8 @@ All Prices USD. Shiping and Tax Not Included
 | Item | Power Draw |
 | ------ | ------ |
 | PCB Bed Heater | 200w |
-| | 200w |
+| Hotend Ceramic Heater | 115w |
+| | 315w |
+
+## Skirt (Unfinished)
+![Half Finished Skirt](https://cloud-o589vt3c5-hack-club-bot.vercel.app/0screenshot_2025-02-03_at_9.30.14___pm.png)
