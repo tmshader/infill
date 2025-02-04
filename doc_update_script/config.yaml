@@ -1,5 +1,12 @@
 ## Add your printers below
 
+Open Threads:
+  title: "Open Threads"
+  description: "An attempt at making a sub $200 3D printer from scratch out of mostly printed parts"
+  repository: "https://raw.githubusercontent.com/evan-gan/3D-printer/refs/heads/main/journal.md"
+  file_name: open-threads.md
+
+
 Infinite Benchy Theorem:
   title: "Infinite Benchy Theorem"
   description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
