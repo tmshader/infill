@@ -117,5 +117,5 @@ Comet-eer:
 Reppa:
    title: "Reppa"
    description: "A coreXY printer with klipper"
-   repository: "https://raw.githubusercontent.com/KOEGlike/reppa/main/LOG.md"
+   repository: "https://github.com/KOEGlike/reppa/blob/main/LOG.md?raw=true"
    file_name: reppa.md
