@@ -113,3 +113,9 @@ Comet-eer:
   description: "A 3d printer that is easy to assemble, disassemble and store"
   repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/README.md"
   file_name: comet-eer.md
+
+Reppa:
+  title: "Reppa"
+  description: "A coreXY printer with klipper"
+  repository: "https://raw.githubusercontent.com/KOEGlike/reppa/main/LOG.md"
+  file_name: reppa.md
