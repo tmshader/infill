@@ -113,3 +113,9 @@ Comet-eer:
   description: "A 3d printer that is easy to assemble, disassemble and store"
   repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/README.md"
   file_name: comet-eer.md
+
+Infinixar:
+  title: "Infinixar"
+  description: "CoreXY printer, with extending y axis dimensions"
+  repository: "https://raw.githubusercontent.com/GaoYeGithub/Infinixar/refs/heads/main/README.md"
+  file_name: log.md
