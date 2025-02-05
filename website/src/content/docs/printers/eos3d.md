@@ -74,3 +74,15 @@ Today, I completed the connection of the toolhead to the linear bearings with in
 
 Here is the final model of the day:
 ![Day 2 image update](https://cloud-lfjnqsa5o-hack-club-bot.vercel.app/0image.png)
+
+## Day 3 (February 3rd, 2025)
+
+Hours worked: **1**
+
+Total hours on project: **11**
+
+### Fan Development
+
+Today, I did minimal work; however, I finished and placed the part cooling fan. Tomorrow, I will begin designing it and running CFD tests.
+
+![Day 3 image update](https://cloud-qwtjk3wd0-hack-club-bot.vercel.app/0image.png)
