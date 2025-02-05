@@ -4,10 +4,12 @@ description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
 project_name: "Infinite Benchy Theorem"
 repository: "https://raw.githubusercontent.com/qcoral/infinite-benchy-theorem/refs/heads/main/journal.md"
 ---
-Made by: @dari // alexren
-Repository link: https://github.com/qcoral/infinite-benchy-theorem
-Total hours so far: 2
+Made by: @dari // alexren \
+Repository link: https://github.com/qcoral/infinite-benchy-theorem \
+Total hours so far: 2 \
 - [x] I have a 3D printer or will be getting one before March 21st
+
+---
 
 dari // alexren's attempt at making *yet another* 3D printer!
 
