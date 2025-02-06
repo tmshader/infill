@@ -5,6 +5,13 @@ project_name: "Quantum One"
 repository: "https://raw.githubusercontent.com/Echo-Labs-Development/Quantum-One/main/plan.md"
 ---
 # The Plan
+
+Made by: Henry([@HenryNerd](https://github.com/HenryNerd))
+
+Repository Link: [https://github.com/Echo-Labs-Development/Quantum-One](https://github.com/Echo-Labs-Development/Quantum-One)
+
+Total Hours: 11 Hours
+
 ## Goals
 - Quiet enough to be next to you on your desk
 - Easly Hackable
