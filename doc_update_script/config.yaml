@@ -113,3 +113,9 @@ Comet-eer:
   description: "A 3d printer that is easy to assemble, disassemble and store"
   repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/README.md"
   file_name: comet-eer.md
+
+Volt-core:
+  title: "VoltCore"
+  description: "Battery-powered 3d printer to print without access to any nearby outlets!"
+  repository: "https://github.com/TheRealMopcornPuncher/VoltCore/blob/main/CAPTAINSLOG.md"
+  file_name: volt-core.md
