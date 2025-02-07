@@ -113,3 +113,9 @@ Comet-eer:
   description: "A 3d printer that is easy to assemble, disassemble and store"
   repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/LOGS.md"
   file_name: comet-eer.md
+
+X3:
+  title: "X3"
+  description: "A cheap CoreXY printer that can be made with a Bambu Lab A1 Mini"
+  repository: "https://raw.githubusercontent.com/3XAY/X3-3DP/refs/heads/main/JOURNAL.md"
+  file_name: x3.md
