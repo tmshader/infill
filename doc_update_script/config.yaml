@@ -1,11 +1,5 @@
 ## Add your printers below
 
-Arcadius:
-  title: "Arcadius"
-  description: "Arcade Claw Machine-style printer"
-  repository: "https://raw.githubusercontent.com/PonderSlime/Arcadius---3D-Printer/refs/heads/main/design.md"
-  file_name: Arcadius.md
-
 Infinite Benchy Theorem:
   title: "Infinite Benchy Theorem"
   description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
@@ -119,3 +113,9 @@ Comet-eer:
   description: "A 3d printer that is easy to assemble, disassemble and store"
   repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/README.md"
   file_name: comet-eer.md
+
+Arcadius:
+  title: "Arcadius"
+  description: "Arcade Claw Machine-style printer"
+  repository: "https://raw.githubusercontent.com/PonderSlime/Arcadius---3D-Printer/refs/heads/main/design.md"
+  file_name: Arcadius.md
