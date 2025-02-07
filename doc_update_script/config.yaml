@@ -114,6 +114,12 @@ Comet-eer:
   repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/LOGS.md"
   file_name: comet-eer.md
 
+Arcadius:
+  title: "Arcadius"
+  description: "Arcade Claw Machine-style printer"
+  repository: "https://raw.githubusercontent.com/PonderSlime/Arcadius---3D-Printer/refs/heads/main/design.md"
+  file_name: Arcadius.md
+
 Reppa:
   title: "Reppa"
   description: "A coreXY printer with klipper"
