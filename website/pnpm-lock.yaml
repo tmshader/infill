@@ -11,6 +11,9 @@ importers:
       '@astrojs/starlight':
         specifier: ^0.31.1
         version: 0.31.1(astro@5.2.3(@types/node@17.0.45)(rollup@4.32.1)(typescript@5.7.3))
+      '@fontsource/poppins':
+        specifier: ^5.1.1
+        version: 5.1.1
       astro:
         specifier: ^5.1.5
         version: 5.2.3(@types/node@17.0.45)(rollup@4.32.1)(typescript@5.7.3)
@@ -240,6 +243,9 @@ packages:
 
   '@expressive-code/plugin-text-markers@0.40.1':
     resolution: {integrity: sha512-LsirF7M4F2yWgrFXEocD74F/MaVXsOsHVsRxBLhXQJemSSkWkDp/EZPt//OaqQ8ExnqWZ2lH7E1/KiN46unKjg==}
+
+  '@fontsource/poppins@5.1.1':
+    resolution: {integrity: sha512-PQVKHGQOK+UpVNPzTFF9Z9ez3CIDkunfvRXGH95hiDoqWJc1shW4JFqe4tEoqnq7RtZaYrw9aWQq58L4eny5xg==}
 
   '@img/sharp-darwin-arm64@0.33.5':
     resolution: {integrity: sha512-UT4p+iz/2H4twwAoLCqfA9UH5pI6DggwKEGuaPy7nCVQ8ZsiY5PIcrRvD1DzuY3qYL07NtIQcWnBSY/heikIFQ==}
@@ -2205,6 +2211,8 @@ snapshots:
   '@expressive-code/plugin-text-markers@0.40.1':
     dependencies:
       '@expressive-code/core': 0.40.1
+
+  '@fontsource/poppins@5.1.1': {}
 
   '@img/sharp-darwin-arm64@0.33.5':
     optionalDependencies:

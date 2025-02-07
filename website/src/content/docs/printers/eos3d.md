@@ -74,3 +74,37 @@ Today, I completed the connection of the toolhead to the linear bearings with in
 
 Here is the final model of the day:
 ![Day 2 image update](https://cloud-lfjnqsa5o-hack-club-bot.vercel.app/0image.png)
+
+## Day 3 (February 3rd, 2025)
+
+Hours worked: **1**
+
+Total hours on project: **11**
+
+### Fan Development
+
+Today, I did minimal work; however, I finished and placed the part cooling fan. Tomorrow, I will begin designing it and running CFD tests.
+
+![Day 3 image update](https://cloud-qwtjk3wd0-hack-club-bot.vercel.app/0image.png)
+
+## Day 4 & 5 (February 5th-6th, 2025)
+
+Hours worked: **4**
+
+Total hours on project: **15**
+
+### First Fan Iteration Completed
+
+After extensive trial and error, I have an initial design for the fan duct. The goal was to implement a dual exhaust setup, which presents more challenges but should enable more even cooling across the print.
+
+Next Steps Before CFD Analysis:
+
+- Raise the outlets so they are positioned above the nozzle.
+- Adjust the outlet angles to prevent airflow from hitting the nozzle.
+- Increase clearance to the hotend to prevent outlet deformation
+
+With these changes, I plan to start optimizing the design tomorrow before running CFD simulations. Below are images of the fan duct (rear view) and the complete model in its current form.
+
+![Fan duct from the rear](https://cloud-atf9xpxe3-hack-club-bot.vercel.app/0image.png)
+
+![Day 4 & 5 image update](https://cloud-cyy5r3rz6-hack-club-bot.vercel.app/0image.png)

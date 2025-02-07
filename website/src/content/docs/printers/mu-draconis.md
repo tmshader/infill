@@ -5,6 +5,14 @@ project_name: "Mu Draconis"
 repository: "https://raw.githubusercontent.com/WilliamPrime/Mu-Draconis/refs/heads/main/design.md"
 ---
 # mu draconis
+Made by : William
+respository link: https://github.com/WilliamPrime/Mu-Draconis
+Total hours: Arround 5
+
+i have a 3d printer :D
+
+
+
 
 pitch, make a polar 3d printer, not because its practical, but because its something different :D
 
