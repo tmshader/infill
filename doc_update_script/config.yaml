@@ -114,6 +114,12 @@ Comet-eer:
   repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/LOGS.md"
   file_name: comet-eer.md
 
+Reppa:
+  title: "Reppa"
+  description: "A coreXY printer with klipper"
+  repository: "https://raw.githubusercontent.com/KOEGlike/reppa/refs/heads/main/LOG.md"
+  file_name: reppa-log.md
+
 X3:
   title: "X3"
   description: "A cheap CoreXY printer that can be made with a Bambu Lab A1 Mini"
