@@ -114,6 +114,12 @@ Comet-eer:
   repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/LOGS.md"
   file_name: comet-eer.md
 
+Candy-V1:
+  title: "Candy-V1"
+  description: "A 4-axis 3D printer"
+  repository: "https://raw.githubusercontent.com/Outdatedcandy92/CandyV1/refs/heads/main/candy_v1.md"
+  file_name: candy_v1.md 
+
 Arcadius:
   title: "Arcadius"
   description: "Arcade Claw Machine-style printer"
