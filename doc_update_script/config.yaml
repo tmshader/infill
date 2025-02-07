@@ -3,7 +3,7 @@
 Infinite Benchy Theorem:
   title: "Infinite Benchy Theorem"
   description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
-  repository: "https://raw.githubusercontent.com/qcoral/infinite-benchy-theorem/refs/heads/main/design.md"
+  repository: "https://raw.githubusercontent.com/qcoral/infinite-benchy-theorem/refs/heads/main/journal.md"
   file_name: infinite_benchy_theorem.md
 
 Radeon:
@@ -92,7 +92,7 @@ pixl:
 
 Veloce:
   title: "Veloce"
-  description: "A powerful, fast, precise CoreXY 3D printer, to innovate on z-axis correction to get more reliable printing"
+  description: "A powerful, fast, precise CoreXY 3D printer, to get more reliable printing"
   repository: "https://raw.githubusercontent.com/RR-CREATOR/Veloce/refs/heads/main/DESIGN.md"
   file_name: veloce.md
 
@@ -111,7 +111,7 @@ Nighthawk:
 Comet-eer:
   title: "Comet-eer"
   description: "A 3d printer that is easy to assemble, disassemble and store"
-  repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/README.md"
+  repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/LOGS.md"
   file_name: comet-eer.md
 
 Candy-V1:
@@ -119,3 +119,21 @@ Candy-V1:
   description: "A 4-axis 3D printer"
   repository: "https://raw.githubusercontent.com/Outdatedcandy92/CandyV1/refs/heads/main/candy_v1.md"
   file_name: candy_v1.md 
+
+Arcadius:
+  title: "Arcadius"
+  description: "Arcade Claw Machine-style printer"
+  repository: "https://raw.githubusercontent.com/PonderSlime/Arcadius---3D-Printer/refs/heads/main/design.md"
+  file_name: Arcadius.md
+
+Reppa:
+  title: "Reppa"
+  description: "A coreXY printer with klipper"
+  repository: "https://raw.githubusercontent.com/KOEGlike/reppa/refs/heads/main/LOG.md"
+  file_name: reppa-log.md
+
+X3:
+  title: "X3"
+  description: "A cheap CoreXY printer that can be made with a Bambu Lab A1 Mini"
+  repository: "https://raw.githubusercontent.com/3XAY/X3-3DP/refs/heads/main/JOURNAL.md"
+  file_name: x3.md

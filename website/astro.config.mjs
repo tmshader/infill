@@ -7,6 +7,12 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Launchpad',
+			customCss: [
+				// Relative path to your @font-face CSS file.
+				'./src/styles/custom.css',
+				'@fontsource/poppins/400.css',
+				'@fontsource/poppins/500.css',
+			],
 			social: {
 				github: 'https://github.com/qcoral/sigmazero',
 			},
