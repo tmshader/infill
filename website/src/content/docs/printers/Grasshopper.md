@@ -4,6 +4,13 @@ description: "A cheap, fast, CoreXY 3D printer with multicolor capabilities."
 project_name: "Grasshopper"
 repository: "https://raw.githubusercontent.com/IM-THE-GRASS/Grasshopper/refs/heads/main/journal.md"
 ---
+Made by: @The Grass
+
+Repository link: https://github.com/IM-THE-GRASS/Grasshopper/
+
+Total hours so far: 8hrs
+
+
 Idea: My open-source, DIY 3D printer that aims to be <$300, fast and have multi-color capabilities
 (a knockoff bambu labs printer :P )
 
@@ -66,7 +73,7 @@ Today was a lot more research to ensure the parts list were compatible with each
 ### Update 2: 
 After looking at a couple more options in terms of parts, I decided to start taking apart the Ender 3 to figure out exactly what i could be working with. After 3 hours of work I sorted most of the parts that were usable into a small pile. 
 
-![ender 3 parts](images/ender3.png)
+
 
 this includes 
 - 1x screen (https://github.com/bustedlogic/DWIN_T5UIC1_LCD for driving it)
