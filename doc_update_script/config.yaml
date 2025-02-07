@@ -117,5 +117,5 @@ Comet-eer:
 Axilab:
   title: "Axilab"
   description: "A fast, cheap and elegant 3d printer with a modern design"
-  repository: "https://raw.githubusercontent.com/Rayanlupo/Axilab/refs/heads/main/JOURNAL.md"
-  file_name: JOURNAL.md
+  repository: "https://raw.githubusercontent.com/Rayanlupo/Axilab/refs/heads/main/progresses.md"
+  file_name: progresses.md
