@@ -117,5 +117,5 @@ Comet-eer:
 Volt-core:
   title: "VoltCore"
   description: "Battery-powered 3d printer to print without access to any nearby outlets!"
-  repository: "https://github.com/TheRealMopcornPuncher/VoltCore/blob/main/CAPTAINSLOG.md"
+  repository: "https://raw.githubusercontent.com/TheRealMopcornPuncher/VoltCore/refs/heads/main/CAPTAINSLOG.md"
   file_name: volt-core.md
