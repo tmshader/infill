@@ -108,3 +108,24 @@ With these changes, I plan to start optimizing the design tomorrow before runnin
 ![Fan duct from the rear](https://cloud-atf9xpxe3-hack-club-bot.vercel.app/0image.png)
 
 ![Day 4 & 5 image update](https://cloud-cyy5r3rz6-hack-club-bot.vercel.app/0image.png)
+
+## Day 6 (February 7th, 2025)
+
+Hours worked: **5**
+Total hours on project: **20**
+
+Here’s a more polished and engaging version of your text:
+
+---
+
+With the latest changes in place, it was finally time to put the design through CFD analysis. Having never used CFD software before, I knew this would be a challenging process.
+
+I initially tried Autodesk CFD and ANSYS Workbench, but getting them to work felt overwhelming. Eventually, I discovered SimScale, which turned out to super user-friendly. I followed [this YouTube tutorial](https://www.youtube.com/watch?v=1pMJQetyA4A) to set everything up.
+
+After a long computation wait, I finally got to see the airflow results—and they were really bad. Not entirely surprising for an initial design, but definitely something to improve. The results are shown below:
+
+![CFD Results](https://cloud-k9c5y4oho-hack-club-bot.vercel.app/0image.png)
+
+Tomorrow, I’ll begin optimizing the design and rerun the CFD analysis to see how much improvement can be made.
+
+![Day 6 image update](https://cloud-9hjadb36g-hack-club-bot.vercel.app/0image.png)
