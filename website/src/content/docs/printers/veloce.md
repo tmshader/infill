@@ -5,7 +5,9 @@ project_name: "Veloce"
 repository: "https://raw.githubusercontent.com/RR-CREATOR/Veloce/refs/heads/main/DESIGN.md"
 ---
 Made By: @rrop
+
 Repo: https://github.com/RR-CREATOR/Veloce
+
 PS: its still pretty empty, gonna be adding stuf soon
 
 # **Day 1**
@@ -13,7 +15,8 @@ PS: its still pretty empty, gonna be adding stuf soon
 Research on feasibility, ideas, premade projects, and deciding goals, along with basic planning
 
 Goals: 
-- Piezo sensors for z adjustment
+- Can print high quality
+- Core XY
 - Can print pla, petg and tpu
 - Speed >300 mm/s
 - Build volume >=25cm^3
@@ -49,5 +52,11 @@ Gonna be using a boden setup, as dont really need to print flexible mats.
 
 Time: 5 hrs (lik srsly, it took sooo long to find any good items)
 
+# **Day 4**
 
-***Total Time: 17 hrs***
+Finished my BOM, decided on all the parts I would need, and made some changes to previously selected parts so I can get about 500m/s print speed.
+Also made some basic design plans. Goona start cadding soon. This took way too much time.
+
+Time: 7 hrs
+
+***Total Time: 24 hrs***
