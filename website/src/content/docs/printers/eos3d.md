@@ -86,3 +86,46 @@ Total hours on project: **11**
 Today, I did minimal work; however, I finished and placed the part cooling fan. Tomorrow, I will begin designing it and running CFD tests.
 
 ![Day 3 image update](https://cloud-qwtjk3wd0-hack-club-bot.vercel.app/0image.png)
+
+## Day 4 & 5 (February 5th-6th, 2025)
+
+Hours worked: **4**
+
+Total hours on project: **15**
+
+### First Fan Iteration Completed
+
+After extensive trial and error, I have an initial design for the fan duct. The goal was to implement a dual exhaust setup, which presents more challenges but should enable more even cooling across the print.
+
+Next Steps Before CFD Analysis:
+
+- Raise the outlets so they are positioned above the nozzle.
+- Adjust the outlet angles to prevent airflow from hitting the nozzle.
+- Increase clearance to the hotend to prevent outlet deformation
+
+With these changes, I plan to start optimizing the design tomorrow before running CFD simulations. Below are images of the fan duct (rear view) and the complete model in its current form.
+
+![Fan duct from the rear](https://cloud-atf9xpxe3-hack-club-bot.vercel.app/0image.png)
+
+![Day 4 & 5 image update](https://cloud-cyy5r3rz6-hack-club-bot.vercel.app/0image.png)
+
+## Day 6 (February 7th, 2025)
+
+Hours worked: **5**
+Total hours on project: **20**
+
+Here’s a more polished and engaging version of your text:
+
+---
+
+With the latest changes in place, it was finally time to put the design through CFD analysis. Having never used CFD software before, I knew this would be a challenging process.
+
+I initially tried Autodesk CFD and ANSYS Workbench, but getting them to work felt overwhelming. Eventually, I discovered SimScale, which turned out to super user-friendly. I followed [this YouTube tutorial](https://www.youtube.com/watch?v=1pMJQetyA4A) to set everything up.
+
+After a long computation wait, I finally got to see the airflow results—and they were really bad. Not entirely surprising for an initial design, but definitely something to improve. The results are shown below:
+
+![CFD Results](https://cloud-k9c5y4oho-hack-club-bot.vercel.app/0image.png)
+
+Tomorrow, I’ll begin optimizing the design and rerun the CFD analysis to see how much improvement can be made.
+
+![Day 6 image update](https://cloud-9hjadb36g-hack-club-bot.vercel.app/0image.png)
