@@ -10,7 +10,7 @@ Made by: Henry([@HenryNerd](https://github.com/HenryNerd))
 
 Repository Link: [https://github.com/Echo-Labs-Development/Quantum-One](https://github.com/Echo-Labs-Development/Quantum-One)
 
-Total Hours: 16 Hours
+Total Hours: 18 Hours
 
 ## Goals
 - Quiet enough to be next to you on your desk
@@ -32,9 +32,9 @@ Total Hours: 16 Hours
 | 2.2.25 | 4 Hours |
 | 2.3.25 | 5 Hours |
 | 2.5.25 | 1 Hours |
-| 2.8.25 | 4 Hours |
+| 2.8.25 | 6 Hours |
 
-### Total Hours: 16 Hours
+### Total Hours: 18 Hours
 
 ## BOM
  | Item Name | Link | Quanity | Price |
