@@ -112,6 +112,7 @@ With these changes, I plan to start optimizing the design tomorrow before runnin
 ## Day 6 (February 7th, 2025)
 
 Hours worked: **5**
+
 Total hours on project: **20**
 
 ### Computational Fluid Dynamics
@@ -131,6 +132,7 @@ Tomorrow, I’ll begin optimizing the design and rerun the CFD analysis to see h
 ## Day 7 (February 8th, 2025)
 
 Hours worked: **6**
+
 Total hours on project: **26**
 
 ### Finishing the Part Cooling Duct
@@ -199,3 +201,17 @@ Before I end this journal entry, I want to mention that I did use AI (specifical
 Tomorrow, I will be finishing off the toolhead with the mount for the Cartographer and PicoMMU "Hub."
 
 ![Day 7 Image Update](https://i.imgur.com/9SSzpzn.png)
+
+## Day 8 (February 10th, 2025)
+
+Hours worked: **2**
+
+Total hours on project: **28**
+
+### Finishing the toolhead
+
+Today, I modified the part cooling fan mount to improve its aesthetics and structural integrity. I also installed the Cartographer probe using a simple mount. Tomorrow, I will begin working on the X-axis!
+
+Note: The PicoMMU infrastructure will be added after the initial prototype is completed.
+
+![Day 8 Image Update](https://i.imgur.com/wGMOnia.png)
