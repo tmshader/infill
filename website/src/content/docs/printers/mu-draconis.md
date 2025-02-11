@@ -5,6 +5,14 @@ project_name: "Mu Draconis"
 repository: "https://raw.githubusercontent.com/WilliamPrime/Mu-Draconis/refs/heads/main/design.md"
 ---
 # mu draconis
+Made by : William
+respository link: https://github.com/WilliamPrime/Mu-Draconis
+Total hours: Arround 5
+
+i have a 3d printer :D
+
+
+
 
 pitch, make a polar 3d printer, not because its practical, but because its something different :D
 
@@ -70,3 +78,16 @@ current rough BOM
 | Fushi LM8-UU/2pcs              | £9.79         |                                                                                                  |
 | Fushi LM8-LUU/2pcs             | £12.29        |                                                                                                  |
 
+
+
+# update 08/02/2025
+put another 2 or 3 hours into sketching out how im going to get this to work
+finally managed to start getting stuff modelled in fusion 360
+
+<img src="https://cloud-jr0f3cjmn-hack-club-bot.vercel.app/0image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+the belting seems daunting but i recon its going to be nice
+
+ive struggled to try and model the bed as almost all of the technical drawing on the aliexpress listings are horrible 

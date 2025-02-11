@@ -86,3 +86,116 @@ Total hours on project: **11**
 Today, I did minimal work; however, I finished and placed the part cooling fan. Tomorrow, I will begin designing it and running CFD tests.
 
 ![Day 3 image update](https://cloud-qwtjk3wd0-hack-club-bot.vercel.app/0image.png)
+
+## Day 4 & 5 (February 5th-6th, 2025)
+
+Hours worked: **4**
+
+Total hours on project: **15**
+
+### First Fan Iteration Completed
+
+After extensive trial and error, I have an initial design for the fan duct. The goal was to implement a dual exhaust setup, which presents more challenges but should enable more even cooling across the print.
+
+Next Steps Before CFD Analysis:
+
+- Raise the outlets so they are positioned above the nozzle.
+- Adjust the outlet angles to prevent airflow from hitting the nozzle.
+- Increase clearance to the hotend to prevent outlet deformation
+
+With these changes, I plan to start optimizing the design tomorrow before running CFD simulations. Below are images of the fan duct (rear view) and the complete model in its current form.
+
+![Fan duct from the rear](https://cloud-atf9xpxe3-hack-club-bot.vercel.app/0image.png)
+
+![Day 4 & 5 image update](https://cloud-cyy5r3rz6-hack-club-bot.vercel.app/0image.png)
+
+## Day 6 (February 7th, 2025)
+
+Hours worked: **5**
+Total hours on project: **20**
+
+### Computational Fluid Dynamics
+
+With the latest changes in place, it was finally time to put the design through CFD analysis. Having never used CFD software before, I knew this would be a challenging process.
+
+I initially tried Autodesk CFD and ANSYS Workbench, but getting them to work felt overwhelming. Eventually, I discovered SimScale, which turned out to super user-friendly. I followed [this YouTube tutorial](https://www.youtube.com/watch?v=1pMJQetyA4A) to set everything up.
+
+After a long computation wait, I finally got to see the airflow results—and they were really bad. Not entirely surprising for an initial design, but definitely something to improve. The results are shown below:
+
+![CFD Results](https://cloud-k9c5y4oho-hack-club-bot.vercel.app/0image.png)
+
+Tomorrow, I’ll begin optimizing the design and rerun the CFD analysis to see how much improvement can be made.
+
+![Day 6 image update](https://cloud-9hjadb36g-hack-club-bot.vercel.app/0image.png)
+
+## Day 7 (February 8th, 2025)
+
+Hours worked: **6**
+Total hours on project: **26**
+
+### Finishing the Part Cooling Duct
+
+After reflecting on yesterday’s analysis, I decided to try a different ducting style to improve overall airflow. This new design features a 180° duct, which I hoped would distribute air more evenly. I started by sketching the outlet, connecting it to the rest of the duct, and running it through CFD. After setting everything up, I obtained the following result:
+
+### CFD Run 1
+
+![CFD Result #1 Top](https://i.imgur.com/rm9JAMS.png)  
+![CFD Result #1 Bottom](https://i.imgur.com/449ZwhY.jpeg)
+
+As shown in the results, the airflow was heavily biased to the left, causing a lack of airflow through the right slit and the exit airflow being angled.
+
+For the next iteration, I attempted to make the turn more gradual to prevent the airflow from favoring the left.
+
+### CFD Run 2
+
+![CFD Result #2 Top](https://i.imgur.com/cQY05Y3.jpeg)  
+![CFD Result #2 Bottom](https://i.imgur.com/9QuFZ5z.jpeg)
+
+The results looked good! However, there were still three issues:
+
+- The airflow was still left-biased.
+- There was a lot of extra space (look at the top left and bottom right of the ducts).
+- **There was no airflow through the rightmost duct when there was no object "printing," as shown below. This is the big one.**
+
+![CFD Result #2 Top No object](https://i.imgur.com/5xNnrAn.png)
+
+For the next run, I made some adjustments to the ducting to make it more smooth and prevent the sharp corner. I also made the throat leading up to the outlet smaller and added a fillet to the outermost outlets.
+
+### CFD Run 3
+
+![CFD Result #3 Top](https://i.imgur.com/xYugXyW.png)  
+![CFD Result #3 Bottom](https://i.imgur.com/Xg528Hg.png)
+
+With the throat being tighter, I was hoping for the air to be forced into the right side; however, this was not the case.
+
+I then made the interior of the outlet slightly smaller horizontally so there was less open space and made some adjustments to the ducting leading up to the outlet.
+
+### CFD Run 4
+
+![CFD Result #4 Top](https://i.imgur.com/EZKamch.png)  
+![CFD Result #4 Bottom](https://i.imgur.com/hZ71szV.png)
+
+These changes were a big step forward in resolving the overall bias issue. There was still some airflow lacking on the right side; however, the airflow was less skewed.
+
+For the next run, I added a barrier down the middle to help balance the airflow between the two halves.
+
+### CFD Run 5
+
+![CFD Result #5 Top](https://i.imgur.com/A07nN1U.png)  
+![CFD Result #5 Bottom](https://i.imgur.com/Jgu06fH.png)
+
+Adding the barrier finally solved the issue, and there is really nice flow. It pretty much goes straight down the middle, and each slit is getting sufficient airflow. I decided this was good enough and moved on.
+
+The only thing I would really change is the angle of the slits, but this design is sufficient and looks nicer.
+
+### Post CFD
+
+With the part cooling fan optimized, I quickly designed a mount for everything and called it a night.
+
+### Note
+
+Before I end this journal entry, I want to mention that I did use AI (specifically ChatGPT) to assist me in optimizing the design. I have no formal education in this space and no mentors to help me out, so using AI was my best bet.
+
+Tomorrow, I will be finishing off the toolhead with the mount for the Cartographer and PicoMMU "Hub."
+
+![Day 7 Image Update](https://i.imgur.com/9SSzpzn.png)
