@@ -155,3 +155,9 @@ X3:
   description: "A cheap CoreXY printer that can be made with a Bambu Lab A1 Mini"
   repository: "https://raw.githubusercontent.com/3XAY/X3-3DP/refs/heads/main/JOURNAL.md"
   file_name: x3.md
+
+GreenSpool:
+  title: "GreenSpool"
+  description: "A green 3D printer that can use plastic as filament"
+  repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/ref/heads/main/JOURNAL.md"
+  file_name: GreenSpool.md
