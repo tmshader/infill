@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Launchpad',
+			title: 'Infill',
 			customCss: [
 				// Relative path to your @font-face CSS file.
 				'./src/styles/custom.css',

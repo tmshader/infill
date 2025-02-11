@@ -3,7 +3,7 @@ title: Overview
 description: how to get started
 ---
 
-Welcome to launchpad! (name pending). This is your chance to join 50 other hack clubbers in designing your own 3D printer. I'm more or less modelling this based on my experience building [Neutrino](https://theopenary.com/neutrino), which is a compact, portable 3D printer I designed *from scratch* for under $250 USD. 
+Welcome to infill! In-*fill* the gaps you see in 3D printing with your own printer design. This is *your* chance to join 50 other hack clubbers in designing your own 3D printer. I'm more or less modelling this based on my experience building [Neutrino](https://theopenary.com/neutrino), which is a compact, portable 3D printer I designed *from scratch* for under $250 USD. 
 
 **Here's how everything is going to work:**
 

@@ -19,7 +19,7 @@ You don't! However it is *incredibly* hard to do so without a printer so I highl
 Written updates! Here's what to do:
 - Make a repository for your printer on your account
 - Create a file called JOURNAL.md, LOGS.md, or pretty much whatever you want to call it!
-- Get the URL to that file. Edit the [config.yaml file](https://github.com/qcoral/sigmazero/blob/main/doc_update_script/config.yaml) of this website to add your printer to the list!
+- Get the URL to that file. Edit the [config.yaml file](https://github.com/hackclub/infill/blob/main/doc_update_script/config.yaml) of this website to add your printer to the list!
 - Within 30 minutes, your journal will automagically be added to the website! Automation by yours truly.
 
 Reminder to NOT reference static assets in your markdown file. Please use #cdn in the slack and paste links there instead! Otherwise the entire verce deployment will break and I'll have to hunt you down :peefest:
