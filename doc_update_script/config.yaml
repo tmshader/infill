@@ -114,6 +114,18 @@ Comet-eer:
   repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/LOGS.md"
   file_name: comet-eer.md
 
+Volt-core:
+  title: "VoltCore"
+  description: "Battery-powered 3d printer to print without access to any nearby outlets!"
+  repository: "https://raw.githubusercontent.com/TheRealMopcornPuncher/VoltCore/refs/heads/main/CAPTAINSLOG.md"
+  file_name: volt-core.md
+
+Infinixar:
+  title: "Infinixar"
+  description: "CoreXY printer, with extending y axis dimensions"
+  repository: "https://raw.githubusercontent.com/GaoYeGithub/Infinixar/refs/heads/main/README.md"
+  file_name: infinxar.md
+
 Open Threads:
   title: "Open Threads"
   description: "An attempt at making a sub $200 3D printer from scratch out of mostly printed parts"
@@ -149,3 +161,9 @@ Xyron:
   description: "A really simple and basic cheap CoreXY printer"
   repository: "https://raw.githubusercontent.com/Rikhav21/Xyron/refs/heads/main/design.md"
   file_name: xyron.md
+
+GreenSpool:
+  title: "GreenSpool"
+  description: "A green 3D printer that can use plastic as filament"
+  repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/ref/heads/main/JOURNAL.md"
+  file_name: GreenSpool.md
