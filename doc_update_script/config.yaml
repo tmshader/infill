@@ -155,6 +155,12 @@ X3:
   description: "A cheap CoreXY printer that can be made with a Bambu Lab A1 Mini"
   repository: "https://raw.githubusercontent.com/3XAY/X3-3DP/refs/heads/main/JOURNAL.md"
   file_name: x3.md
+  
+Xyron:
+  title: "Xyron"
+  description: "A really simple and basic cheap CoreXY printer"
+  repository: "https://raw.githubusercontent.com/Rikhav21/Xyron/refs/heads/main/design.md"
+  file_name: xyron.md
 
 GreenSpool:
   title: "GreenSpool"
