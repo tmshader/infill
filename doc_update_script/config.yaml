@@ -113,8 +113,8 @@ Comet-eer:
   description: "A 3d printer that is easy to assemble, disassemble and store"
   repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/LOGS.md"
   file_name: comet-eer.md
- 
- Axilab:
+
+Axilab:
   title: "Axilab"
   description: "A fast, cheap and elegant 3d printer with a modern design"
   repository: "https://raw.githubusercontent.com/Rayanlupo/Axilab/refs/heads/main/progresses.md"
