@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/TheRealMopcornPuncher/VoltCore/re
 ---
 Made by: @Amaya
 Repository link: https://github.com/TheRealMopcornPuncher/VoltCore
-Total hours so far: 3 hrs 40 mns
+Total hours so far: 8 hrs 5 mins
 - [x] I have a 3d printer or will be getting one before March 21st
 ---
 < Briefing >
@@ -81,3 +81,39 @@ Total time elapsed: 1 hr 40 mins
 
 ---
 
+# Day 2
+### Feb 6, 2025
+
+Today was a little hectic so I'm mostly just pushing myself to keep going for the sake of progress. Maybe I'll get some coffee... besides the point though. 
+
+Attempts to fill out my bill of materials went pretty good today. I got a lot done in terms of meeting my Feb 11th deadline. The help of my brother, who's an experienced engineer, came in handy quite often since he knew more about this than I did, and told me whenever I added something that wouldn't work to the BOM, as well as giving me recommendations on where to look and what I could use.
+
+I also am deciding the keep track of what 3d printed parts I'll need to model and make for this printer to function:
+- Bed mounting bracket
+- Extruder fan shroud and mounting bracket
+
+Total time elapsed: 2 hrs 25 mins
+
+---
+
+# HIATUS PERIOD: Feb 6th - Feb 12th
+### Project resumed.
+
+I'll admit, I gave up. I didn't think I knew enough, I ran out of motivation, and there it just felt like this whole thing was a waste of time for someone inexperienced like me.
+
+Then, I rejected that philosophy. Of course there was going to be hurdles, there always is. I just needed to get back up and keep working. Nothing I've ever done happened unless I told myself I could be capable, and I'm doing that right now.
+
+---
+
+# Day 3
+### Feb 12th, 2025
+
+Running partially behind schedule, I knew I needed to catch up, so I decided to use my time on this day to finish my B.O.M. and move on.
+
+My biggest issue was the cost of the parts. In their current state, I was up to over 300 dollars, and not even completely done with the list. To cut down on cost, I began looking for cheaper alternatives to my existing parts.
+
+I devised a plan regarding the frame: The bed would be 3d printed at a size contained inside of a 100mm by 100mm space and would be covered with masking tape. Frame will be joined with aluminum extrusions and metal brackets, then reinforced with 3d printed corner braces.
+
+I ended up revising literally everything in my BOM and got the price down quite a bit. The next steps would be to figure out what I'm doing for my extruder and hotend, cooling fans, and my z axis.
+
+Total time elapsed: 2 hrs
