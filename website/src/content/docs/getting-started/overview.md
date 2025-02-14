@@ -24,7 +24,7 @@ For Neutrino, I wanted to do a couple things:
 
 It'll be different for every printer, but hopefully that gives an idea!
 
-Once you have that sorted - get away to planning, 3D modelling, PCB designing, etc. Draw sketches. Post in #3d-printer-ysws often! We're all in this together
+Once you have that sorted - get away to planning, 3D modelling, PCB designing, etc. Draw sketches. Post in #infill often! We're all in this together
 
 (Btw: You DON'T have to design all the electronics, but I ask you design at least ONE pcb for a function of your choosing. Whether that be a display, a toolhead PCB or sometihng else!)
 
