@@ -2,9 +2,9 @@
 import Airtable from 'airtable';
 import 'dotenv/config'
 
-console.log(process.env.AIRTABLE_API_KEY);
+console.log(process.env.NEXT_PUBLIC_AIRTABLE_API_KEY);
 
-const base = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY }).base(process.env.AIRTABLE_BASE_ID);
+const base = new Airtable({ apiKey: process.env.NEXT_PUBLIC_AIRTABLE_API_KEY }).base(process.env.NEXT_PUBLIC_AIRTABLE_BASE_ID);
 
 export default async function handler(req, res) {
   if (req.method === 'POST') {
