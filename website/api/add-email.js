@@ -2,9 +2,9 @@
 import Airtable from 'airtable';
 import 'dotenv/config'
 
-console.log(process.env.NEXT_PUBLIC_AIRTABLE_API_KEY);
+console.log(process.env.AIRTABLE_API_KEY);
 
-const base = new Airtable({ apiKey: process.env.NEXT_PUBLIC_AIRTABLE_API_KEY }).base(process.env.NEXT_PUBLIC_HACKAPET_BASE_ID);
+const base = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY }).base(process.env.AIRTABLE_BASE_ID);
 
 export default async function handler(req, res) {
   if (req.method === 'POST') {
@@ -17,7 +17,7 @@ export default async function handler(req, res) {
 
     try {
       // Check if the email already exists in Airtable
-      const records = await base('pets')
+      const records = await base('printers')
         .select({
           filterByFormula: `{email} = "${email}"`,
           maxRecords: 1,
@@ -29,7 +29,7 @@ export default async function handler(req, res) {
       }
 
       // Add the email to Airtable
-      await base('pets').create([{ fields: { email } }]);
+      await base('printers').create([{ fields: { email } }]);
 
       return res.status(200).json({ message: 'Email successfully added!' });
     } catch (error) {
