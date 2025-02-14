@@ -3,7 +3,7 @@
 Infinite Benchy Theorem:
   title: "Infinite Benchy Theorem"
   description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
-  repository: "https://raw.githubusercontent.com/qcoral/infinite-benchy-theorem/refs/heads/main/design.md"
+  repository: "https://raw.githubusercontent.com/qcoral/infinite-benchy-theorem/refs/heads/main/journal.md"
   file_name: infinite_benchy_theorem.md
 
 Radeon:
@@ -92,7 +92,7 @@ pixl:
 
 Veloce:
   title: "Veloce"
-  description: "A powerful, fast, precise CoreXY 3D printer, to innovate on z-axis correction to get more reliable printing"
+  description: "A powerful, fast, precise CoreXY 3D printer, to get more reliable printing"
   repository: "https://raw.githubusercontent.com/RR-CREATOR/Veloce/refs/heads/main/DESIGN.md"
   file_name: veloce.md
 
@@ -111,5 +111,65 @@ Nighthawk:
 Comet-eer:
   title: "Comet-eer"
   description: "A 3d printer that is easy to assemble, disassemble and store"
-  repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/README.md"
+  repository: "https://raw.githubusercontent.com/Froppii/comet-eer/refs/heads/main/LOGS.md"
   file_name: comet-eer.md
+
+Axilab:
+  title: "Axilab"
+  description: "A fast, cheap and elegant 3d printer with a modern design"
+  repository: "https://raw.githubusercontent.com/Rayanlupo/Axilab/refs/heads/main/progresses.md"
+  file_name: axilab.md
+
+Volt-core:
+  title: "VoltCore"
+  description: "Battery-powered 3d printer to print without access to any nearby outlets!"
+  repository: "https://raw.githubusercontent.com/TheRealMopcornPuncher/VoltCore/refs/heads/main/CAPTAINSLOG.md"
+  file_name: volt-core.md
+
+Infinixar:
+  title: "Infinixar"
+  description: "CoreXY printer, with extending y axis dimensions"
+  repository: "https://raw.githubusercontent.com/GaoYeGithub/Infinixar/refs/heads/main/README.md"
+  file_name: infinxar.md
+
+Open Threads:
+  title: "Open Threads"
+  description: "An attempt at making a sub $200 3D printer from scratch out of mostly printed parts"
+  repository: "https://raw.githubusercontent.com/evan-gan/3D-printer/refs/heads/main/journal.md"
+  file_name: open-threads.md
+
+Candy-V1:
+  title: "Candy-V1"
+  description: "A 4-axis 3D printer"
+  repository: "https://raw.githubusercontent.com/Outdatedcandy92/CandyV1/refs/heads/main/candy_v1.md"
+  file_name: candy_v1.md 
+
+Arcadius:
+  title: "Arcadius"
+  description: "Arcade Claw Machine-style printer"
+  repository: "https://raw.githubusercontent.com/PonderSlime/Arcadius---3D-Printer/refs/heads/main/design.md"
+  file_name: Arcadius.md
+
+Reppa:
+  title: "Reppa"
+  description: "A coreXY printer with klipper"
+  repository: "https://raw.githubusercontent.com/KOEGlike/reppa/refs/heads/main/LOG.md"
+  file_name: reppa-log.md
+
+X3:
+  title: "X3"
+  description: "A cheap CoreXY printer that can be made with a Bambu Lab A1 Mini"
+  repository: "https://raw.githubusercontent.com/3XAY/X3-3DP/refs/heads/main/JOURNAL.md"
+  file_name: x3.md
+  
+Xyron:
+  title: "Xyron"
+  description: "A really simple and basic cheap CoreXY printer"
+  repository: "https://raw.githubusercontent.com/Rikhav21/Xyron/refs/heads/main/design.md"
+  file_name: xyron.md
+
+GreenSpool:
+  title: "GreenSpool"
+  description: "A green 3D printer that can use plastic as filament"
+  repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/ref/heads/main/JOURNAL.md"
+  file_name: GreenSpool.md

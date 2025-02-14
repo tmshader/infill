@@ -5,6 +5,13 @@ project_name: "Quantum One"
 repository: "https://raw.githubusercontent.com/Echo-Labs-Development/Quantum-One/main/plan.md"
 ---
 # The Plan
+
+Made by: Henry([@HenryNerd](https://github.com/HenryNerd))
+
+Repository Link: [https://github.com/Echo-Labs-Development/Quantum-One](https://github.com/Echo-Labs-Development/Quantum-One)
+
+Total Hours: 18 Hours
+
 ## Goals
 - Quiet enough to be next to you on your desk
 - Easly Hackable
@@ -24,21 +31,13 @@ repository: "https://raw.githubusercontent.com/Echo-Labs-Development/Quantum-One
 | 2.1.25 | 2 Hours |
 | 2.2.25 | 4 Hours |
 | 2.3.25 | 5 Hours |
+| 2.5.25 | 1 Hours |
+| 2.8.25 | 6 Hours |
 
-### Total Hours: 11 Hours
+### Total Hours: 18 Hours
 
 ## BOM
- | Item Name | Link | Quanity | Price |
- | ----------- | ----------- | ----------- | ----------- |
- | C13 Plug | [https://www.aliexpress.us](https://www.aliexpress.us/item/3256801329405382.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.5.215f0JFN0JFNG6&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=f89a4215-d87d-42ec-8886-ad6b7e9bac40&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:f89a4215-d87d-42ec-8886-ad6b7e9bac40,tpp_buckets:668%232846%238112%231997&pdp_npi=4%40dis%21USD%210.89%210.89%21%21%210.89%210.89%21%402101ec1f17384603334741240e06be%2112000016423634683%21rec%21US%21%21ABXZ&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A) | x1 | $1.69 |
- | BIGTREETECH Octopus V1.1 | [https://biqu.equipment](https://biqu.equipment/products/bigtreetech-octopus-v1-1?variant=39749193990242) | x1 | $59.65 |
- | RJ-45 Ethernet Panel Mount | [https://www.adafruit.com](https://www.adafruit.com/product/4130) | x1 | $5.95 |
- | Usb-C Panel Mount | [https://www.adafruit.com](https://www.adafruit.com/product/4259) | x1 | $5.95 |
- | 24v 220x220 PCB Bed Heater | [https://www.aliexpress.us](https://www.aliexpress.us/item/3256807814642251.html?spm=a2g0o.productlist.main.17.981813aeOB3Hfn&algo_pvid=90e91e82-7bb1-45e6-b3d9-c68414ed180c&algo_exp_id=90e91e82-7bb1-45e6-b3d9-c68414ed180c-8&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%2112.68%2112.68%21%21%2112.68%2112.68%21%402103245417386310408614140e5d96%2112000043217585410%21sea%21US%210%21ABX&curPageLogUid=BDLcSioq41uV&utparam-url=scene%3Asearch%7Cquery_from%3A) | x1 | $12.68 |
- | E3D Revo Micro | [https://www.3djake.com](https://www.3djake.com/e3d/revo-micro) | x1 | $47.51  |
- | | | Total Price | $133.43 |
- 
-All Prices USD. Shiping and Tax Not Included
+[BOM.md](https://github.com/Echo-Labs-Development/Quantum-One/blob/8280ed5a5fece50f8bd1d9ca4763da4ab5bdc901/BOM.md)
 
 ## Roadmap
 - [ ] Create CAD Model
@@ -60,8 +59,24 @@ All Prices USD. Shiping and Tax Not Included
 | Item | Power Draw |
 | ------ | ------ |
 | PCB Bed Heater | 200w |
-| Hotend Ceramic Heater | 115w |
-| | 315w |
+| Hotend Ceramic Heater | 70w |
+| | 270w |
 
 ## Skirt (Unfinished)
 ![Half Finished Skirt](https://cloud-o589vt3c5-hack-club-bot.vercel.app/0screenshot_2025-02-03_at_9.30.14___pm.png)
+
+## Meteorite Toolhead
+The Meteorite Toolhead is a custom toolhead designed 
+
+## Timeline
+Mar 1st - Finish Design
+
+Mar 16th - Start Build
+
+Apr 5th - Finish Build
+
+Apr 23rd - Finish Tuning
+
+May 2nd - Ship to RMRRF
+
+May 16th - Ship Myself to RMRRF
