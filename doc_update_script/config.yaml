@@ -173,3 +173,9 @@ GreenSpool:
   description: "A green 3D printer that can use plastic as filament"
   repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/ref/heads/main/JOURNAL.md"
   file_name: GreenSpool.md
+
+Ducc it:
+  title: "Ducc it"
+  description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
+  repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
+  file_name: Ducc-it.md
