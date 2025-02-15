@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/Rikhav21/Xyron/refs/heads/main/de
 ---
 made by @Rmardia \
 Repositiory link: https://github.com/Rikhav21/Xyron \
-Total hours so far: 10
+Total hours so far: 15.5
 - [x] I have a 3d printer right now.
 # Day one
 ## Research
@@ -27,3 +27,12 @@ Today I learnt a little bit more about onShape and got continued with the assemb
 Today I continues working on the gantry and now have to work on the tool head. The X and Y linear rods are finished with the modeling.
 ## Time
 2 hours.
+# Day four
+## Design
+Today I did a lot of work on the gantry, and added some screws on the assembally, however I realized that I forgot about the idelers, so I have to do that later. 
+## Time
+Today I spent 2 hours on the design.
+# Day five
+## Design
+Today I have redesign a lot of the parts because I forgot the idlers, I also redid the assembally and a ton of the parts, It was so annoying that I had to make so many changes for one tiny thing
+Time 3 and a half hours.
