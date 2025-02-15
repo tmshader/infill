@@ -214,4 +214,16 @@ Today, I modified the part cooling fan mount to improve its aesthetics and struc
 
 Note: The PicoMMU infrastructure will be added after the initial prototype is completed.
 
-![Day 8 Image Update](https://i.imgur.com/wGMOnia.png)
+![Day 8 Image Update](https://i.imgur.com/o4ZAloN.png)
+
+## Day 9, 10, & 11 (February 11th-13th)
+
+Hours worked: **5**
+
+Total hours on project: **33**
+
+### Begin the X axis
+
+Over the past few days, I implemented the belting for the X-axis using a clamping system that secures the belt with a screw. The endplate design is based on the Prusa Mini, as it was the simplest solution after testing other strategies.
+
+![Day 9 Image Update](https://cdn.hack.pet/slackcdn/2b69338b3eaa71c53f2630c2b68fa211.png)

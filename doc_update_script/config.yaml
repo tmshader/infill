@@ -179,3 +179,9 @@ Prometheus:
   description: "A desktop CoreXY prototyping printer"
   repository: "https://raw.githubusercontent.com/quexeky/prometheus/refs/heads/main/LOGBOOK.md"
   file_name: Prometheus.md
+
+Ducc it:
+  title: "Ducc it"
+  description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
+  repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
+  file_name: Ducc-it.md
