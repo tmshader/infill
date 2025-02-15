@@ -189,6 +189,10 @@ There's also a concept sketch that I will put on here sometime
 Evan: 0h
 Aaron: 0h
 
+random thought from Evan: What if the Z axis was telescoping or something
+![image](https://github.com/user-attachments/assets/70f3963c-5d15-45f7-8c60-03f8c70ef597)
+
+
 14th: We spent the day preparing for a robotics competition
 
 15th: Competition Day
