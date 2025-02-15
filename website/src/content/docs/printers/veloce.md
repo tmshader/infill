@@ -17,9 +17,9 @@ Research on feasibility, ideas, premade projects, and deciding goals, along with
 Goals: 
 - Can print high quality
 - Core XY
-- Can print pla, petg and tpu
+- Can print pla, petg
 - Speed >300 mm/s
-- Build volume >=25cm^3
+- Build volume around 25 cm^3
 
 Read up, watched many videos on how i could start with the design and building
 
@@ -59,4 +59,11 @@ Also made some basic design plans. Goona start cadding soon. This took way too m
 
 Time: 7 hrs
 
-***Total Time: 24 hrs***
+# **Day 5**
+
+Decided to use an aluminium frame to get faster speeds, also 300x300 bed could cause wayyy to many issues on first time build, and cant find any close to 250, so gonna do 235x235 bed now,
+so changed BOM and re finalized it. Still gonna keep double z as i want to achieve high quality at faster speeds, so going to try to implement closed loop fixing for realtime z correction and print condition adjustment. Hopefully am able to mk smtg that can print high quality at 500+ speeds. Using cartographer with adxl345 so dont need piezo.
+
+Time: 4 hrs
+
+***Total Time: 28 hrs***

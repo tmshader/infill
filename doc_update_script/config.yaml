@@ -179,3 +179,21 @@ ChaosCompiler:
   description: "A 3d printer"
   repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/refs/heads/main/notes.md"
   file_name: chaos_compiler.md
+
+erLay:
+  title: "erLay"
+  description: "A ultra portable 3D printer designed for competitions"
+  repository: "https://raw.githubusercontent.com/Badbird5907/erLay/refs/heads/master/README.md"
+  file_name: erLay.md
+
+Prometheus:
+  title: "Prometheus"
+  description: "A desktop CoreXY prototyping printer"
+  repository: "https://raw.githubusercontent.com/quexeky/prometheus/refs/heads/main/LOGBOOK.md"
+  file_name: Prometheus.md
+
+Ducc it:
+  title: "Ducc it"
+  description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
+  repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
+  file_name: Ducc-it.md

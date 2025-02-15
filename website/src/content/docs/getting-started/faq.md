@@ -7,6 +7,7 @@ You'll be given an HCB grant. ALL purchases you need funded by HQ must fit withi
 
 #### Can I use parts I already have?
 You can! The only requirement I ask is that you keep the total value of your printer under $500 USD, excluding printed parts. This is to make it somewhat accessible to other hack clubbers!
+
 #### Can I work with a team?
 You can! Several limitations:
 - If both of you want a travel stipend, each of you must put in at least 125+ hours of work. Log your time in written updates
