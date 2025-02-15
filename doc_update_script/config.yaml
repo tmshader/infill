@@ -1,11 +1,5 @@
 ## Add your printers below
 
-ChaosCompiler:
-  title: "Chaos complied"
-  description: "A 3d printer"
-  repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/refs/heads/main/notes.md"
-  file_name: journal_ig.md
-
 Infinite Benchy Theorem:
   title: "Infinite Benchy Theorem"
   description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
@@ -179,3 +173,9 @@ GreenSpool:
   description: "A green 3D printer that can use plastic as filament"
   repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/ref/heads/main/JOURNAL.md"
   file_name: GreenSpool.md
+
+ChaosCompiler:
+  title: "Chaos complied"
+  description: "A 3d printer"
+  repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/refs/heads/main/notes.md"
+  file_name: chaos_compiler.md
