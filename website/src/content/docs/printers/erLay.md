@@ -184,3 +184,11 @@ So the idea was to have both the gantry and the bed fold up but after an hour of
 
 There's also a concept sketch that I will put on here sometime
 
+### Feb 14 & 15 2025
+
+Evan: 0h
+Aaron: 0h
+
+14th: We spent the day preparing for a robotics competition
+
+15th: Competition Day
