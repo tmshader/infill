@@ -174,6 +174,12 @@ GreenSpool:
   repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/ref/heads/main/JOURNAL.md"
   file_name: GreenSpool.md
 
+erLay:
+  title: "erLay"
+  description: "A ultra portable 3D printer designed for competitions"
+  repository: "https://raw.githubusercontent.com/Badbird5907/erLay/refs/heads/master/README.md"
+  file_name: erLay.md
+
 Prometheus:
   title: "Prometheus"
   description: "A desktop CoreXY prototyping printer"
