@@ -12,8 +12,7 @@ Total Hours so far: 10
 
 ## Design Requirements
 - Core XY
-- Compact footprint (No more than 250x250xX, ideally 200x200xX)
-- Fast (ideally 300mm/s max speed with decent print quality)
+- High bed size/footprint ratio (>75%)
 - Decent print quality - suitable for prototyping but doesn't have to be perfect
 - Must have an extremely rigid body.
 
