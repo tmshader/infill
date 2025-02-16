@@ -41,5 +41,16 @@ Going to try and sort out the BOM today
 
 Worked on my bom, added steppers, aluminum rails, and linear rails.
 
+### Day 1 - 2/15/2025 - 10:36 PM
+
+Just did a super long work session ~6h, added a ton of things to the bom! Lead screw, motor bracket, coupler, build plate, linear bearings, and linear rods! Turns out Aliexpress is really my best friend...
+
+I did a ton of work on the CAD, doing pretty good with the cad so far: 
+
+<img src="https://github.com/user-attachments/assets/dc74fda4-12da-4dd2-87e0-a16a4c2017e8"
+     alt="Day 1 cad progress"
+     style="float: left; margin-right: 10px;" />
+
+I struggled quite a lot as im pretty new to fusion, but all seems to be good! 
 
 
