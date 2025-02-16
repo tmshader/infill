@@ -227,3 +227,15 @@ Total hours on project: **33**
 Over the past few days, I implemented the belting for the X-axis using a clamping system that secures the belt with a screw. The endplate design is based on the Prusa Mini, as it was the simplest solution after testing other strategies.
 
 ![Day 9 Image Update](https://cdn.hack.pet/slackcdn/2b69338b3eaa71c53f2630c2b68fa211.png)
+
+# Day 12 & 13 (February 14th-15th)
+
+Hours worked: **2**
+
+Total hours on project: **35**
+
+### Z Axis Work
+
+I have been working on the mounts and positioning of the Z-axis. Due to the simplicity of the design, not much work was required.
+
+![Day 12 Image Update](https://cdn.hackclubber.dev/slackcdn/9dd1866b2d3fc9640cf4d49463ad577b.png)

@@ -6,20 +6,17 @@ repository: "https://raw.githubusercontent.com/quexeky/prometheus/refs/heads/mai
 ---
 # Logbook
 
-Total Wakatime Hours so far: 0 (source: [wakatime](https://waka.hackclub.com))
-Total research Hours so far: 1 (source: logbook)
-Total Hours so far: 1
+Total Wakatime Hours so far: 1 (source: [wakatime](https://waka.hackclub.com))
+Total research Hours so far: 5 (source: logbook)
+Total Hours so far: 6
 
-## README
-A 3D printer created for Hackclub's [Infill](https://infill.hackclub.com)
-
-## Goals
+## Design Requirements
 - Core XY
 - Compact footprint (No more than 250x250xX, ideally 200x200xX)
 - Fast (ideally 300mm/s max speed with decent print quality)
 - Decent print quality - suitable for prototyping but doesn't have to be perfect
+- Must have an extremely rigid body.
 
-Essentially, I want a desktop prototyping printer
 
 ## Feb 13
 Found the project today. I've found a few resources such as 
@@ -50,13 +47,58 @@ Man some of this stuff is so fascinating lmao - 4.2Nm with 1.8 degrees would be 
 
 Just added the Datasheets folder with the [NEMA23](/Datasheets/NEMA23.pdf) datasheet. I'm thinking that I'll have to design the printer around whatever my printer choice is, because that is kinda the entire point of the printer. SPEED
 
+### 10:39
+Adding more references for useful parts
+
+### 11:08
+Looking into DigiKey options for motor options. Also adding design requirements
+
 #### References
-https://all3dp.com/2/voron-0-2-review-3d-printer-specs/
-https://vorondesign.com/voron0.2
-https://www.omc-stepperonline.com/nema-14-bipolar-1-8deg-40ncm-56-7oz-in-1-5a-4-2v-35x35x52mm-4-wires-14hs20-1504s
-https://www.omc-stepperonline.com/s-series-nema-24-bipolar-1-8deg-4-2nm-594-77oz-in-4-2a-60x60x100mm-4-wires-24hs40-4204s
+- Voron0.2 specs https://all3dp.com/2/voron-0-2-review-3d-printer-specs/
+- Voron0.2 website https://vorondesign.com/voron0.2
+- NEMA14 1.8 https://www.omc-stepperonline.com/nema-14-bipolar-1-8deg-40ncm-56-7oz-in-1-5a-4-2v-35x35x52mm-4-wires-14hs20-1504s
+- NEMA24 1.8 https://www.omc-stepperonline.com/s-series-nema-24-bipolar-1-8deg-4-2nm-594-77oz-in-4-2a-60x60x100mm-4-wires-24hs40-4204s
+- NEMA23 0.9 https://www.omc-stepperonline.com/nema-23-bipolar-0-9deg-1-26nm-178-4oz-in-2-8a-2-5v-57x57x56mm-4-wires-23hm22-2804s
+
+## Feb 14
+Woke up this morning to advice from Adam where he told me to design my toolhead first
+
+Change of plans. Forget going for high speed and quality, I've been talking to one of my
+TDU mentors who suggested going for a more specialty build, especially if this is going to 
+RMRRF. As a result, I'm going to try going for a really really high bed-to-footprint ratio,
+essentially something where the entire footprint is able to be printed on.
 
 
+## Feb 15
+More updates from today. Was out for a fair, bit, but ended up sketching a bit and talking to a guy who knows
+a fair bit. I think that I've settled on the idea of essentially going for a really high bed-to-footprint
+ratio and then makiong a reasonable desktop printer from that.
+
+Sketch idea: 
+![image](https://cdn.hack.pet/slackcdn/f102960383e244d649587c667af417c2.jpg)
+
+Essentially:
+- Fairly thin corner supports probably made from lead screws
+- Gantry / head is connected to lead screws in a frame (gantry not drawn in) which will not extend outside of the footprint
+- Lead screws are z-axis for either entire printer head or bed (probably bed because weight)
+- Feet for all lead screws probably with individual motors for ease of assembly
+
+
+More design ideas:
+- Bowden extruder for ease of design?
+- Might look into making the head completely removable
+- In general I'm going to take inspiration from the Ender 3 for the toolhead / extruder design
+
+Taking a look at this document for toolhead / extrusion system designs: 
+https://www.bcn3d.com/documents/The_anatomy_of_an_Extrusion_System_BCN3D_Technologies.pdf
+
+Also watching a few videos [like this one from 3DJake](https://www.youtube.com/watch?v=NMfFirtB1D4)
+for more in-depth content on actually designing things
+
+Hours spent today: 3
+
+## Feb 16
+Considering the EVA if only because it looks interesting: https://main.eva-3d.page/ 
 
 ## Resources
 Torque to Force calculator: https://calculator.academy/torque-to-force-calculator/
