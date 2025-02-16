@@ -7,8 +7,8 @@ repository: "https://raw.githubusercontent.com/quexeky/prometheus/refs/heads/mai
 # Logbook
 
 Total Wakatime Hours so far: 1 (source: [wakatime](https://waka.hackclub.com))
-Total research Hours so far: 5 (source: logbook)
-Total Hours so far: 6
+Total research Hours so far: 9 (source: logbook)
+Total Hours so far: 10
 
 ## Design Requirements
 - Core XY
@@ -99,6 +99,19 @@ Hours spent today: 3
 
 ## Feb 16
 Considering the EVA if only because it looks interesting: https://main.eva-3d.page/ 
+
+Actually looking more at the Voron Stealthburner now because apparently it's a lot more vertical
+than horizontal.
+
+### 7:59
+Been looking at the way that the toolhead itself is designed for the last hour or two. It's got quite a few interesting
+components, and I'll be making a sketch of my thoughts in a bit. I have decided that I want to go with a custom
+toolhead though
+
+### 10:08
+Scratch the sketch. Was busy for a bit between then and now and wasn't really able to do much. Going to go to sleep now.
+
+Total hours researching today: 4
 
 ## Resources
 Torque to Force calculator: https://calculator.academy/torque-to-force-calculator/
