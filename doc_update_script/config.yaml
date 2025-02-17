@@ -197,3 +197,9 @@ Ducc it:
   description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
+
+circumlocution:
+  title: "Circumlocution"
+  description: "A circular 3D printer that is more complicated than necessary."
+  repository: "https://raw.githubusercontent.com/headblockhead/circumlocution/refs/heads/master/JOURNAL.md"
+  file_name: circumlocution.md
