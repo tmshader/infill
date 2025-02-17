@@ -197,3 +197,9 @@ Ducc it:
   description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
+
+Your Printer Name:
+  title: "PrintLA"
+  description: "A small, portable, budget 3D Printer that uses PLA fillament."
+  repository: "  https://raw.githubusercontent.com/amino47/PrintLA-3D-Printer/refs/heads/main/JOURNAL.md"
+  file_name: PrintLA3D.md
