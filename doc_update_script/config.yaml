@@ -197,3 +197,9 @@ Ducc it:
   description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
+
+Lighthouse:
+  title: "Lighthouse"
+  description: "easy to build, easy to hack, quality focused CoreXY 3D Printer."
+  repository: "https://raw.githubusercontent.com/roschreiber/Lighthouse/refs/heads/main/JOURNAL.md"
+  file_name: Lighthouse.md
