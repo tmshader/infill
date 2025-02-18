@@ -198,6 +198,12 @@ Ducc it:
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
 
+Emancipator:
+  title: "Emancipator"
+  description: "A printer with the ability to automatically eject prints and start a new one."
+  repository: "https://raw.githubusercontent.com/Kaympe20/Emancipator/refs/heads/main/JOURNAL.md"
+  file_name: emancipator.md
+
 Hephaestus:
   title: "Hephaestus-1"
   description: "A simple CoreXY Printer"
