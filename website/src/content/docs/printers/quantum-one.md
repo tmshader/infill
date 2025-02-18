@@ -10,7 +10,9 @@ Made by: Henry([@HenryNerd](https://github.com/HenryNerd))
 
 Repository Link: [https://github.com/Echo-Labs-Development/Quantum-One](https://github.com/Echo-Labs-Development/Quantum-One)
 
-Total Hours: 18 Hours
+Total Hours: 27 Hours
+
+![Half Finished Skirt](https://cdn.hackclubber.dev/slackcdn/d5411b4c1f57aa26d3dc3938b8890322.png)
 
 ## Goals
 - Quiet enough to be next to you on your desk
@@ -33,8 +35,9 @@ Total Hours: 18 Hours
 | 2.3.25 | 5 Hours |
 | 2.5.25 | 1 Hours |
 | 2.8.25 | 6 Hours |
+| 2.8.25 | 6 Hours |
 
-### Total Hours: 18 Hours
+### Total Hours: 27 Hours
 
 ## BOM
 [BOM.md](https://github.com/Echo-Labs-Development/Quantum-One/blob/8280ed5a5fece50f8bd1d9ca4763da4ab5bdc901/BOM.md)
@@ -66,7 +69,10 @@ Total Hours: 18 Hours
 ![Half Finished Skirt](https://cloud-o589vt3c5-hack-club-bot.vercel.app/0screenshot_2025-02-03_at_9.30.14___pm.png)
 
 ## Meteorite Toolhead
-The Meteorite Toolhead is a custom toolhead designed 
+The Meteorite Toolhead is a custom toolhead designed specificly for the Quantum One. It uses a Triangle Lab CHC V6 and a LDO Orbiter v2.5. 
+
+
+![Meteorite Toolhead](https://cdn.hackclubber.dev/slackcdn/c8221ae918d158a0b5529569b7dc8516.png)
 
 ## Timeline
 Mar 1st - Finish Design
