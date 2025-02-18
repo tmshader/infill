@@ -7,14 +7,16 @@ repository: "https://raw.githubusercontent.com/quexeky/prometheus/refs/heads/mai
 # Logbook
 
 Total Wakatime Hours so far: 1 (source: [wakatime](https://waka.hackclub.com))
+
 Total research Hours so far: 9 (source: logbook)
+
 Total Hours so far: 10
 
 ## Design Requirements
 - Core XY
 - High bed size/footprint ratio (>75%)
+- 
 - Decent print quality - suitable for prototyping but doesn't have to be perfect
-- Must have an extremely rigid body.
 
 
 ## Feb 13
@@ -111,6 +113,13 @@ toolhead though
 Scratch the sketch. Was busy for a bit between then and now and wasn't really able to do much. Going to go to sleep now.
 
 Total hours researching today: 4
+
+## Feb 17
+### 9:16
+Scratch everything. I'm going to use a bowden tube for simplicity and because I've found a good hotend/coldend assembly to
+use from E3D: https://e3d-online.com/products/v6-all-metal-hotend?variant=40923457683515
+
+STL: https://www.printables.com/model/77449-e3d-v6-hotend-175mm
 
 ## Resources
 Torque to Force calculator: https://calculator.academy/torque-to-force-calculator/
