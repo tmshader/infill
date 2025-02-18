@@ -19,7 +19,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 ## Total Time
 
 Aaron: 9h
-Evan: 4h
+Evan: 6h
 
 ## Log
 
@@ -196,3 +196,34 @@ random thought from Evan: What if the Z axis was telescoping or something
 14th: We spent the day preparing for a robotics competition
 
 15th: Competition Day
+
+### Feb 17 2025
+
+Evan: 2h
+Aaron: 0h
+
+Researched other people's custom CoreXY builds:
+1. https://www.instructables.com/CoreBot-CoreXY-3D-Printer/ **this is a really good blog/guide**
+ - X/Y Movements: 12mm y / 9mm x linear rails
+ - Z: 2x 10mm lead screws + 4x 12mm smooth rods.
+ - At the length of spindels, constraint the spindle at top + bottom to keep distortion/ghosting low
+ - Long travel distances will cause bowden tube to flex, causing friction + jams
+ - Frame assembly should be straight forward
+2. https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
+ - 3030 extrusions have higher rigidity
+ - Aluminum is cheap, light, and can be anodized
+ - Aluminum extrusions can be connected in many ways
+ - Blind joints = lower part count, less tollerences to worry abt, simple
+ - CoreXY reduces weight by putting motors on frame rather than head
+ - Can accel head much harder with less inertia
+ - Instead of X/Y motors, there are A/B motors, connected directly to the XY belts
+ - Belt loop allows for a gear ration between motor and CoreXY belt. (see the writeup for full info)
+ - GT2 belts are cheap and easy to source
+ - Belts can be run along the inside of frame
+ - Bed is 8mm thick aluminum tooling plate
+ - Significant thermal mass = stable temps
+ - Thick = less bed warping
+ - 200w DC silicone heater under bed
+ - Can be replaced with PCB heated bed
+ - Extruder w/ 3:1 gear ratio = finer control of filament
+ - Hot end is where plastic is heated and extruded
