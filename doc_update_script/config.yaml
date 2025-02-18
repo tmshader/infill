@@ -197,3 +197,9 @@ Ducc it:
   description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
+
+Emancipator:
+  title: "Emancipator"
+  description: "A printer with the ability to automatically eject prints and start a new one."
+  repository: "https://github.com/Kaympe20/Emancipator/raw/refs/heads/main/JOURNAL.md"
+  file_name: emancipator.md
