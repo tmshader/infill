@@ -197,3 +197,9 @@ Ducc it:
   description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
+
+Oblivion:
+  title: "Oblivion"
+  description: "A1 Mini clone but with enclosure, and maybe linear rails? and try a DIY MMU too"
+  repository: "https://raw.githubusercontent.com/hridaya423/oblivion/refs/heads/master/JOURNAL.md"
+  file_name: Oblivion.md
