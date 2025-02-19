@@ -171,7 +171,7 @@ Xyron:
 GreenSpool:
   title: "GreenSpool"
   description: "A green 3D printer that can use plastic as filament"
-  repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/ref/heads/main/JOURNAL.md"
+  repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/refs/heads/main/JOURNAL.md"
   file_name: GreenSpool.md
 
 ChaosCompiler:
@@ -203,3 +203,27 @@ Your Printer Name:
   description: "A small, portable, budget 3D Printer that uses PLA fillament."
   repository: "  https://raw.githubusercontent.com/amino47/PrintLA-3D-Printer/refs/heads/main/JOURNAL.md"
   file_name: PrintLA3D.md
+
+Emancipator:
+  title: "Emancipator"
+  description: "A printer with the ability to automatically eject prints and start a new one."
+  repository: "https://raw.githubusercontent.com/Kaympe20/Emancipator/refs/heads/main/JOURNAL.md"
+  file_name: emancipator.md
+
+Hephaestus:
+  title: "Hephaestus-1"
+  description: "A simple CoreXY Printer"
+  repository: "https://raw.githubusercontent.com/BoaN235/hephaestus-3D-printer/refs/heads/main/LOG.md"
+  file_name: "Hephaestus-1.md"
+
+ED3D:
+  title: "ED3D"
+  description: "A printer that has hologram showing whats being printed"
+  repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/journal.md"
+  file_name: ED3D.md
+
+Oblivion:
+  title: "Oblivion"
+  description: "A1 Mini clone but with enclosure, and maybe linear rails? and try a DIY MMU too"
+  repository: "https://raw.githubusercontent.com/hridaya423/oblivion/refs/heads/master/JOURNAL.md"
+  file_name: Oblivion.md
