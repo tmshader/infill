@@ -221,6 +221,7 @@ Oblivion:
   description: "A1 Mini clone but with enclosure, and maybe linear rails? and try a DIY MMU too"
   repository: "https://raw.githubusercontent.com/hridaya423/oblivion/refs/heads/master/JOURNAL.md"
   file_name: Oblivion.md
+  
 Nu:
   title: "Nu"
   description: "A polar, 5 axis 3d printer"
