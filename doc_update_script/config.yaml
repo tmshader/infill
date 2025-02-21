@@ -167,11 +167,17 @@ Xyron:
   description: "A really simple and basic cheap CoreXY printer"
   repository: "https://raw.githubusercontent.com/Rikhav21/Xyron/refs/heads/main/design.md"
   file_name: xyron.md
+  
+2XInfiniti:
+  title: "2xInfiniti"
+  description: "A simple 3d printer that uses a conveyor belt and dual extrusion"
+  repository: "https://raw.githubusercontent.com/Shadow8928/2XInfiniti/refs/heads/main/README.md"
+  file_name: 2XInfinity.md
 
 GreenSpool:
   title: "GreenSpool"
   description: "A green 3D printer that can use plastic as filament"
-  repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/ref/heads/main/JOURNAL.md"
+  repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/refs/heads/main/JOURNAL.md"
   file_name: GreenSpool.md
 
 ChaosCompiler:
@@ -203,3 +209,39 @@ Lighthouse:
   description: "easy to build, easy to hack, quality focused CoreXY 3D Printer."
   repository: "https://raw.githubusercontent.com/roschreiber/Lighthouse/refs/heads/main/JOURNAL.md"
   file_name: Lighthouse.md
+
+Emancipator:
+  title: "Emancipator"
+  description: "A printer with the ability to automatically eject prints and start a new one."
+  repository: "https://raw.githubusercontent.com/Kaympe20/Emancipator/refs/heads/main/JOURNAL.md"
+  file_name: emancipator.md
+
+Hephaestus:
+  title: "Hephaestus-1"
+  description: "A simple CoreXY Printer"
+  repository: "https://raw.githubusercontent.com/BoaN235/hephaestus-3D-printer/refs/heads/main/LOG.md"
+  file_name: "Hephaestus-1.md"
+
+ED3D:
+  title: "ED3D"
+  description: "A printer that has hologram showing whats being printed"
+  repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/journal.md"
+  file_name: ED3D.md
+
+Oblivion:
+  title: "Oblivion"
+  description: "A1 Mini clone but with enclosure, and maybe linear rails? and try a DIY MMU too"
+  repository: "https://raw.githubusercontent.com/hridaya423/oblivion/refs/heads/master/JOURNAL.md"
+  file_name: Oblivion.md
+
+Low Powered 3d printer with a display to show progress:
+  title: "Solar-Display Printer"
+  description: "3d Printer that I hope to integrate with my voice assistant give important stats on a screen on the printer, and make it slightly or completely solar powered "
+  repository: "https://raw.githubusercontent.com/broiisapro/Infill-3d-Printer/refs/heads/main/JOURNAL.md"
+  file_name: Solar-Display.md
+
+t33ny:
+  title: "t33ny"
+  description: "A teeny-tiny 3D printer"
+  repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
+  file_name: t33ny.md
