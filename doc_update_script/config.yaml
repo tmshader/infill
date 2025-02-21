@@ -167,6 +167,12 @@ Xyron:
   description: "A really simple and basic cheap CoreXY printer"
   repository: "https://raw.githubusercontent.com/Rikhav21/Xyron/refs/heads/main/design.md"
   file_name: xyron.md
+  
+2XInfiniti:
+  title: "2xInfiniti"
+  description: "A simple 3d printer that uses a conveyor belt and dual extrusion"
+  repository: "https://raw.githubusercontent.com/Shadow8928/2XInfiniti/refs/heads/main/README.md"
+  file_name: 2XInfinity.md
 
 GreenSpool:
   title: "GreenSpool"
