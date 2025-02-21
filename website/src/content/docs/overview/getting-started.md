@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: General outline
 description: how to get started
 ---
 
