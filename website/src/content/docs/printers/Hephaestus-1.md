@@ -4,23 +4,21 @@ description: "A simple CoreXY Printer"
 project_name: "Hephaestus"
 repository: "https://raw.githubusercontent.com/BoaN235/hephaestus-3D-printer/refs/heads/main/LOG.md"
 ---
----
+# Hephaestus-1
 title: "Hephaestus-1"
 description: "A Core XY Printer"
-project_name: "Hephaestus-1"
-repository: "https://raw.githubusercontent.com/BoaN235/hephaestus-3D-printer/refs/heads/main/LOG.md"
----
-# Hephaestus-1
-Made by : Noah
+Made by : Boa_N
 
-Total time: 21 hours 50 mins
+Total time: 24 hours 50 mins (Idk how accurate this is probably pretty close tho)
 
-- [ ] I have a 3D printer or will be getting one before March 21st
+- [x] I have a 3D printer or will be getting one before March 21st (friend)
 
 Time : `research: 2 hour 55 min,
-  readme: 1 hour 25  min, Fusion360: 17 hours 30 mins `
-
+  readme: 1 hour 25  min, Fusion360: 20 hours 30 mins `
+  
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
+
+Nicknamed "fire hazard"
 
 ## Goals and Requirments
 - standard 250mm x 250mm
@@ -28,12 +26,12 @@ Hephaestus is the god of artisens and craftsman. with this printer I want to be 
 - Enclosed
 - at least 150mm/s
 - Klipper
-- Under $250
+- Under $250 (is under $200 worth the pain?)
 - Open-Source
-- won't burn my house down
-- Rigid for good printing qualtiy
+- won't burn my house down (I hope)
+- Rigid for good printing qualtiy (Shut up I spelled that right. YOU ARE THE WRONG ONE)
 - A Cool Logo Embossed somewhere
-- RGB lights
+- RGB lights (Gamer 3D Printer Guys)
 
 ## Helpfull Resources
 - www.matterhackers.com/articles/anatomy-of-a-3d-printer
@@ -48,8 +46,8 @@ Hephaestus is the god of artisens and craftsman. with this printer I want to be 
 | Pully Teeth 4mm Bore 6mm | $5.99 | [Amazon](https://www.amazon.com/WINSINN-Aluminum-Synchronous-Timing-Printer/dp/B07CXM1PP4?crid=33E6S9IJ81SKV&dib=eyJ2IjoiMSJ9.gvQ_LHP9h1Td42MvomH2_gC8ndFNdQysG5sjhRb2WsWmSJPImEuZo-NyVAg7VzjhAXiYjgng6TD-OiRyXQhJS6eWTVRSPbGjTo2X2bxH8-HFGb2am8bA5m8a2Cy8xa8niyrFNAlUMMoc1QjoiXHxaH_oxjEF-t01tI9Pik4dqfa5Bbh3ocGO553R0hrEKudnldufQuGXL8p1RI2fJncP2d86kc0pkEURnuPyTpm57mXWxkdihXg5vsFHm1wqyaXPVET67KzunwS_UrgIoson_3MOQh3Oy1K8AopVonVlk5UcxTvcGcRyUTjvVbTbCdaDouCdoSk_rm3lsTlv9qnsk_qVkxaOptEVB7cC6eNejfk.K7BPqlGJBYuFEErYl1th0I3KZqRWYz_wu-0w-ixNPfU&dib_tag=se&keywords=belt%2Bpulley%2Bwheels%2BTeeth&qid=1739672033&s=industrial&sprefix=belt%2Bpulley%2Bwheels%2Bteeth%2Cindustrial%2C58&sr=1-5&th=1) | No | 3
 
 
-## Development Plan
-- Step 1 Start
+## Development Plan 
+- Step 1 Start (this isen't in order)
   - [x] create a cohesive plan 
   - [x] resarch design choices
   - [x] resarch 3d printers
@@ -87,7 +85,7 @@ Time : `research: 1 hour 55 min,
 Description: 
 - Researched how 3d printers work
 - Started Development Plan
-- chose a CoreXY Printer
+- chose a CoreXY Printer 
 
 I Made a Logo 
 ![HephaestusLogo](https://github.com/user-attachments/assets/252e0442-7e73-437f-b418-44befb7bb8f3)
@@ -106,7 +104,7 @@ Description:
 - Researched how 3d printers work
 - Created the Cad model for the frame
 - Started Cad model of the Carraige and Moters
-- Made an Excel SpreadSheet
+- Made an Excel SpreadSheet (I havent used it since - Day 5)
   
 </details>
 <details>
@@ -123,8 +121,8 @@ Time : `Fusion360: 8 hours`
 
 
 Description: 
-- Researched how 3d printers work
-- Worked On rails 
+- Researched how 3d printers work (I am tired of writing this just asume I am doing this for the entire project - Day 5)
+- Worked On rails (Very Descriptive - Day 5)
 
 
 
@@ -140,10 +138,45 @@ Time : `Fusion360: 5 hours`
 
 
 Description: 
-- I worked on the moter mounts and the belt sytem
+- I worked on the moter mounts and the belt sytem (In other words I got nothing done - Day 5)
 
 ![image](https://github.com/user-attachments/assets/8f0a88ea-3b12-445a-a15e-870d6089a4c7)
 
   
 </details>
+<details>
+<summary> Day 5, First Pass of Cad (pt.4), Feb 19, 2025 </summary>
+time: 3 hours
 
+Total Time 24 hours 50 mins
+
+Time : `Fusion360: 3 hours`
+
+
+Description: 
+- I worked on the moter mounts and the belt sytem
+- showed how the belts will work
+- started the base of the base (I am soo funny)
+
+![Corexyexplination](https://github.com/user-attachments/assets/f02676f1-182b-4c17-abc9-b16bad3ff0b7)
+![image](https://github.com/user-attachments/assets/66e0e701-f7fa-48d8-8fda-166db0af255d)
+ (Don't you just love this fire hazard)
+</details>
+<details>
+<summary> Day 6, First Pass of Cad (pt.5), Feb 20, 2025 </summary>
+time: 1 hours
+
+Total Time 24 hours 50 mins
+
+Time : `Fusion360: 1 hours`
+
+
+Description: 
+- Thought about a scissor lift mechanism for the bed
+- working on the bed
+
+![image](https://github.com/user-attachments/assets/c5e4eda4-13c7-4743-a105-31af20733f08)
+
+
+
+</details>

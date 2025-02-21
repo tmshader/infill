@@ -167,6 +167,12 @@ Xyron:
   description: "A really simple and basic cheap CoreXY printer"
   repository: "https://raw.githubusercontent.com/Rikhav21/Xyron/refs/heads/main/design.md"
   file_name: xyron.md
+  
+2XInfiniti:
+  title: "2xInfiniti"
+  description: "A simple 3d printer that uses a conveyor belt and dual extrusion"
+  repository: "https://raw.githubusercontent.com/Shadow8928/2XInfiniti/refs/heads/main/README.md"
+  file_name: 2XInfinity.md
 
 GreenSpool:
   title: "GreenSpool"
@@ -227,3 +233,9 @@ Low Powered 3d printer with a display to show progress:
   description: "3d Printer that I hope to integrate with my voice assistant give important stats on a screen on the printer, and make it slightly or completely solar powered "
   repository: "https://raw.githubusercontent.com/broiisapro/Infill-3d-Printer/refs/heads/main/JOURNAL.md"
   file_name: Solar-Display.md
+
+t33ny:
+  title: "t33ny"
+  description: "A teeny-tiny 3D printer"
+  repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
+  file_name: t33ny.md

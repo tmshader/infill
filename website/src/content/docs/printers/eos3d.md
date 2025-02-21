@@ -239,3 +239,23 @@ Total hours on project: **35**
 I have been working on the mounts and positioning of the Z-axis. Due to the simplicity of the design, not much work was required.
 
 ![Day 12 Image Update](https://cdn.hackclubber.dev/slackcdn/9dd1866b2d3fc9640cf4d49463ad577b.png)
+
+# Day 14, 15, 16 (February 16th-19th)
+
+Hours worked: **5**
+
+Total hours on project: **40**
+
+### Finish Z Axis
+
+Over day 14, 15, and the start of day 16, I finished the Z axis. This means I will be starting the last axis of the project, the Y axis.
+
+### Start Y Axis
+
+On day 16, I started the Y axis. As of now, I have the extrusion, rails, and carriage designed. The carriage will be 3D printed with the [CarbonX PA12-CF](https://www.3dxtech.com/products/carbonx-nylon-12-cf-1). It is an expensive filament; however, it has a very high Tg (150°C) compared to Bambulab PAHT-CF and Polymaker's counterpart (both are around 70°C).
+
+Tomorrow, I will design the endplates for the rails and extrusion, the mount holding the carriage to the bearings, and the belting.
+
+Other than that, I just have to design the mounts for the electronics (motherboard, RPi, and power supply), and I'm done!
+
+![Day 16 Image Update](https://cdn.hackclubber.dev/slackcdn/5d2f14b4353562e499ad78343011c570.png)
