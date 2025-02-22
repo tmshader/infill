@@ -225,4 +225,14 @@ Researched other people's custom CoreXY builds:
  - Extruder w/ 3:1 gear ratio = finer control of filament
  - Hot end is where plastic is heated and extruded
 
+# Feb 22 2025
 
+Evan: 0h
+Aaron: 3h
+
+## Folding Printer (Frame V1, V2, V3)
+![V1 and V2](https://cloud-kcrikwrqr-hack-club-bot.vercel.app/0notewise-untitled_2025-02-13-1__1_.jpg)
+This is how 2 different versions of the frame would fold. I layed out V1 a while back and it did not fit. 
+V2 also has problems with the center of gravity.
+![V3](https://cloud-6ti4f5y08-hack-club-bot.vercel.app/0image.png)
+This is the latest frame that we have made. It will have a bed on one side and a gantry on the other. This frame costs way too much and it still needs a gantry and a bed
