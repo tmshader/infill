@@ -239,3 +239,9 @@ t33ny:
   description: "A teeny-tiny 3D printer"
   repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
   file_name: t33ny.md
+
+AKPrinter:
+  title: "AKPrinter (such a cringe name sob)"
+  description: "Prototype CoreXY printer that can self replicate (?) and will be USB-C powered (??)"
+  repository: "https://raw.githubusercontent.com/hash-ak/AK-Printer/refs/heads/main/JOURNAL.md"
+  file_name: AKPrinter.md
