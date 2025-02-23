@@ -230,7 +230,7 @@ Researched other people's custom CoreXY builds:
 # Feb 22 2025
 
 Evan: 2h
-Aaron: 7h
+Aaron: 10h
 
 ## Aaron
 ### Folding Printer (Frame V1, V2, V3)
@@ -263,3 +263,4 @@ Instead of making it fold and making it fast, go all out on the portable aspect 
 - 
 ## Aaron 
 Spent a lot of time researching Linear rails/rods and how to hold a heated bed.
+A lot of Cadding
