@@ -239,3 +239,9 @@ t33ny:
   description: "A teeny-tiny 3D printer"
   repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
   file_name: t33ny.md
+
+ML128E:
+  title: "ML128E"
+  description: "A compact portable 3d printer with four independent extruders"
+  repository: "https://raw.githubusercontent.com/MagmaSpeedCubes/infill/refs/heads/main/JOURNAL.md"
+  file_name: ML128E.md
