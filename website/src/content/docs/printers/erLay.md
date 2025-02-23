@@ -14,6 +14,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 - Pico MMU (Optional)
 - Zero Click ABL
 - Built-in carrying case (The printer will collapse into something like a pelican case)
+- Can be powered by a (multiple) power banks
 
 # Total Time
 
@@ -199,6 +200,7 @@ random thought from Evan: What if the Z axis was telescoping or something
 Evan: 2h
 Aaron: 0h
 
+## Evan
 Researched other people's custom CoreXY builds:
 1. https://www.instructables.com/CoreBot-CoreXY-3D-Printer/ **this is a really good blog/guide**
  - X/Y Movements: 12mm y / 9mm x linear rails
@@ -227,15 +229,33 @@ Researched other people's custom CoreXY builds:
 
 # Feb 22 2025
 
-Evan: 0h
+Evan: 2h
 Aaron: 4h
 
-## Folding Printer (Frame V1, V2, V3)
+## Aaron
+### Folding Printer (Frame V1, V2, V3)
 ![V1 and V2](https://cloud-kcrikwrqr-hack-club-bot.vercel.app/0notewise-untitled_2025-02-13-1__1_.jpg)
 This is how 2 different versions of the frame would fold. I layed out V1 a while back and it did not fit. 
 V2 also has problems with the center of gravity.
 ![V3](https://cloud-6ti4f5y08-hack-club-bot.vercel.app/0image.png)
 This is the latest frame that we have made. It will have a bed on one side and a gantry on the other. This frame costs way too much and it still needs a gantry and a bed
 
-## New idea
+### New idea
 Instead of making it fold and making it fast, go all out on the portable aspect and make the printer powered off a USB c power bank (100W)
+
+## Evan
+### Researched different power supplies
+- Our power budget should be around <=180W
+- USB-C PD
+ - Can supply up to 240W
+ - Maybe we can pull either 180-240w from a single USB-C PD supply
+ - High wattage is _expensive_ (easily $50-100+)
+ - Or we can pull 60w from 4 power banks, allowing hot swapping power supplies on the fly. Also much cheaper since lower wattage per power bank
+ - Concern: how long the power banks will last
+ - I'm probably going to design a custom PCB to do this
+  - Suitable(?) controllers:
+   - [TPS25750](https://www.ti.com/product/TPS25750)
+   - [STUSB4500](https://www.st.com/en/interfaces-and-transceivers/stusb4500.html)
+ - I want to keep the cost of the PCB as low as possible, the STUSB4500 is probably the best as it has way more stock on LCSC (8.3k vs 14) than the TPS25750, and is 20c cheaper.
+- Use a LTC4370 to load share between the different supplies
+- Use Diode OR-ing or Ideal Diode controllers to isolate power supplies and prevent **backfeeding**
