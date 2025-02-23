@@ -4,26 +4,23 @@ description: "A ultra portable 3D printer designed for competitions"
 project_name: "erLay"
 repository: "https://raw.githubusercontent.com/Badbird5907/erLay/refs/heads/master/README.md"
 ---
-# erLay
 erLay is a ultra-portable CoreXY 3D printer made by [Evan Yu](https://evanyu.dev) and [Aaron Huang](https://runthebot.me)
 
 This printer is built to print small parts needed fast at robotics competitions where our main limitations are space and time. This printer will mainly print spacers, shaft collars, pullies, etc.
 
-## Goals
+# Goals
 - Ultra-portable (for robotics competitions!!)
 - CoreXY
 - Pico MMU (Optional)
 - Zero Click ABL
 - Built-in carrying case (The printer will collapse into something like a pelican case)
 
-## Total Time
+# Total Time
 
 Aaron: 9h
 Evan: 6h
 
-## Log
-
-### Feb 12 2025
+# Feb 12 2025
 
 - Came up with name, specs, and design.
 - Research on different 3d printer designs & parts (VORONDesign, etc...)
@@ -32,29 +29,29 @@ Evan: 6h
 Evan: 2h
 Aaron: 4h
 
-#### Both
-**What was done:**
+## Both
+### What was done:
 - Discussed name, specs and design
 - Rabbit holing and yapping about option
 - Both already have 3D printers
-**Some of our other ideas:**
+### Some of our other ideas:
 - 2/3 stage elevator on a bed slinger 💀
 - smaller Voron v0
 
 
-#### Aaron
+## Aaron
 
 - I'm the one that dragged other bozo onto this
 - I am in the process of building a [Hex Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
 - Went down a printer rabbit hole
 
-**ABL:**
+### ABL:
 - [ZeroClick](https://github.com/zruncho3d/ZeroClick)
 - Seams nice and cheap
 - Used on Hex Zero
 - ABL needs more research
 
-**Hotend/Toolhead:**
+### Hotend/Toolhead:
 
 Requirements:
 - COTS
@@ -90,19 +87,19 @@ Options:
 
 Ok that's it for today I have school tmr
 
-### Feb 13 2025
+# Feb 13 2025
 
 Aaron: 5h
 Evan: 2h
 
-#### Aaron:
+## Aaron:
 
 
 Yay snow day!!! 
 Ok so I was losing my mind at midnight yesterday and did not realize that the Apogee uses an orbiter
 I probably need to find a better source
 
-**Frame**
+### Frame
 
 
 I was brainstorming frames today and I wanted the hingeing lid of the case to be the Z-axis
@@ -116,18 +113,18 @@ I also started a basic Onshape Part Lib and did a lot more research
 
 I've learnt my lesson and now will spend the next hour **drawing concepts** before CADing
 
-**Drawings**
+### Drawings
 
 
 I spend half an hour making a Iso Grid YAY!
 Anyway Heres the idea
 ![3D Printer Concept Iscometric](https://cdn.hack.pet/slackcdn/e7751f85e307172b6f68b6b7c01aed9b.png)
 
-#### Evan:
+## Evan:
 
 Spent most of the day working on [makropad](https://github.com/Badbird5907/makropad), it's almost done!
 
-**Research:**
+### Research:
 - Researched how CoreXY works
   - https://corexy.com/theory.html
   - https://all3dp.com/2/corexy-3d-printer-is-it-worth-buying/
@@ -176,7 +173,7 @@ Bedslinger:
   - Higher vibration due to bed movement
   - As size of bed increases, the slower the printer has to be due to higher weight
 
-#### Aaron Part 2:
+## Aaron Part 2:
 I've been laying out the printer
 
 So the idea was to have both the gantry and the bed fold up but after an hour of layout it looks pretty impossible with the stock Voron 0 layout
@@ -197,7 +194,7 @@ random thought from Evan: What if the Z axis was telescoping or something
 
 15th: Competition Day
 
-### Feb 17 2025
+# Feb 17 2025
 
 Evan: 2h
 Aaron: 0h
@@ -227,3 +224,18 @@ Researched other people's custom CoreXY builds:
  - Can be replaced with PCB heated bed
  - Extruder w/ 3:1 gear ratio = finer control of filament
  - Hot end is where plastic is heated and extruded
+
+# Feb 22 2025
+
+Evan: 0h
+Aaron: 4h
+
+## Folding Printer (Frame V1, V2, V3)
+![V1 and V2](https://cloud-kcrikwrqr-hack-club-bot.vercel.app/0notewise-untitled_2025-02-13-1__1_.jpg)
+This is how 2 different versions of the frame would fold. I layed out V1 a while back and it did not fit. 
+V2 also has problems with the center of gravity.
+![V3](https://cloud-6ti4f5y08-hack-club-bot.vercel.app/0image.png)
+This is the latest frame that we have made. It will have a bed on one side and a gantry on the other. This frame costs way too much and it still needs a gantry and a bed
+
+## New idea
+Instead of making it fold and making it fast, go all out on the portable aspect and make the printer powered off a USB c power bank (100W)

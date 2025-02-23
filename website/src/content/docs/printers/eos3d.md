@@ -259,3 +259,17 @@ Tomorrow, I will design the endplates for the rails and extrusion, the mount hol
 Other than that, I just have to design the mounts for the electronics (motherboard, RPi, and power supply), and I'm done!
 
 ![Day 16 Image Update](https://cdn.hackclubber.dev/slackcdn/5d2f14b4353562e499ad78343011c570.png)
+
+# Day 17, 18 (February 20th-21st)
+
+Hours worked: **6**
+
+Total hours on project: **46**
+
+### Finish the printer!
+
+I have been slacking a little bit on the journal while finishing the printer off. Anyways, its done! I don't have much to say but it was just a lot of fitting things together and basic problem solving. I will be revising the BOM tomorrow to add some things that have changed.
+
+Soon, I will order the parts, print the printed parts and start building!
+
+![Day 18 Image Update](https://cloud-jl6bb650r-hack-club-bot.vercel.app/0image.png)
