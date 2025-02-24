@@ -6,13 +6,15 @@ repository: "https://raw.githubusercontent.com/Echo-Labs-Development/Quantum-One
 ---
 # The Plan
 
+![Half Finished Skirt](https://cloud-jb6ebx4e5-hack-club-bot.vercel.app/0untitled_presentation_11_.png)
+
 Made by: Henry([@HenryNerd](https://github.com/HenryNerd))
 
 Repository Link: [https://github.com/Echo-Labs-Development/Quantum-One](https://github.com/Echo-Labs-Development/Quantum-One)
 
-Total Hours: 31 Hours
+Total Hours: 36 Hours
 
-![Half Finished Skirt](https://cdn.hackclubber.dev/slackcdn/d5411b4c1f57aa26d3dc3938b8890322.png)
+![Half Finished Skirt](https://cloud-n9qbc5fq2-hack-club-bot.vercel.app/0image.png)
 
 ## Goals
 - Quiet enough to be next to you on your desk
@@ -37,8 +39,9 @@ Total Hours: 31 Hours
 | 2.8.25 | 6 Hours |
 | 2.17.25 | 6 Hours |
 | 2.18.25 | 4 Hours |
+| 2.23.25 | 5 Hours |
 
-### Total Hours: 31 Hours
+### Total Hours: 36 Hours
 
 ## BOM
 [BOM.md](https://github.com/Echo-Labs-Development/Quantum-One/blob/8280ed5a5fece50f8bd1d9ca4763da4ab5bdc901/BOM.md)
@@ -87,3 +90,6 @@ Apr 23rd - Finish Tuning
 May 2nd - Ship to RMRRF
 
 May 16th - Ship Myself to RMRRF
+
+# XY Stepper Mount
+![Half Finished Skirt](https://cloud-4ai7mgw57-hack-club-bot.vercel.app/0image.png)
