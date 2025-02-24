@@ -8,7 +8,7 @@ Here's a collection of resources I've amassed over the years that I found EXTREM
 It's divided into multiple sections
 
 ### Generally useful stuff
-- Go over all of [Ellis' 3D print tuning guide](https://ellis3dp.com/Print-Tuning-Guide/) - it'll help you build an intuition of what causes 3D printing issues and why, so that you can design a better printer. It is *the* best resource out there
+- Go over all of [Ellis' 3D print tuning guide](https://ellis3dp.com/Print-Tuning-Guide/) - it'll help you build an intuition of what causes 3D printing issues and why, so that you can design a better printer. It is *the* best resource out there for printing issues.
 - Join the discords of people/groups who do custom 3D printers - they're an insanely useful resource because they're entire communities dedicated to a particular set of 3D printer designs, and you will learn SO much just lurking in them
     - VORONDesign
     - Annex Engineering
@@ -45,3 +45,10 @@ Here's some I've found over the years:
 
 If you still haven't found what you're looking for, here's some places you can download them from:
 - [GrabCAD](https://grabcad.com/library)
+
+### Glossary of common terms
+Here's a list of names for parts that you'll frequently run into
+
+- Linear rods: the long metal rods you see on printers
+- Aluminum extrusions: the blocky extrusions you see in most printers. Common sizes (2020, 3030)
+- 

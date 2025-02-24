@@ -167,6 +167,12 @@ Xyron:
   description: "A really simple and basic cheap CoreXY printer"
   repository: "https://raw.githubusercontent.com/Rikhav21/Xyron/refs/heads/main/design.md"
   file_name: xyron.md
+  
+2XInfiniti:
+  title: "2xInfiniti"
+  description: "A simple 3d printer that uses a conveyor belt and dual extrusion"
+  repository: "https://raw.githubusercontent.com/Shadow8928/2XInfiniti/refs/heads/main/README.md"
+  file_name: 2XInfinity.md
 
 GreenSpool:
   title: "GreenSpool"
@@ -204,6 +210,12 @@ circumlocution:
   repository: "https://raw.githubusercontent.com/headblockhead/circumlocution/refs/heads/master/JOURNAL.md"
   file_name: circumlocution.md
 
+Printopus:
+  title: "Printopus"
+  description: "A Cheap Printer Which has many cool features such as a built-in how much filament left sensor, custom lighting in the extruder itself, and Video games in the screen itself!"
+  repository: "https://raw.githubusercontent.com/scattercat-123/Printopus/refs/heads/main/Printopus-Journey.md"
+  file_name: Printopus-Journey.md
+
 Emancipator:
   title: "Emancipator"
   description: "A printer with the ability to automatically eject prints and start a new one."
@@ -227,3 +239,15 @@ Oblivion:
   description: "A1 Mini clone but with enclosure, and maybe linear rails? and try a DIY MMU too"
   repository: "https://raw.githubusercontent.com/hridaya423/oblivion/refs/heads/master/JOURNAL.md"
   file_name: Oblivion.md
+
+Low Powered 3d printer with a display to show progress:
+  title: "Solar-Display Printer"
+  description: "3d Printer that I hope to integrate with my voice assistant give important stats on a screen on the printer, and make it slightly or completely solar powered "
+  repository: "https://raw.githubusercontent.com/broiisapro/Infill-3d-Printer/refs/heads/main/JOURNAL.md"
+  file_name: Solar-Display.md
+
+t33ny:
+  title: "t33ny"
+  description: "A teeny-tiny 3D printer"
+  repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
+  file_name: t33ny.md

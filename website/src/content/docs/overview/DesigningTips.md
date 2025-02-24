@@ -4,9 +4,34 @@ description: A collection of tips from dari about designing your printer
 ---
 
 
-Hi there! This page is pretty much going to be a braindump of every useful thing I can think of to put here. Won't be super organized but hopefully it should help
+Hi there! This page is meant to be a info pool of tips to design your printer
 
-First and foremost: I'm basing this entire YSWS off of my experience with creating Neutrino, and it's more or less what I'm looking for. It's a good reference.
+
+First and foremost: This is a YSWS where you are expected to go out, do your own research, and make your own decisions. There is no guide. There is no preset list.
+
+With infill, we're going to go out and do something *actually real* in the 3D printing community
+
+note: I'm basing this entire YSWS off of my experience with creating Neutrino, and it's more or less what I'm looking for. It's a good reference. The repository is located [here](https://github.com/the-openary/neutrino)
+
+
+### An overview of what to do:
+A 3D printer is made up of a LOT of different parts. [Here's](insert link) a quick primer on what they are.
+
+With infill, you're going to need to design the following parts:
+- Toolhead (not extruder though!)
+    - Hotend mount
+    - Probe setup (if you want a probe)
+    - Cooling duct
+- The gantry
+- Z-axis
+    - Bed assembly
+- Electronics setup (what parts you want and how to arrange them)
+- Frame
+
+Each part will take a good amount of research, compromise, and iteration. Once that's done, you're good to work on other stuff!
+
+
+
 
 
 ### Actually designing
@@ -21,3 +46,6 @@ First and foremost: I'm basing this entire YSWS off of my experience with creati
 - Look at existing 3D printer designs and see what they do and how they come together. SO many of them are open source so it's really useful. It's *alot* and alot of research.
     - Once you have an idea w/ sketches, approx measurements, etc, then you can start your CAD model! It'll take a lot of trial and erorr. Neutrino had over 160+ savefiles
 - You can reuse 3D models for off-the-shelf components from other projects to avoid redesigning them. (screws, linear rails,  etc).
+
+### Finding 3D models of parts
+Most of the time, you can get 3D models for parts like linear rails, extrusions, etc from other [3D printer models]()
