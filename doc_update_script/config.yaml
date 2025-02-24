@@ -239,3 +239,10 @@ t33ny:
   description: "A teeny-tiny 3D printer"
   repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
   file_name: t33ny.md
+
+Daedelus:
+  title: "Daedelus"
+  description: "CoreXY with swapable toolhead"
+  repository: "https://raw.githubusercontent.com/meowkewok/Daedelus/refs/heads/main/JOURNAL.md"
+  file_name: daedelus.md
+
