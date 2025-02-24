@@ -227,3 +227,49 @@ Total hours on project: **33**
 Over the past few days, I implemented the belting for the X-axis using a clamping system that secures the belt with a screw. The endplate design is based on the Prusa Mini, as it was the simplest solution after testing other strategies.
 
 ![Day 9 Image Update](https://cdn.hack.pet/slackcdn/2b69338b3eaa71c53f2630c2b68fa211.png)
+
+# Day 12 & 13 (February 14th-15th)
+
+Hours worked: **2**
+
+Total hours on project: **35**
+
+### Z Axis Work
+
+I have been working on the mounts and positioning of the Z-axis. Due to the simplicity of the design, not much work was required.
+
+![Day 12 Image Update](https://cdn.hackclubber.dev/slackcdn/9dd1866b2d3fc9640cf4d49463ad577b.png)
+
+# Day 14, 15, 16 (February 16th-19th)
+
+Hours worked: **5**
+
+Total hours on project: **40**
+
+### Finish Z Axis
+
+Over day 14, 15, and the start of day 16, I finished the Z axis. This means I will be starting the last axis of the project, the Y axis.
+
+### Start Y Axis
+
+On day 16, I started the Y axis. As of now, I have the extrusion, rails, and carriage designed. The carriage will be 3D printed with the [CarbonX PA12-CF](https://www.3dxtech.com/products/carbonx-nylon-12-cf-1). It is an expensive filament; however, it has a very high Tg (150°C) compared to Bambulab PAHT-CF and Polymaker's counterpart (both are around 70°C).
+
+Tomorrow, I will design the endplates for the rails and extrusion, the mount holding the carriage to the bearings, and the belting.
+
+Other than that, I just have to design the mounts for the electronics (motherboard, RPi, and power supply), and I'm done!
+
+![Day 16 Image Update](https://cdn.hackclubber.dev/slackcdn/5d2f14b4353562e499ad78343011c570.png)
+
+# Day 17, 18 (February 20th-21st)
+
+Hours worked: **6**
+
+Total hours on project: **46**
+
+### Finish the printer!
+
+I have been slacking a little bit on the journal while finishing the printer off. Anyways, its done! I don't have much to say but it was just a lot of fitting things together and basic problem solving. I will be revising the BOM tomorrow to add some things that have changed.
+
+Soon, I will order the parts, print the printed parts and start building!
+
+![Day 18 Image Update](https://cloud-jl6bb650r-hack-club-bot.vercel.app/0image.png)

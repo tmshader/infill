@@ -6,16 +6,17 @@ repository: "https://raw.githubusercontent.com/quexeky/prometheus/refs/heads/mai
 ---
 # Logbook
 
-Total Wakatime Hours so far: 0 (source: [wakatime](https://waka.hackclub.com))
-Total research Hours so far: 1 (source: logbook)
-Total Hours so far: 1
+Total Wakatime Hours so far: 1 (source: [wakatime](https://waka.hackclub.com))
+
+Total research Hours so far: 13 (source: logbook)
+
+Total Hours so far: 17
 
 ## Design Requirements
 - Core XY
-- Compact footprint (No more than 250x250xX, ideally 200x200xX)
-- Fast (ideally 300mm/s max speed with decent print quality)
+- High bed size/footprint ratio (>75%)
+- 
 - Decent print quality - suitable for prototyping but doesn't have to be perfect
-- Must have an extremely rigid body.
 
 
 ## Feb 13
@@ -67,6 +68,91 @@ Change of plans. Forget going for high speed and quality, I've been talking to o
 TDU mentors who suggested going for a more specialty build, especially if this is going to 
 RMRRF. As a result, I'm going to try going for a really really high bed-to-footprint ratio,
 essentially something where the entire footprint is able to be printed on.
+
+
+## Feb 15
+More updates from today. Was out for a fair, bit, but ended up sketching a bit and talking to a guy who knows
+a fair bit. I think that I've settled on the idea of essentially going for a really high bed-to-footprint
+ratio and then makiong a reasonable desktop printer from that.
+
+Sketch idea: 
+![image](https://cdn.hack.pet/slackcdn/f102960383e244d649587c667af417c2.jpg)
+
+Essentially:
+- Fairly thin corner supports probably made from lead screws
+- Gantry / head is connected to lead screws in a frame (gantry not drawn in) which will not extend outside of the footprint
+- Lead screws are z-axis for either entire printer head or bed (probably bed because weight)
+- Feet for all lead screws probably with individual motors for ease of assembly
+
+
+More design ideas:
+- Bowden extruder for ease of design?
+- Might look into making the head completely removable
+- In general I'm going to take inspiration from the Ender 3 for the toolhead / extruder design
+
+Taking a look at this document for toolhead / extrusion system designs: 
+https://www.bcn3d.com/documents/The_anatomy_of_an_Extrusion_System_BCN3D_Technologies.pdf
+
+Also watching a few videos [like this one from 3DJake](https://www.youtube.com/watch?v=NMfFirtB1D4)
+for more in-depth content on actually designing things
+
+Hours spent today: 3
+
+## Feb 16
+Considering the EVA if only because it looks interesting: https://main.eva-3d.page/ 
+
+Actually looking more at the Voron Stealthburner now because apparently it's a lot more vertical
+than horizontal.
+
+### 7:59
+Been looking at the way that the toolhead itself is designed for the last hour or two. It's got quite a few interesting
+components, and I'll be making a sketch of my thoughts in a bit. I have decided that I want to go with a custom
+toolhead though
+
+### 10:08
+Scratch the sketch. Was busy for a bit between then and now and wasn't really able to do much. Going to go to sleep now.
+
+Total hours researching today: 4
+
+## Feb 17
+### 9:16
+Scratch everything. I'm going to use a bowden tube for simplicity and because I've found a good hotend/coldend assembly to
+use from E3D: https://e3d-online.com/products/v6-all-metal-hotend?variant=40923457683515
+
+STL: https://www.printables.com/model/77449-e3d-v6-hotend-175mm
+
+Hours today: 1
+
+## Feb 19
+Was busy cadding some designs for toolhead. Spent about 3 hours.
+
+## Feb 20
+I think that I understand how everything in a toolhead works together, so I'm confident enough to choose a pre-designed one
+which I can then mount to my printer. 
+
+Re-making this model in onshape: https://www.printables.com/model/157268-bondtech-bmg-e3d-v6-extruder-assembly
+
+Man I'm glad that I decided to take a look at this one because I've been cadding away at it for a few hours,
+and I realised fairly early on that I should look at a combo build, because they slot perfectly into one another,
+which is something that I hadn't actually realised before lmao. That saves me so much time and effort though.
+
+Hours added today: 2
+
+## Feb 22
+Was quite busy yesterday so didn't get any chance to work on the design, but today I'm working on laying
+out the body of the printer itself.
+
+Oh also found this NEMA17 motor that looks like it'll be a good idea for my toolhead: 
+https://aus3d.com.au/products/nema-17-34mm-stepper-motor
+
+Update: Progress has been going fairly well. I'm busy researching how things like my
+lead screws can actually mount to my top part and such. I'm going to have to head out
+for a while though, although I've spent at least like 2 hours on this so far which is good.
+
+Didn't end up doing much more after, maybe an hour or so of tweaking and a bit of researching on lead screws more.
+
+Hours spent: 3
+
 
 ## Resources
 Torque to Force calculator: https://calculator.academy/torque-to-force-calculator/
