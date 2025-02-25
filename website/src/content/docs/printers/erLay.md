@@ -18,8 +18,8 @@ This printer is built to print small parts needed fast at robotics competitions 
 
 # Total Time
 
-Aaron: 19h
-Evan: 8h
+Aaron: 20h
+Evan: 9h
 
 # Feb 12 2025
 
@@ -264,3 +264,22 @@ Instead of making it fold and making it fast, go all out on the portable aspect 
 ## Aaron 
 Spent a lot of time researching Linear rails/rods and how to hold a heated bed.
 A lot of Cadding
+
+# Feb 24 2025
+
+Evan: 1h
+Aaron: 1h
+
+Discussed details over dinner.
+### USB PD Power Supply
+- 240W power budget (400 max but we wont be testing this)
+- Load balancing (diodes) / backfeeding
+- Boost -> 24v
+- Screw terminal output
+- Automatic negotiation
+- 4 USB-C inputs
+- Screw terminal input (bypasses load balancer and connects directly to output screw terminals)
+ -> (For testing)
+- Boost every input before load balancing to prevent issues w/ voltage diff
+- Pico negotiates even wattage from all to reduce load on balancer
+- Digitally set target voltage via pico (?)
