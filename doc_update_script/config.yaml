@@ -245,3 +245,9 @@ t33ny:
   description: "A teeny-tiny 3D printer"
   repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
   file_name: t33ny.md
+
+FoldPrinter:
+  title: "FoldPrinter"
+  description: "A very portable 3D printer that will (hopefully) fit inside a briefcase!"
+  repository: "https://raw.githubusercontent.com/BingleyPro/foldprinter/refs/heads/main/JOURNAL.md"
+  file_name: foldprinter.md
