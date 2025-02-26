@@ -30,6 +30,8 @@ I'm making a little plan for the printer, like constraint and things :
 
 - Print volume will be 180^3mm
 
+- It's frame will be made of 2020 250mm V-slots aluminium extrusions (Black anodized if possible)
+
 After talking a bit with perpelxity.ai, I'm starting to have a better plan about this. 
 
 @Anicetus on the slack proposed me these motors : https://www.aliexpress.us/item/2255801033887365.html
@@ -50,6 +52,7 @@ Research : 20 min
 Yesterday after asking in the slack and some reasearch I decided that I will use 2020 V-slot aluminium extrusions, 250 mm of lenght. After importing it and setting it all in FreeCAD (I lost so much time trying to resize them), I finnally have a _very rought_ idea of how to case is looking ![image of the aluminium extrusions in freecad](to be added)  
 
 CAD time : 45 minutes
+
 # Ressources I found
 - https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
 - https://kingroon.com/blogs/3d-print-101/cartesian-vs-corexy
