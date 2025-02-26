@@ -240,6 +240,12 @@ Oblivion:
   repository: "https://raw.githubusercontent.com/hridaya423/oblivion/refs/heads/master/JOURNAL.md"
   file_name: Oblivion.md
 
+Nu:
+  title: "Nu"
+  description: "A polar, 5 axis 3d printer"
+  repository: "https://raw.githubusercontent.com/Magicninja7/Nu/refs/heads/main/LOG.md"
+  file_name: Nu.md
+
 Low Powered 3d printer with a display to show progress:
   title: "Solar-Display Printer"
   description: "3d Printer that I hope to integrate with my voice assistant give important stats on a screen on the printer, and make it slightly or completely solar powered "
