@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/hash-ak/AK-Printer/refs/heads/mai
 ---
 Made by: @Hash-AK
 Repository link: https://github.com/Hash-AK/AK-Printer/
-Total hours so far: 4:05 hour
+Total hours so far: 4:30 hour
 
 - [x] I have access to a makerspace 3d printer, can't make infinite print with it tho
 
@@ -53,7 +53,7 @@ Yesterday after asking in the slack and some reasearch I decided that I will use
 
 I'm also searching on how to make the USB-C power. The main problem is that, from what I saw, USB-C PD (Power Delivery) can only go up to _100 watts_, which look pretty low for a printer. Maybe my printer will have a dual power system (either normal power, which more voltage, and USB-C when less power is required) ?
 
-CAD time : 45 minutes
+CAD time : 1:05 minutes
 Research : 1 hour
 
 # Ressources I found
