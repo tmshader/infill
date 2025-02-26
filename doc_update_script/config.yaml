@@ -245,3 +245,9 @@ t33ny:
   description: "A teeny-tiny 3D printer"
   repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
   file_name: t33ny.md
+
+CageHome3D:
+  title: "CageHome3D"
+  description: "A 3D printer that folds flush to enable efficient storage"
+  repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
+  file_name: CageHome3D.md
