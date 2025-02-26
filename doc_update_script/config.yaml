@@ -204,6 +204,18 @@ Ducc it:
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
 
+Penguin:
+  title: "Penguin"
+  description: "(Hopefully) The most accurate 3d printer you'll find for under $300."
+  repository: "https://raw.githubusercontent.com/Lucas4680/Penguin/refs/heads/main/Devlog.md"
+  file_name: Penguin.md
+
+Printopus:
+  title: "Printopus"
+  description: "A Cheap Printer Which has many cool features such as a built-in how much filament left sensor, custom lighting in the extruder itself, and Video games in the screen itself!"
+  repository: "https://raw.githubusercontent.com/scattercat-123/Printopus/refs/heads/main/Printopus-Journey.md"
+  file_name: Printopus-Journey.md
+
 Emancipator:
   title: "Emancipator"
   description: "A printer with the ability to automatically eject prints and start a new one."
@@ -246,3 +258,14 @@ Daedelus:
   repository: "https://raw.githubusercontent.com/meowkewok/Daedelus/refs/heads/main/JOURNAL.md"
   file_name: daedelus.md
 
+ML128E:
+  title: "ML128E"
+  description: "A compact portable 3d printer with four independent extruders"
+  repository: "https://raw.githubusercontent.com/MagmaSpeedCubes/infill/refs/heads/main/JOURNAL.md"
+  file_name: ML128E.md
+
+CageHome3D:
+  title: "CageHome3D"
+  description: "A 3D printer that folds flush to enable efficient storage"
+  repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
+  file_name: CageHome3D.md
