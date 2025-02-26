@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 
 **Author:** [@karnx](https://github.com/Fastestkyo)  
 **Repository:** [https://github.com/Fastestkyo/ED3D](https://github.com/Fastestkyo/ED3D)  
-**Total Time Spent:** 5.5 hours
+**Total Time Spent:** 20.5 hours
 
 **Project Idea:**  
 *Develop a 3D printer equipped with a holographic transparent screen that displays the printing process in real-time.*
@@ -28,10 +28,12 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
   - Gained a comprehensive understanding of 3D printer mechanics and the feasibility of incorporating a holographic screen.
 
 ### Day 2: February 16-18, 2025 (11 hours)
-- **Research and Development:**  
-  - Reasearch on parts and stuff.
-  - Learned to make 3d models
+ - Reasearch on parts and stuff.
+ - Learned to make 3d models
 
+### Day 3: February 20, 2025 (4 hours)
+-  Finished BOM!
+-  Finished making printer frame.
 ---
 
 *Note: This journal will be updated regularly to document ongoing progress and developments in the ED3D project.*

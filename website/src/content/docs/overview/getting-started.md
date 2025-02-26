@@ -1,12 +1,11 @@
 ---
-title: Getting started
+title: General outline
 description: how to get started
 ---
 
 Welcome to infill! In-*fill* the gaps you see in 3D printing with your own printer design. I'm more or less modelling this based on my experience building [Neutrino](https://theopenary.com/neutrino), which is a compact, portable 3D printer I designed *from scratch* for under $250 USD. 
 
 **Here's how to get started:**
-
 --- 
 
 ### 1. Setup
