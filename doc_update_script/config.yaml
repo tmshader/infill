@@ -228,6 +228,12 @@ Printopus:
   repository: "https://raw.githubusercontent.com/scattercat-123/Printopus/refs/heads/main/Printopus-Journey.md"
   file_name: Printopus-Journey.md
 
+Lighthouse:
+  title: "Lighthouse"
+  description: "easy to build, easy to hack, quality focused CoreXY 3D Printer."
+  repository: "https://raw.githubusercontent.com/roschreiber/Lighthouse/refs/heads/main/JOURNAL.md"
+  file_name: Lighthouse.md
+
 Emancipator:
   title: "Emancipator"
   description: "A printer with the ability to automatically eject prints and start a new one."
