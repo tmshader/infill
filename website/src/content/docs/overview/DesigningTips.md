@@ -28,9 +28,7 @@ With infill, you're going to need to design the following parts:
 - Electronics setup (what parts you want and how to arrange them)
 - Frame
 
-Each part will take a good amount of research, compromise, and iteration. Once that's done, you're good to work on other stuff!
-
-
+Each part will take a good amount of research, compromise, and iteration.
 
 
 
