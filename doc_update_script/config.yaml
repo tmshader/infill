@@ -204,6 +204,12 @@ Ducc it:
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
 
+circumlocution:
+  title: "Circumlocution"
+  description: "A circular 3D printer that is more complicated than necessary."
+  repository: "https://raw.githubusercontent.com/headblockhead/circumlocution/refs/heads/master/JOURNAL.md"
+  file_name: circumlocution.md
+
 Padimo Mini:
   title: "Padimo Mini"
   description: "tiny coreXY printer for on the go"
@@ -215,7 +221,7 @@ Penguin:
   description: "(Hopefully) The most accurate 3d printer you'll find for under $300."
   repository: "https://raw.githubusercontent.com/Lucas4680/Penguin/refs/heads/main/Devlog.md"
   file_name: Penguin.md
-
+  
 Printopus:
   title: "Printopus"
   description: "A Cheap Printer Which has many cool features such as a built-in how much filament left sensor, custom lighting in the extruder itself, and Video games in the screen itself!"
