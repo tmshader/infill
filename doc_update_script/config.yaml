@@ -252,6 +252,12 @@ t33ny:
   repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
   file_name: t33ny.md
 
+AKPrinter:
+  title: "AKPrinter (such a cringe name sob)"
+  description: "Prototype CoreXY printer that can self replicate (?) and will be USB-C powered (??)"
+  repository: "https://raw.githubusercontent.com/hash-ak/AK-Printer/refs/heads/main/JOURNAL.md"
+  file_name: AKPrinter.md
+
 Daedelus:
   title: "Daedelus"
   description: "CoreXY with swapable toolhead"
@@ -269,3 +275,4 @@ CageHome3D:
   description: "A 3D printer that folds flush to enable efficient storage"
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
+
