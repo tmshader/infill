@@ -18,8 +18,8 @@ This printer is built to print small parts needed fast at robotics competitions 
 
 # Total Time
 
-Aaron: 19h
-Evan: 8h
+Aaron: 23h
+Evan: 13h
 
 # Feb 12 2025
 
@@ -264,3 +264,48 @@ Instead of making it fold and making it fast, go all out on the portable aspect 
 ## Aaron 
 Spent a lot of time researching Linear rails/rods and how to hold a heated bed.
 A lot of Cadding
+
+# Feb 24 2025
+
+Evan: 2h
+Aaron: 1h
+
+Discussed details over dinner.
+### USB PD Power Supply
+- 240W power budget (400 max but we wont be testing this)
+- Load balancing (diodes) / backfeeding
+- Boost -> 24v
+- Screw terminal output
+- Automatic negotiation
+- 4 USB-C inputs
+- Screw terminal input (bypasses load balancer and connects directly to output screw terminals)
+ -> (For testing)
+- Boost every input before load balancing to prevent issues w/ voltage diff
+- Pico negotiates even wattage from all to reduce load on balancer
+- Digitally set target voltage via pico (?)
+
+# Feb 25 2025
+
+Evan: 1h
+Aaron: 0h
+
+Did some research on USB-C PD controllers.
+There are a couple options, but i've only looked at two so far:
+
+| Name                                                                     | Max V | Max A | Max W | I2C Address Configurable | Notes                                    | Suitable |
+|--------------------------------------------------------------------------|-------|-------|-------|--------------------------|------------------------------------------|----------|
+| [TPS65987D](https://www.ti.com/lit/ds/symlink/tps65987d.pdf)             | 20V   | 5A    | 100W  | Yes (ADCIN1/ADCIN2)      | Address configured with Analog signal(?) | Yes      |
+| [STUSB4500](https://www.st.com/resource/en/datasheet/stusb4500.pdf)      | 20V   | 5A    | 100W  | Yes (ADDR0/ADDR1)        | MAX 4 on 1 i2c line. (See 4.1)           | Yes      |
+| [FUSB302](https://www.onsemi.com/download/data-sheet/pdf/fusb302b-d.pdf) | 20V   | 5A    | 100W  | No                       |                                          | No       |
+
+# Feb 24-26
+Aaron: 3h
+Evan: 2h
+
+Decided to build a custom tool head similar to ESO3D. CADing that and gantry.
+
+
+Inspiration:
+ESO3D
+Creality K1
+Voron V0
