@@ -273,3 +273,21 @@ I have been slacking a little bit on the journal while finishing the printer off
 Soon, I will order the parts, print the printed parts and start building!
 
 ![Day 18 Image Update](https://cloud-jl6bb650r-hack-club-bot.vercel.app/0image.png)
+
+# Day 19, 20 (February 23rd-24th)
+
+Hours worked: **3**
+
+Total hours on project: **49**
+
+### Ordering the Parts
+
+With the printer completed, I successfully received my grant! Before placing orders, I had to swap out several parts due to availability issues. I then ordered the Carto probe and Raspberry Pi Zero from their respective websites. However, I encountered payment issues on AliExpress, as my card was being declined. After several attempts and troubleshooting, I finally managed to place the order successfully. Now, all that's left is to wait for the parts to arrive and finish printing all the necessary components!
+
+### Colouring the Printed Parts
+
+I want my printer to be black with green accents, so I painted some selected parts green for contrast. Additionally, I created a 3MF file to easily reproduce the design in the future.
+
+![3MF Preview](https://hc-cdn.hel1.your-objectstorage.com/s/v3/71b41a256b6bdfb93f0ce93d5b54ac887ebdfaff_screenshot_2025-02-24_at_10.16.11___pm.png)
+
+![Day 20 Image Update](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fd126409a3874a5b7fc16f55c6bd4d3ca9707a52_screenshot_2025-02-24_at_10.16.00___pm.png)

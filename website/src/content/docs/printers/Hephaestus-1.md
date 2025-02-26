@@ -9,19 +9,19 @@ title: "Hephaestus-1"
 description: "A Core XY Printer"
 Made by : Boa_N
 
-Total time: 25 hours 50 mins (Idk how accurate this is probably pretty close tho)
+Total time: 34 hours 50 mins (Idk how accurate this is probably pretty close tho)
 
 - [x] I have a 3D printer or will be getting one before March 21st (friend)
 
 Time : `research: 2 hour 55 min,
-  readme: 1 hour 25  min, Fusion360: 24 hours 30 mins `
+  readme: 1 hour 25  min, Fusion360: 31 hours 30 mins `
   
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
 
 Nicknamed "fire hazard"
 
 ## Goals and Requirments
-- standard 250mm x 250mm
+- standard 235 x 235mm
 - CoreXY
 - Enclosed
 - at least 150mm/s
@@ -198,6 +198,64 @@ Description:
    - good enough
    - cheap
 ![image](https://github.com/user-attachments/assets/c2e15e13-5a24-445f-aa63-6add3e7ac55c)
+
+
+
+
+</details>
+<details>
+<summary> Day 8, No time to work on it, Feb 22, 2025 </summary>
+time: 0 hours
+
+Total Time 28 hours 50 mins
+
+
+
+Description: 
+- I did nothing 
+![image](https://github.com/user-attachments/assets/c2e15e13-5a24-445f-aa63-6add3e7ac55c)
+
+
+
+
+</details>
+<details>
+<summary> Day 9, First Pass of Cad (pt.6) & PAIN, Feb 23, 2025 </summary>
+time: 3 hours
+
+Total Time 31 hours 50 mins
+
+Time : `Fusion360: 3 hours`
+
+Description: 
+- IDK how to make a printer head (I love being to stupid for this)
+![image](https://github.com/user-attachments/assets/a5472564-a4c6-4f01-8d40-ba73c8ec1fc2)
+
+
+
+
+
+</details>
+<details>
+<summary> Day 10, First Pass of Cad (pt.7) But Mainly PAIN, Feb 23, 2025 </summary>
+time: 3 hours
+
+Total Time 34 hours 50 mins
+
+Time : `Fusion360: 3 hours`
+
+![CRY](https://github.com/user-attachments/assets/6c8db228-70f5-472a-a2c6-8bf4cd85b180)
+
+Description: 
+- I fixed a lot of the errors and warnings
+- started to work more on the head
+
+Before:
+![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
+
+
+After:
+![image](https://github.com/user-attachments/assets/3905bee0-3666-49a8-ad22-a9b1c569a358)
 
 
 

@@ -10,7 +10,7 @@ Total Wakatime Hours so far: 1 (source: [wakatime](https://waka.hackclub.com))
 
 Total research Hours so far: 13 (source: logbook)
 
-Total Hours so far: 14
+Total Hours so far: 17
 
 ## Design Requirements
 - Core XY
@@ -137,6 +137,22 @@ and I realised fairly early on that I should look at a combo build, because they
 which is something that I hadn't actually realised before lmao. That saves me so much time and effort though.
 
 Hours added today: 2
+
+## Feb 22
+Was quite busy yesterday so didn't get any chance to work on the design, but today I'm working on laying
+out the body of the printer itself.
+
+Oh also found this NEMA17 motor that looks like it'll be a good idea for my toolhead: 
+https://aus3d.com.au/products/nema-17-34mm-stepper-motor
+
+Update: Progress has been going fairly well. I'm busy researching how things like my
+lead screws can actually mount to my top part and such. I'm going to have to head out
+for a while though, although I've spent at least like 2 hours on this so far which is good.
+
+Didn't end up doing much more after, maybe an hour or so of tweaking and a bit of researching on lead screws more.
+
+Hours spent: 3
+
 
 ## Resources
 Torque to Force calculator: https://calculator.academy/torque-to-force-calculator/
