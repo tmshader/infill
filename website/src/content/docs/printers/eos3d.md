@@ -239,3 +239,55 @@ Total hours on project: **35**
 I have been working on the mounts and positioning of the Z-axis. Due to the simplicity of the design, not much work was required.
 
 ![Day 12 Image Update](https://cdn.hackclubber.dev/slackcdn/9dd1866b2d3fc9640cf4d49463ad577b.png)
+
+# Day 14, 15, 16 (February 16th-19th)
+
+Hours worked: **5**
+
+Total hours on project: **40**
+
+### Finish Z Axis
+
+Over day 14, 15, and the start of day 16, I finished the Z axis. This means I will be starting the last axis of the project, the Y axis.
+
+### Start Y Axis
+
+On day 16, I started the Y axis. As of now, I have the extrusion, rails, and carriage designed. The carriage will be 3D printed with the [CarbonX PA12-CF](https://www.3dxtech.com/products/carbonx-nylon-12-cf-1). It is an expensive filament; however, it has a very high Tg (150°C) compared to Bambulab PAHT-CF and Polymaker's counterpart (both are around 70°C).
+
+Tomorrow, I will design the endplates for the rails and extrusion, the mount holding the carriage to the bearings, and the belting.
+
+Other than that, I just have to design the mounts for the electronics (motherboard, RPi, and power supply), and I'm done!
+
+![Day 16 Image Update](https://cdn.hackclubber.dev/slackcdn/5d2f14b4353562e499ad78343011c570.png)
+
+# Day 17, 18 (February 20th-21st)
+
+Hours worked: **6**
+
+Total hours on project: **46**
+
+### Finish the printer!
+
+I have been slacking a little bit on the journal while finishing the printer off. Anyways, its done! I don't have much to say but it was just a lot of fitting things together and basic problem solving. I will be revising the BOM tomorrow to add some things that have changed.
+
+Soon, I will order the parts, print the printed parts and start building!
+
+![Day 18 Image Update](https://cloud-jl6bb650r-hack-club-bot.vercel.app/0image.png)
+
+# Day 19, 20 (February 23rd-24th)
+
+Hours worked: **3**
+
+Total hours on project: **49**
+
+### Ordering the Parts
+
+With the printer completed, I successfully received my grant! Before placing orders, I had to swap out several parts due to availability issues. I then ordered the Carto probe and Raspberry Pi Zero from their respective websites. However, I encountered payment issues on AliExpress, as my card was being declined. After several attempts and troubleshooting, I finally managed to place the order successfully. Now, all that's left is to wait for the parts to arrive and finish printing all the necessary components!
+
+### Colouring the Printed Parts
+
+I want my printer to be black with green accents, so I painted some selected parts green for contrast. Additionally, I created a 3MF file to easily reproduce the design in the future.
+
+![3MF Preview](https://hc-cdn.hel1.your-objectstorage.com/s/v3/71b41a256b6bdfb93f0ce93d5b54ac887ebdfaff_screenshot_2025-02-24_at_10.16.11___pm.png)
+
+![Day 20 Image Update](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fd126409a3874a5b7fc16f55c6bd4d3ca9707a52_screenshot_2025-02-24_at_10.16.00___pm.png)
