@@ -18,8 +18,8 @@ This printer is built to print small parts needed fast at robotics competitions 
 
 # Total Time
 
-Aaron: 20h
-Evan: 11h
+Aaron: 23h
+Evan: 13h
 
 # Feb 12 2025
 
@@ -297,3 +297,15 @@ There are a couple options, but i've only looked at two so far:
 | [TPS65987D](https://www.ti.com/lit/ds/symlink/tps65987d.pdf)             | 20V   | 5A    | 100W  | Yes (ADCIN1/ADCIN2)      | Address configured with Analog signal(?) | Yes      |
 | [STUSB4500](https://www.st.com/resource/en/datasheet/stusb4500.pdf)      | 20V   | 5A    | 100W  | Yes (ADDR0/ADDR1)        | MAX 4 on 1 i2c line. (See 4.1)           | Yes      |
 | [FUSB302](https://www.onsemi.com/download/data-sheet/pdf/fusb302b-d.pdf) | 20V   | 5A    | 100W  | No                       |                                          | No       |
+
+# Feb 24-26
+Aaron: 3h
+Evan: 2h
+
+Decided to build a custom tool head similar to ESO3D. CADing that and gantry.
+
+
+Inspiration:
+ESO3D
+Creality K1
+Voron V0
