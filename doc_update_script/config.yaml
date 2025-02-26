@@ -234,6 +234,12 @@ Lighthouse:
   repository: "https://raw.githubusercontent.com/roschreiber/Lighthouse/refs/heads/main/JOURNAL.md"
   file_name: Lighthouse.md
 
+Your Printer Name:
+  title: "PrintLA"
+  description: "A small, portable, budget 3D Printer that uses PLA fillament."
+  repository: "  https://raw.githubusercontent.com/amino47/PrintLA-3D-Printer/refs/heads/main/JOURNAL.md"
+  file_name: PrintLA3D.md
+
 Emancipator:
   title: "Emancipator"
   description: "A printer with the ability to automatically eject prints and start a new one."
