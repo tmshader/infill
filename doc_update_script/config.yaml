@@ -203,7 +203,7 @@ Ducc it:
   description: "Can't afford a printer? Ducc it, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads/main/Duccbook.md"
   file_name: Ducc-it.md
-
+ 
 circumlocution:
   title: "Circumlocution"
   description: "A circular 3D printer that is more complicated than necessary."
@@ -299,3 +299,9 @@ CageHome3D:
   description: "A 3D printer that folds flush to enable efficient storage"
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
+
+NonLinear:
+  title: "NonLinear"
+  description: "5-axis printer designed for precision and complex parts"
+  repository: "https://github.com/Jyst7/NonLinear"
+  file_name: nonlinear.md
