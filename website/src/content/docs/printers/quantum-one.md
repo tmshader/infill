@@ -6,11 +6,15 @@ repository: "https://raw.githubusercontent.com/Echo-Labs-Development/Quantum-One
 ---
 # The Plan
 
+![Half Finished Skirt](https://cloud-jb6ebx4e5-hack-club-bot.vercel.app/0untitled_presentation_11_.png)
+
 Made by: Henry([@HenryNerd](https://github.com/HenryNerd))
 
 Repository Link: [https://github.com/Echo-Labs-Development/Quantum-One](https://github.com/Echo-Labs-Development/Quantum-One)
 
-Total Hours: 18 Hours
+Total Hours: 40 Hours
+
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/30215e2db6831e5d2b626288a596c79615d21eea_image.png)
 
 ## Goals
 - Quiet enough to be next to you on your desk
@@ -33,8 +37,14 @@ Total Hours: 18 Hours
 | 2.3.25 | 5 Hours |
 | 2.5.25 | 1 Hours |
 | 2.8.25 | 6 Hours |
+| 2.17.25 | 6 Hours |
+| 2.18.25 | 4 Hours |
+| 2.23.25 | 5 Hours |
+| 2.24.25 | 2 Hours |
+| 2.25.25 | 2 Hours |
 
-### Total Hours: 18 Hours
+
+### Total Hours: 40 Hours
 
 ## BOM
 [BOM.md](https://github.com/Echo-Labs-Development/Quantum-One/blob/8280ed5a5fece50f8bd1d9ca4763da4ab5bdc901/BOM.md)
@@ -66,7 +76,16 @@ Total Hours: 18 Hours
 ![Half Finished Skirt](https://cloud-o589vt3c5-hack-club-bot.vercel.app/0screenshot_2025-02-03_at_9.30.14___pm.png)
 
 ## Meteorite Toolhead
-The Meteorite Toolhead is a custom toolhead designed 
+The Meteorite Toolhead is a custom toolhead designed specificly for the Quantum One. It uses a Triangle Lab CHC V6 and a LDO Orbiter v2.5. 
+
+### Rev 01
+![Meteorite Toolhead](https://cdn.hackclubber.dev/slackcdn/c8221ae918d158a0b5529569b7dc8516.png)
+
+### Rev 02
+![Meteorite Toolhead](https://cloud-buerphdqo-hack-club-bot.vercel.app/0image.png)
+
+### Rev 03
+![Meteorite Toolhead](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1b58a33db7e2a984d8df5b94a2ce6421278916f8_image.png)
 
 ## Timeline
 Mar 1st - Finish Design
@@ -80,3 +99,6 @@ Apr 23rd - Finish Tuning
 May 2nd - Ship to RMRRF
 
 May 16th - Ship Myself to RMRRF
+
+# XY Stepper Mount
+![Half Finished Skirt](https://cloud-4ai7mgw57-hack-club-bot.vercel.app/0image.png)
