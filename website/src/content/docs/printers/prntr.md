@@ -7,7 +7,7 @@ repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/desig
 # prntr
 Made by: @dari // alexren
 Repository link: https://github.com/qcoral/infinite-benchy-theorem
-Total hours so far: 5
+Total hours so far: 11
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -65,3 +65,31 @@ I've always wanted a 3D printer that can quickly print parts for prototyping. Th
 
 
 We are a littleee over budget atm but that should hopefully come down once we research cheaper alternatives/finalise parts.
+
+
+
+# Starting CAD
+
+## Initial hotend mount: 2 hours
+Ok this is the most difficult step so far... Mainly because i have no idea what to do (and my amazing fusion skills)
+
+Just went straight into it and imported the hotend into fusion and started making a mount. Took some inspiration from e3dv6 hotend mounts online.
+
+Progress:
+![image](https://github.com/user-attachments/assets/4fd18eb9-88f5-4aba-be0d-0b909c0debef)
+
+## Hotend fan mount: 1 hour
+
+Today I started work on a mount for the cooling fan for the hotend. Had no idea what to make and spent too long overthinking it :sob:
+Learnt that its better to go straight into it and use your imagination rather than keeping all of your ideas in your head.
+
+Progress:
+![image](https://github.com/user-attachments/assets/7705d917-33b2-4436-bf3c-cbcdbf8c2eb4)
+
+## Extruder: 3 hours
+
+I spent wayy too long on this. Mainly learning how to do different things in fusion 360 e.g. importing and scaling components. Using a premade extruder and made the mount for it today. Im hoping the screwholes line up because I kinda winged it for this one...
+
+Progress:
+![image](https://github.com/user-attachments/assets/638ae73a-a623-49fe-aa5e-f5f60c905dd8)
+
