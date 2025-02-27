@@ -9,12 +9,12 @@ title: "Hephaestus-1"
 description: "A Core XY Printer"
 Made by : Boa_N
 
-Total time: 34 hours 50 mins (Idk how accurate this is probably pretty close tho)
+Total time: 36 hours 50 mins (Idk how accurate this is probably pretty close tho)
 
 - [x] I have a 3D printer or will be getting one before March 21st (friend)
 
 Time : `research: 2 hour 55 min,
-  readme: 1 hour 25  min, Fusion360: 31 hours 30 mins `
+  readme: 1 hour 25  min, Fusion360: 33 hours 30 mins `
   
 Hephaestus is the god of artisens and craftsman. with this printer I want to be able to create cool things just like a artisen or craftsman would.
 
@@ -286,22 +286,22 @@ After:
 
 </details>
 <details>
-<summary> Day 11, First Pass of Cad (pt.9), Feb 26, 2025 </summary>
-time: 3 hours
+<summary> Day 12, First Pass of Cad (pt.9), Feb 26, 2025 </summary>
+time: 2 hours
 
-Total Time 34 hours 50 mins
+Total Time 36 hours 50 mins
 
-Time : `Fusion360: 3 hours`
+Time : `Fusion360: 2 hours`
 
 Description: 
-- I fixed a lot of the errors and warnings
-- started to work more on the head
+- I worked on the head and final created an actual design YAY
 
 Before:
 ![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)
 
 
 After:
+![image](https://github.com/user-attachments/assets/34b59ce4-c341-4419-b187-b77011844731)
 
 
 
