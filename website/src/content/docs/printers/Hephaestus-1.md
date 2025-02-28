@@ -9,7 +9,7 @@ title: "Hephaestus-1"
 description: "A Core XY Printer"
 Made by : Boa_N
 
-Total time: 36 hours 50 mins (Idk how accurate this is probably pretty close tho)
+Total time: 39 hours 50 mins (Idk how accurate this is probably pretty close tho)
 
 - [x] I have a 3D printer or will be getting one before March 21st (friend)
 
@@ -235,6 +235,8 @@ After:
 
 ### Description:  
 - Worked on the head and finally created an actual design, YAY!
+- found a decent oled https://newhavendisplay.com/3-12-inch-white-graphic-oled-module/ 
+
 
 Head:
 
@@ -247,5 +249,6 @@ Head:
 Before:  
 ![image](https://github.com/user-attachments/assets/6ae70ccb-77ff-43a4-907c-17767bbde163)  
 After:  
-![image](https://github.com/user-attachments/assets/d2100031-bdc8-4c58-a6fc-05330ed4038f)
+![image](https://github.com/user-attachments/assets/6038ce0c-6480-4f90-bb42-6374280d5def)
+
 
