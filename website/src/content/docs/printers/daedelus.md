@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/meowkewok/Daedelus/refs/heads/mai
 
 Made by: @Meowkewok  
 Repository link: https://github.com/meowkewok/Daedelus  
-Total hours so far: 8.5   
+Total hours so far: 11   
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -44,6 +44,7 @@ BOM Total: ~$375 (needs to be cut down)
 |2/23/2025|CAD, Research|3 hours||
 |2/26/2025|Bit more BOM|30 mins|Buying cheap parts from China|
 |2/27/2025|Bit more BOM, some research|1 Hour||
+|2/28/2025|Tons of CAD!|2.5 Hours|Finished the XY gantry!|
 
 ## Ideas for Attachments:
 - 3d Extruder (obviously)
