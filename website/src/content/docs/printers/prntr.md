@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/desig
 ---
 # prntr
 Made by: @dari // alexren
-Repository link: https://github.com/qcoral/infinite-benchy-theorem
+Repository link: https://github.com/M0HID/prntr
 Total hours so far: 11
 
 - [x] I have a 3D printer or will be getting one before March 21st
@@ -92,4 +92,15 @@ I spent wayy too long on this. Mainly learning how to do different things in fus
 
 Progress:
 ![image](https://github.com/user-attachments/assets/638ae73a-a623-49fe-aa5e-f5f60c905dd8)
+
+## Part cooling fan + duct: 3 hours
+
+This is by far the most difficult thing i have had to model so far, mainly due to the rounded shape of the duct. Spent around 2 hours just trying different shapes and here is v1 of the cooling duct:
+
+![image](https://github.com/user-attachments/assets/29e03186-944a-46f8-bbf2-0930d4c9e20d)
+I will be remaking this shape however because the output of the duct isnt exactly in the correct position and the shape seems a little too big.
+
+Update: I remade the duct shape and now it looks a lot better, i have decreased the output width of the duct and also changed its shape to be more rounded. The output is also tilted so it is aiming more downwards.
+
+![image](https://github.com/user-attachments/assets/a2de6761-0b82-495b-b77d-b459020dae20)
 
