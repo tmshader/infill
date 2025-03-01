@@ -4,6 +4,14 @@ description: "Production-ready 3d printer based on a Ender 5 frame, with multifu
 project_name: "Meteroid"
 repository: "https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Changelog.md"
 ---
+Made by: @techy-robot
+
+Repository link: https://github.com/techy-robot/Meteoroid
+
+Total hours so far: 7 hrs
+
+- [x] I have a 3D printer or will be getting one before March 21st
+
 # Overview
 Production-ready 3d printer based on a Ender 5 frame, with multifunction tool changing, bed changing, and accessories with robots.
 https://github.com/techy-robot/Meteoroid
@@ -24,8 +32,6 @@ Goals/Requirements:
 - Enclosed
 - High speed 500mm/s and 30k accel
 - High Quality
-
-Total Aggrigate Hours Spent: 6 hrs
 
 Project Time Span: Feb 1, 2025-Present
 
