@@ -12,7 +12,7 @@ Made by: Henry([@HenryNerd](https://github.com/HenryNerd))
 
 Repository Link: [https://github.com/Echo-Labs-Development/Quantum-One](https://github.com/Echo-Labs-Development/Quantum-One)
 
-Total Hours: 42 Hours
+Total Hours: 46 Hours
 
 ![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/30215e2db6831e5d2b626288a596c79615d21eea_image.png)
 
@@ -43,9 +43,10 @@ Total Hours: 42 Hours
 | 2.24.25 | 2 Hours |
 | 2.25.25 | 2 Hours |
 | 2.26.25 | 2 Hours |
+| 2.28.25 | 4 Hours |
 
 
-### Total Hours: 42 Hours
+### Total Hours: 46 Hours
 
 ## BOM
 [BOM.md](https://github.com/Echo-Labs-Development/Quantum-One/blob/8280ed5a5fece50f8bd1d9ca4763da4ab5bdc901/BOM.md)
@@ -89,7 +90,7 @@ The Meteorite Toolhead is a custom toolhead designed specificly for the Quantum 
 ![Meteorite Toolhead](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1b58a33db7e2a984d8df5b94a2ce6421278916f8_image.png)
 
 ### Rev 04
-Image Comming Soon (cdn down :{ )
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/79140e19e96355a6cf991bf583c19a091d5182d9_screenshot_2025-02-28_at_9.05.44___pm.png)
 
 ## Timeline
 Mar 1st - Finish Design
@@ -106,3 +107,6 @@ May 16th - Ship Myself to RMRRF
 
 # XY Stepper Mount
 ![Half Finished Skirt](https://cloud-4ai7mgw57-hack-club-bot.vercel.app/0image.png)
+
+# Power Supply Mount
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/77ada97038b5bccfc86ac20b60b5c705fe3e4518_image.png)
