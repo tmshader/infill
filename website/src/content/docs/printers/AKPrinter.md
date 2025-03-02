@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/hash-ak/AK-Printer/refs/heads/mai
 ---
 Made by: @Hash-AK
 Repository link: https://github.com/Hash-AK/AK-Printer/
-Total hours so far: 4:30 hour
+Total hours so far: 6:00 hour
 
 - [x] I have access to a makerspace 3d printer, can't make infinite print with it tho
 
@@ -56,6 +56,11 @@ I'm also searching on how to make the USB-C power. The main problem is that, fro
 CAD time : 1:05 minutes
 Research : 1 hour
 
+# Day 5 (2 March 2025)
+
+I added the extruder's motor (LBO Orbiter V2) and the extruder/hotend (TZ V2), added all that in my FreeCad project, then I gotta start making the printhead.
+
+CAD + Research time : 1:30 
 # Ressources I found
 - https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
 - https://kingroon.com/blogs/3d-print-101/cartesian-vs-corexy
