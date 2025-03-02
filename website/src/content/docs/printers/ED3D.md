@@ -27,13 +27,17 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
   - Updated the Bill of Materials (BOM) to include components suitable for integrating holographic visualization.
   - Gained a comprehensive understanding of 3D printer mechanics and the feasibility of incorporating a holographic screen.
 
-### Day 2: February 16-18, 2025 (11 hours)
+### Days 2-4: February 16-18, 2025 (11 hours)
  - Reasearch on parts and stuff.
  - Learned to make 3d models
 
-### Day 3: February 20, 2025 (4 hours)
+### Day 5: February 20, 2025 (4 hours)
 -  Finished BOM!
 -  Finished making printer frame.
+
+### Days 6-16: February 21 - March 2 (24 hours)
+- Finished Z axis basic
+- Updated BOM
 ---
 
 *Note: This journal will be updated regularly to document ongoing progress and developments in the ED3D project.*
