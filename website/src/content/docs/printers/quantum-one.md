@@ -12,7 +12,7 @@ Made by: Henry([@HenryNerd](https://github.com/HenryNerd))
 
 Repository Link: [https://github.com/Echo-Labs-Development/Quantum-One](https://github.com/Echo-Labs-Development/Quantum-One)
 
-Total Hours: 46 Hours
+Total Hours: 48 Hours
 
 ![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/30215e2db6831e5d2b626288a596c79615d21eea_image.png)
 
@@ -44,9 +44,10 @@ Total Hours: 46 Hours
 | 2.25.25 | 2 Hours |
 | 2.26.25 | 2 Hours |
 | 2.28.25 | 4 Hours |
+| 3.3.25 | 2 Hours |
 
 
-### Total Hours: 46 Hours
+### Total Hours: 48 Hours
 
 ## BOM
 [BOM.md](https://github.com/Echo-Labs-Development/Quantum-One/blob/8280ed5a5fece50f8bd1d9ca4763da4ab5bdc901/BOM.md)
