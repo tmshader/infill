@@ -8,7 +8,7 @@ Made by: @chunyinkwong // https://github.com/chunyinkwong/
 
 Repository link: https://github.com/chunyinkwong/infill-journal
 
-Total hours so far: 1
+Total hours so far: 2
 
 - [x] I have access to 3D printing facilities and am able to obtain printed models on or before March 21st.
 
@@ -40,3 +40,8 @@ Printer type:
     - Stability issues
 - Rectilinear
  
+## 5th March 2025
+
+CAD: 1 hour
+
+Installed Fusion360 and watched some tutorials on how to use CAD software
