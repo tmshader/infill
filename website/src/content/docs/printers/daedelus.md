@@ -8,19 +8,19 @@ repository: "https://raw.githubusercontent.com/meowkewok/Daedelus/refs/heads/mai
 
 Made by: @Meowkewok  
 Repository link: https://github.com/meowkewok/Daedelus  
-Total hours so far: 12.5   
+Total hours so far: 13.5   
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
 Daedelus was a Greek inventor, builder, and tinkerer, hence the name.
 
 ## Design goals: 
-- CoreXY
-- 300 x 300 x 250 (at least) mm Build area
-- Swappable toolhead (maybe magnets?)
-- Very rigid
-- Under $500
-- Looks cool
+- [x] CoreXY
+- [x] 300 x 300 x 250 (at least) mm Build area
+- [ ] Swappable toolhead (maybe magnets?)
+- [ ] Very rigid
+- [ ] Under $500
+- [ ] Looks cool
 
 ## BOM
 BOM Total: ~$375 (needs to be cut down)
@@ -47,7 +47,7 @@ BOM Total: ~$375 (needs to be cut down)
 |2/26/2025|Bit more BOM|30 mins|Buying cheap parts from China|
 |2/27/2025|Bit more BOM, some research|1 Hour||
 |2/28/2025|Tons of CAD!|3 Hours|Finished the XY gantry!, started Z axis/frame|
-|3/6/2025|More CAD!|1 Hour|Worked on frame|
+|3/6/2025|More CAD! Also made a belt routing pic|2 Hour|Worked on frame|
 
 ## Ideas for Attachments:
 - 3d Extruder (obviously)
@@ -59,9 +59,11 @@ BOM Total: ~$375 (needs to be cut down)
 ## Detailed Log
 3/6/2025  
 Last time I was working, I finished the Z-Axis, however, I still need a frame...
-![image](https://github.com/user-attachments/assets/ad0c2183-4e92-49cb-bfbe-74857ae6f1a0)
+![image](https://github.com/user-attachments/assets/ad0c2183-4e92-49cb-bfbe-74857ae6f1a0)  
 Need to take a break, but here is progress (after 1 hour):
-![image](https://github.com/user-attachments/assets/bf1df8d6-a668-471f-a1fd-dd65f7159161)
+![image](https://github.com/user-attachments/assets/bf1df8d6-a668-471f-a1fd-dd65f7159161)  
+Here is the belt routing pic (ik its a bit wonky):
+![XY Axis Assemby v14](https://github.com/user-attachments/assets/6ac167ef-7925-4199-b3bf-ac91b8dc63a7)  
 
 
 ### Credits:  
