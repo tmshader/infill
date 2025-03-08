@@ -38,6 +38,14 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 ### Days 6-16: February 21 - March 2 (24 hours)
 - Finished Z axis basic
 - Updated BOM
+
+### Days 17- 22: March 2 - 6 (5 hours)
+- Added support to heatbed
+- research
+  
+![image](https://github.com/user-attachments/assets/a56423a7-f586-4adb-a9e5-d7c679b7e917)
+
 ---
+
 
 *Note: This journal will be updated regularly to document ongoing progress and developments in the ED3D project.*
