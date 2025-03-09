@@ -48,3 +48,9 @@ Struggled to download and use autodesk cdf. When I finally began running simulat
 Settled on frame designl, bedslinger. Began working on X axis mount and belt drive.
 ![image](https://github.com/user-attachments/assets/f56e778a-a176-4f15-a74f-409ac1c81624)
 
+3/8/25 - 2hr 30m
+Locked in on CFD, created first two iterations of my first design, a 2 stream blower funnel.
+V1:![image](https://github.com/user-attachments/assets/d6fb6bbf-abf5-4dd4-85ee-c999e6ce05dc)
+V2:![image](https://github.com/user-attachments/assets/e30228c6-5c0f-4b0e-804d-912f68678d95)
+Both completely missed the nozzle end ._.
+
