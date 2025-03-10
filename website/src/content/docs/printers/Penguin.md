@@ -54,6 +54,9 @@ V1:![image](https://github.com/user-attachments/assets/d6fb6bbf-abf5-4dd4-85ee-c
 V2:![image](https://github.com/user-attachments/assets/e30228c6-5c0f-4b0e-804d-912f68678d95)
 Both completely missed the nozzle end ._.
 
-3/9/25
+3/9/25 - 3hr
 Finished second version of the double funnel, promising first results
 ![image](https://github.com/user-attachments/assets/1b03d269-07cb-4faf-bdef-5f28e6cfacef)
+Finished the frame and brackets for all 3 axis. The printer's really starting to come together.
+![image](https://github.com/user-attachments/assets/6395274d-2a62-40a7-8633-4aeda7ff58d1)
+
