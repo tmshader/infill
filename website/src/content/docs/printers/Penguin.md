@@ -7,7 +7,7 @@ repository: "https://raw.githubusercontent.com/Lucas4680/Penguin/refs/heads/main
 REQUIREMENTS
   - 
 
-Total hours: 11
+Total hours: 23.5
 
 BOM: https://docs.google.com/spreadsheets/d/1BoM7iUl6QUpEB06v-WNWhYhMciubwFNZ1HohTmLiy30/edit?usp=sharing
 
