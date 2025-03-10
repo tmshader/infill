@@ -288,6 +288,30 @@ With the printer completed, I successfully received my grant! Before placing ord
 
 I want my printer to be black with green accents, so I painted some selected parts green for contrast. Additionally, I created a 3MF file to easily reproduce the design in the future.
 
-![3MF Preview](https://hc-cdn.hel1.your-objectstorage.com/s/v3/71b41a256b6bdfb93f0ce93d5b54ac887ebdfaff_screenshot_2025-02-24_at_10.16.11___pm.png)
+**The images for this day were lost :(**
 
-![Day 20 Image Update](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fd126409a3874a5b7fc16f55c6bd4d3ca9707a52_screenshot_2025-02-24_at_10.16.00___pm.png)
+# Day 21, 22, 23 (March 7th-9th)
+
+Hours worked: **10**
+
+Total hours on project: **59**
+
+### Parts came in!
+
+I have received all but one part. This means I can get building! Before printing, I tested all the electronic parts to make sure they were working. Luckily they all were working as advertised so I began printing!
+
+### PSU Changes
+
+Before printing, I realized the PSU was much bigger than the CAD model I initially chose. Therefore, I had to make some changes to the bumper to compensate for this change.
+
+### Hotend Changes
+
+I made some slight changes to some of the hotend assembly to improve printability and a few fixes.
+
+I'm hoping to be able to start building everything tomorrow morning!
+
+### TODO
+
+- Add back all the fasteners lost with the changes
+
+![Day 23 Image Update](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a603d0c305e98e05ddfa00b68a038d78b514b342_image.png)
