@@ -60,3 +60,7 @@ Finished second version of the double funnel, promising first results
 Finished the frame and brackets for all 3 axis. The printer's really starting to come together.
 ![image](https://github.com/user-attachments/assets/6395274d-2a62-40a7-8633-4aeda7ff58d1)
 
+3/11/25 - 1hr
+Began researching for beds and electronics
+Finished X and Z movement systems (specifically belt mounts)
+![image](https://github.com/user-attachments/assets/5c39bbb9-b04c-459f-9aa3-76788edd1f90)
