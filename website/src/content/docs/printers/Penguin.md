@@ -63,4 +63,5 @@ Finished the frame and brackets for all 3 axis. The printer's really starting to
 3/11/25 - 1hr
 Began researching for beds and electronics
 Finished X and Z movement systems (specifically belt mounts)
+Build volume is currently looking to be around 19 x 25 x 16 (xyz), which I'll definitely have to look into tomorrow. One way is to cut down the Y axis by 5, which brings the volume to a fairly square 19x20x16
 ![image](https://github.com/user-attachments/assets/5c39bbb9-b04c-459f-9aa3-76788edd1f90)
