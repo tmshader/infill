@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/meowkewok/Daedelus/refs/heads/mai
 
 Made by: @Meowkewok  
 Repository link: https://github.com/meowkewok/Daedelus  
-Total hours so far: 13.5   
+Total hours so far: 15   
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -38,6 +38,8 @@ BOM Total: ~$375 (needs to be cut down)
 |Lead Screw Coupler|2|$2.5|https://www.aliexpress.us/item/3256806935585490.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.2.43d1eXWheXWh7C&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=4129a269-8bff-4c93-a41d-8f3881bd4cf1&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:4129a269-8bff-4c93-a41d-8f3881bd4cf1,tpp_buckets:668%232846%238110%231995&pdp_ext_f=%7B%22order%22%3A%221066%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%7D&pdp_npi=4%40dis%21USD%212.53%210.99%21%21%2118.30%217.21%21%40%2112000039472281805%21rec%21US%21%21ABX&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A|$5|
 |M3/M4/M5 bolts + nuts|1|$12|https://www.aliexpress.us/item/3256805690668398.html?spm=a2g0o.productlist.main.5.4f5f45cdHMQp8k&algo_pvid=24515cc1-e107-4679-920a-cb3ce2f612d6&algo_exp_id=24515cc1-e107-4679-920a-cb3ce2f612d6-4&pdp_ext_f=%7B%22order%22%3A%2289%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%217.50%214.00%21%21%2154.14%2128.89%21%402101c80017416473105057760e6a3c%2112000038240155004%21sea%21US%210%21ABX&curPageLogUid=TId63rXPS906&utparam-url=scene%3Asearch%7Cquery_from%3A||
 |4x2 Magnets|1|$1|https://www.aliexpress.us/item/3256807003208737.html?spm=a2g0o.productlist.main.3.32e4605fVUjuoO&algo_pvid=6dfc16f6-4558-413d-b06d-d125a583f44b&algo_exp_id=6dfc16f6-4558-413d-b06d-d125a583f44b-2&pdp_ext_f=%7B%22order%22%3A%221662%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%213.14%210.99%21%21%2122.80%217.19%21%40%2112000039747098307%21sea%21US%210%21ABX&curPageLogUid=h6lus0tn7X4w&utparam-url=scene%3Asearch%7Cquery_from%3A|$1|
+|Anti-Backlash nut|2|$1|https://www.aliexpress.us/item/3256804076887678.html?spm=a2g0o.productlist.main.2.7ee94e68xZUXwL&algo_pvid=e45c2e0f-f25d-4d53-9616-3a49d46dbe51&algo_exp_id=e45c2e0f-f25d-4d53-9616-3a49d46dbe51-15&pdp_ext_f=%7B%22order%22%3A%22439%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.61%210.99%21%21%212.61%210.99%21%402101c5ac17416551344413638e031d%2112000030764210616%21sea%21US%210%21ABX&curPageLogUid=fIaQOWl0snEx&utparam-url=scene%3Asearch%7Cquery_from%3A|$2|
+|GT2 Idlers (6pcs)|1|$4|http://aliexpress.us/item/3256807371672860.html?spm=a2g0o.productlist.main.1.16e1fW2TfW2TM0&algo_pvid=523295ef-b74a-406d-8f16-ca7a10bc695f&algo_exp_id=523295ef-b74a-406d-8f16-ca7a10bc695f-0&pdp_ext_f=%7B%22order%22%3A%22112%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.85%210.99%21%21%2113.32%217.12%21%402103205217416479687076855e11e0%2112000041285813865%21sea%21US%210%21ABX&curPageLogUid=7huwqvAusaop&utparam-url=scene%3Asearch%7Cquery_from%3A|$4|
 |plastic|all of it|like $20 per kilo|Obtain from school's makerspace?|
 
 
@@ -50,7 +52,7 @@ BOM Total: ~$375 (needs to be cut down)
 |2/27/2025|Bit more BOM, some research|1 Hour||
 |2/28/2025|Tons of CAD!|3 Hours|Finished the XY gantry!, started Z axis/frame|
 |3/6/2025|More CAD! Also made a belt routing pic|2 Hour|Worked on frame|
-|3/10/2025|BOM|1 Hour|Got it down a tad, have more to do...|
+|3/10/2025|BOM|1.5 Hours|Got it down a tad, have more to do...|
 
 ## Ideas for Attachments:
 - 3d Extruder (obviously)
