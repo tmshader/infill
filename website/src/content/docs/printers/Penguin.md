@@ -60,8 +60,13 @@ Finished second version of the double funnel, promising first results
 Finished the frame and brackets for all 3 axis. The printer's really starting to come together.
 ![image](https://github.com/user-attachments/assets/6395274d-2a62-40a7-8633-4aeda7ff58d1)
 
-3/11/25 - 1hr
+3/10/25 - 1hr
 Began researching for beds and electronics
 Finished X and Z movement systems (specifically belt mounts)
 Build volume is currently looking to be around 19 x 25 x 16 (xyz), which I'll definitely have to look into tomorrow. One way is to cut down the Y axis by 5, which brings the volume to a fairly square 19x20x16
 ![image](https://github.com/user-attachments/assets/5c39bbb9-b04c-459f-9aa3-76788edd1f90)
+
+3/11/25 - 30m
+Did some random small work. Here's the current build volume roughly visualized (24x24x18)
+![image](https://github.com/user-attachments/assets/faa6b673-a931-4536-a2d1-d3902bfdf0b8)
+
