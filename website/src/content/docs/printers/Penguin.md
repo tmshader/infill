@@ -70,3 +70,6 @@ Build volume is currently looking to be around 19 x 25 x 16 (xyz), which I'll de
 Did some random small work. Here's the current build volume roughly visualized (24x24x18)
 ![image](https://github.com/user-attachments/assets/faa6b673-a931-4536-a2d1-d3902bfdf0b8)
 
+3/14/25 - 2hr 30m
+Finished up (almost) all of the 3D printer not including electronics
+![image](https://github.com/user-attachments/assets/6704d89e-68c3-4db1-bcac-fb89180e9ae4)
