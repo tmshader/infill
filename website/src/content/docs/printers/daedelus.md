@@ -8,13 +8,59 @@ repository: "https://raw.githubusercontent.com/meowkewok/Daedelus/refs/heads/mai
 
 Made by: @Meowkewok  
 Repository link: https://github.com/meowkewok/Daedelus  
-Total hours so far: 15   
+Total hours so far: 16.5   
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
-Daedelus was a Greek inventor, builder, and tinkerer, hence the name.
+Daedelus was a Greek inventor, builder, and tinkerer, hence the name.  
+I started this project with a coreXY design, but I flew too high, hence the name/designation Daedelus (Icharus) for the first variant.
 
-## Design goals: 
+## New Design Goals:
+- [ ] Under $300 (USD)
+- [ ] 310mm3 Build Volume
+- [ ] Cartesian Bedslinger
+- [ ] Cool design
+- [ ] Touchscreen UI
+- [ ] Klipper w/ RPi?
+
+## BOM
+I just decided to make a spreadsheet using Google Sheets, it was easier. LINK: https://docs.google.com/spreadsheets/d/1hZlX8M_wxNlEcmAArnw9ARre6T5sTla1MoFUZHyh3DU/edit?usp=sharing
+
+## Log
+|Date |Task |Time |Notes|
+|-----|-----|-----|-----|
+|2/21/2025|Set up Repo, ideas, design goals, began BOM, began CAD|4 Hours|Thanks to my brain for finally deciding what to make|
+|2/23/2025|CAD, Research|3 hours||
+|2/26/2025|Bit more BOM|30 mins|Buying cheap parts from China|
+|2/27/2025|Bit more BOM, some research|1 Hour||
+|2/28/2025|Tons of CAD!|3 Hours|Finished the XY gantry!, started Z axis/frame|
+|3/6/2025|More CAD! Also made a belt routing pic|2 Hour|Worked on frame|
+|3/10/2025|BOM|1.5 Hours|Got it down a tad, have more to do...|
+|3/15/2025|CAD, Research, BOM|1.5 Hours|Started Redesign|
+
+## Detailed Log
+3/6/2025  
+Last time I was working, I finished the Z-Axis, however, I still need a frame...
+![image](https://github.com/user-attachments/assets/ad0c2183-4e92-49cb-bfbe-74857ae6f1a0)  
+Need to take a break, but here is progress (after 1 hour):
+![image](https://github.com/user-attachments/assets/bf1df8d6-a668-471f-a1fd-dd65f7159161)  
+Here is the belt routing pic (ik its a bit wonky):
+![XY Axis Assemby v14](https://github.com/user-attachments/assets/6ac167ef-7925-4199-b3bf-ac91b8dc63a7)  
+
+3/10/2025  
+I get my cast off tomorrow!  
+I realized that my BOM needs to be cut down, so I started work on that. OG: ~375, Now: N/A  
+
+3/15/2025  
+I made a realization that a coreXY just costs too much for this...  
+Making new goals, and hopefully this time it will work out, and maybe I can make Daedelus (Icharus) in the future. I simply flew too high.
+Started work on the CAD for it, looking real good so far, maybe even better than Icharus! I also started working on the BOM for this one, which hopefully will end better than last time.
+![XZ Axis v3](https://github.com/user-attachments/assets/9472b425-5541-4f23-9779-f955bfda6945)
+
+## OLD DESIGN INFO (Icharus)
+
+
+### (OG) Design goals: 
 - [x] CoreXY
 - [x] 300 x 300 x 250 (at least) mm Build area
 - [ ] Swappable toolhead (maybe magnets?)
@@ -22,7 +68,7 @@ Daedelus was a Greek inventor, builder, and tinkerer, hence the name.
 - [ ] Under $500
 - [ ] Looks cool
 
-## BOM
+### (OG) BOM
 BOM Total: ~$375 (needs to be cut down)
 |Parts |Quantity |Cost (per) |Link  |Total Cost| 
 |------|------|------|------|------|
@@ -43,36 +89,12 @@ BOM Total: ~$375 (needs to be cut down)
 |plastic|all of it|like $20 per kilo|Obtain from school's makerspace?|
 
 
-## Log
-|Date |Task |Time |Notes|
-|-----|-----|-----|-----|
-|2/21/2025|Set up Repo, ideas, design goals, began BOM, began CAD|4 Hours|Thanks to my brain for finally deciding what to make|
-|2/23/2025|CAD, Research|3 hours||
-|2/26/2025|Bit more BOM|30 mins|Buying cheap parts from China|
-|2/27/2025|Bit more BOM, some research|1 Hour||
-|2/28/2025|Tons of CAD!|3 Hours|Finished the XY gantry!, started Z axis/frame|
-|3/6/2025|More CAD! Also made a belt routing pic|2 Hour|Worked on frame|
-|3/10/2025|BOM|1.5 Hours|Got it down a tad, have more to do...|
-
-## Ideas for Attachments:
+### (OG) Ideas for Attachments:
 - 3d Extruder (obviously)
 - Dremel/CNC head
 - 4-Axis attachment - adds a 4th axis which can be attached to by various toolheads
 - Laser (DANGER!)
 - Pen plotter
-
-## Detailed Log
-3/6/2025  
-Last time I was working, I finished the Z-Axis, however, I still need a frame...
-![image](https://github.com/user-attachments/assets/ad0c2183-4e92-49cb-bfbe-74857ae6f1a0)  
-Need to take a break, but here is progress (after 1 hour):
-![image](https://github.com/user-attachments/assets/bf1df8d6-a668-471f-a1fd-dd65f7159161)  
-Here is the belt routing pic (ik its a bit wonky):
-![XY Axis Assemby v14](https://github.com/user-attachments/assets/6ac167ef-7925-4199-b3bf-ac91b8dc63a7)  
-
-3/10/2025  
-I get my cast off tomorrow!  
-I realized that my BOM needs to be cut down, so I started work on that. OG: ~375, Now:
 
 ### Credits:  
 Thank you to:  
@@ -80,4 +102,5 @@ Thank you to:
 - Ryan Rich for giving me random ender 3 parts
 
 ### Fun stories:
-- This printer is being designed with a broken finger (at the beginning at least)
+- This printer is being designed with a broken finger (at the beginning at least. Its healed now!)
+- Realized I had to redesign the printer half way through since I would never be able to make it affordable enough.
