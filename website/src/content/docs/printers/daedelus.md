@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/meowkewok/Daedelus/refs/heads/mai
 
 Made by: @Meowkewok  
 Repository link: https://github.com/meowkewok/Daedelus  
-Total hours so far: 16.5   
+Total hours so far: 18   
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -37,6 +37,7 @@ I just decided to make a spreadsheet using Google Sheets, it was easier. LINK: h
 |3/6/2025|More CAD! Also made a belt routing pic|2 Hour|Worked on frame|
 |3/10/2025|BOM|1.5 Hours|Got it down a tad, have more to do...|
 |3/15/2025|CAD, Research, BOM|1.5 Hours|Started Redesign|
+|3/16/2025|CAD|1.5 Hours|Finished XY axis|
 
 ## Detailed Log
 3/6/2025  
@@ -55,7 +56,11 @@ I realized that my BOM needs to be cut down, so I started work on that. OG: ~375
 I made a realization that a coreXY just costs too much for this...  
 Making new goals, and hopefully this time it will work out, and maybe I can make Daedelus (Icharus) in the future. I simply flew too high.
 Started work on the CAD for it, looking real good so far, maybe even better than Icharus! I also started working on the BOM for this one, which hopefully will end better than last time.
-![XZ Axis v3](https://github.com/user-attachments/assets/9472b425-5541-4f23-9779-f955bfda6945)
+![XZ Axis v3](https://github.com/user-attachments/assets/9472b425-5541-4f23-9779-f955bfda6945)  
+
+3/16/2025  
+Kept working, here is progress so far:  
+![XYZ Axis v2](https://github.com/user-attachments/assets/2d936903-57cd-419b-9d47-a01d6e89f8ad)
 
 ## OLD DESIGN INFO (Icharus)
 
