@@ -80,6 +80,7 @@ Started the day with minimal knowledge on 3d printer electronics setups, ended w
 3/16/25 - 5hr (34 total)
 Finished researching electronics and finalized parts needed. Went through the BOM and checked and counted up everything. The costs seemed to shoot up significantly after I actually tallied everything up, going from my expectation of ~250 to 350. I spent a lot of time switching and cutting parts to get this number down. One of which was replacing the cartographer probe with a BL Touch clone.
 ![image](https://github.com/user-attachments/assets/5101fd8c-3462-40ea-b3a2-6cf0d36dbb42)
-Here's the full printer.![image](https://github.com/user-attachments/assets/a08b74b6-570c-45c4-8036-2f36d2507a50)
+Here's the full printer rendered  (ooh). ![image](https://github.com/user-attachments/assets/e2794985-d96e-49b5-ab51-7955f0b84594)
+
 
 
