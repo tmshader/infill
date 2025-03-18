@@ -8,11 +8,11 @@ repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads
 
 Made by: @Dongathan-Jong  
 Repository link: https://github.com/Dongathan-Jong/Ducc-it  
-Total hours so far: 22
+Total hours so far: 60
 
 BOM: [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESmatV1Npfq33ltyqs/edit?usp=sharing)
 
-### Day 1 - 2/15/2025 - 12:02 PM
+### Day 1 - 2/15/2025 - 12:02 PM (1 Hr)
 
 I want to lay some ground rules down for what this printer can do:
 
@@ -23,11 +23,11 @@ I want to lay some ground rules down for what this printer can do:
 
 Going to try and sort out the BOM today
 
-### Day 1 - 2/15/2025 - 1:37 PM
+### Day 1 - 2/15/2025 - 1:37 PM (1 Hr)
 
 Worked on my bom, added steppers, aluminum rails, and linear rails.
 
-### Day 1 - 2/15/2025 - 10:36 PM
+### Day 1 - 2/15/2025 - 10:36 PM (6 Hrs)
 
 Just did a super long work session ~6h, added a ton of things to the bom! Lead screw, motor bracket, coupler, build plate, linear bearings, and linear rods! Turns out Aliexpress is really my best friend...
 
@@ -38,7 +38,7 @@ I did a ton of work on the CAD, doing pretty good with the cad so far:
 
 I struggled quite a lot as im pretty new to fusion, but all seems to be good! 
 
-### Day 2 - 2/16/2025 - 10:08 AM
+### Day 2 - 2/16/2025 - 10:08 AM (1 Hr)
 
 I thought this through, and I will restart this. I realised that with my current progress, I have barely made a dent in my CAD and have already blown through half the budget. I think the current progress is amazing, but even using the cheapest parts I can find, I don't think I can hit my desired $300 budget. I think a bedslinger would be cheaper? Something like the bambu A1, where the z axis is supported on both sides. 
 
@@ -58,16 +58,16 @@ Here is the current BOM:
 
 The total comes to ~ $139, which excluding electronics and such doesn't sound so feasable. 
 
-### Day 2 - 2/16/2025 - 11:01 PM
+### Day 2 - 2/16/2025 - 11:01 PM (6 Hrs) 
 
-I did a bit of work here and there throughout the day, came out to ~ 3 hours. I worked on achieving a cheaper frame, and eneded up settling with a cantilever design, similar to the Bambu A1 mini. Here is the progress for today! 
+I did a bit of work here and there throughout the day, came out to ~ 6 hours. I worked on achieving a cheaper frame, and eneded up settling with a cantilever design, similar to the Bambu A1 mini. Here is the progress for today! 
 
 <img src="https://github.com/user-attachments/assets/b288cdf1-0d52-48ea-b8a0-5dd2686a3132"
      alt="Day 2 cad progress"/>
 
 I'll get to updating the BOM soon, maybe tomorrow.
 
-### Day 3 - 2/24/2025 - 4:53 PM
+### Day 3 - 2/24/2025 - 4:53 PM (10 Hrs)
 
 Wow... School really put everything to a halt. I updated the BOM and put everything on a spreadsheet, making these tables in markdown SUCK, [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESmatV1Npfq33ltyqs/edit?usp=sharing) is the link to that.
 
@@ -76,3 +76,12 @@ I have worked a little more on the CAD, hope to get the mechanics and everything
 Here is the CAD progress:
 <img src="https://github.com/user-attachments/assets/18ab51fa-7a8f-4070-ad20-3bb4b8cdb752"
      alt="Day 3 cad progress"/>
+
+### Day 4, 5, 6, 7 - 3/1/2025 to 3/17/2025 (~35 Hrs)
+
+School, Scrapyard, HQ, everythings been putting this on the backburner, but I am finally here to continue on the writeup! I did quite a lot of work in between my trips to hq fulfilling hackpad, texas for scrapyard, and others, and have finished the hotend assembly, updating the spreadsheet with everything needed, and have everything done except for the electronics and fan shroud (and the feet but thats not high priority). 
+
+I need to figure out how to make a good looking fan shroud since I'm pretty new to fusion, definitely will figure that out soon. As per now, I have quite a lot of stuff figured out, this is basically the final stretch!
+
+<img src="https://github.com/user-attachments/assets/b7593ea6-c7cc-43a7-bef1-3798d3698031"
+     alt="Day 4-7 cad progress"/>
