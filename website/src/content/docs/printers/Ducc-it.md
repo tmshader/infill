@@ -12,6 +12,16 @@ Total hours so far: 67
 
 BOM: [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESmatV1Npfq33ltyqs/edit?usp=sharing)
 
+This is a custom made 3d printer for Hack Club's Infill YSWS! Currently, the printer's features are: 
+- 160x160x160mm Print Volume
+- Auto Ejecting prints
+- Fits under $300 USD
+- At least 100mm/s printing
+- Klipper support
+
+As someone who has used Autodesk's Tinkercad their whole life, I have realised that CADing models on that software may not be the best idea. I have used this YSWS as an opportunity to learn Fusion 360 along with the electronic workings of a 3D printer. 
+
+
 ### Day 1 - 2/15/2025 - 12:02 PM (1 Hr)
 
 I want to lay some ground rules down for what this printer can do:
