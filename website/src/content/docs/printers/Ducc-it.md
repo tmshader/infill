@@ -14,6 +14,7 @@ BOM: [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESm
 
 This is a custom made 3d printer for Hack Club's Infill YSWS! Currently, the printer's features are: 
 - 160x160x160mm Print Volume
+- Cantilever Design
 - Auto Ejecting prints
 - Fits under $300 USD
 - At least 100mm/s printing
