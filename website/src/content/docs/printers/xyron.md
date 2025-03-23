@@ -17,16 +17,22 @@ My goal with this 3d printer is to 3d print as many of the parts as possible fro
 I started with onshape, and got a liitle of the gantry done. 
 ### time
 4 hours 30 minutes
+
+![IMounting](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5abbf7d05d71e0fe3b4832df686e057294201fd2_image.png) 
 ## Day two
 ### Design
 Today I learnt a little bit more about onShape and got continued with the assembaly. Most of my time just was spent figuring out how to use the assembaly.
 ### Time
 3 hours and 30 minutes
+
+![gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f9479e545415152b83557be21132319edbca0ca3_image.png)
 ## Day three
 ### Design
 Today I continues working on the gantry and now have to work on the tool head. The X and Y linear rods are finished with the modeling.
 ### Time
 2 hours.
+
+![gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/69f2ee63b276ca6b8ddcc5fadbf4cd25cfd2c24f_image.png)
 ## Day four
 ### Design
 Today I did a lot of work on the gantry, and added some screws on the assembally, however I realized that I forgot about the idelers, so I have to do that later. 
@@ -54,5 +60,6 @@ Today I worked on the z axis movement and got some suggestions for the printer, 
 ## Day nine
 ### Design
 Today I just adjusted some clearances, and mounted the board to the printer. I guess that Now I will submit the file, and ask for the grant, so I will keep my fingers crossed that it will get accepted.
+![Design](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e94fbb0cf590c2e1e21ef8fae0c81a895c2cb617_image.png)
 ### Time
 2 hours.
