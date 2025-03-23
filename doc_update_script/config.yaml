@@ -311,3 +311,9 @@ CageHome3D:
   description: "A 3D printer that folds flush to enable efficient storage"
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
+
+  IshanB3D:
+    title: "IshanB3D"
+    description: "A Smart 3D Printer With A Helpful Touch UI + Possibly A Wireless Feature"
+    repository: "https://raw.githubusercontent.com/ibhat2010/ishanb3d/refs/heads/main/JOURNAL.md"
+    file_name: ishanb3d.md
