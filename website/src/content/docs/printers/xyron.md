@@ -55,6 +55,8 @@ Today I continued working on the bed and started my BOM.BOM. I finished most of 
 ## Day Eight
 ### Design
 Today I worked on the z axis movement and got some suggestions for the printer, so I also added some clearances. I updated my BOM, and got it down to $130 (Not counting filament, or taxes), and I realized that I forgot to mount my SKR Mini, so I will do that tomorrow.
+https://docs.google.com/spreadsheets/d/1EGhT13h8WIjT6__bsCRffLh4skm1RX1gYrO3IXuM8uQ/edit?usp=drivesdk
+
 ### TIme
 4 and a half hours.
 ## Day nine
