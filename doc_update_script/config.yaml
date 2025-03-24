@@ -312,6 +312,12 @@ CageHome3D:
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
 
+MuonForge:
+  title: "MuonForge"
+  description: "A battery and direct electricity powered 3d printer with rechargeability"
+  repository: "https://raw.githubusercontent.com/asmahdi08/MuonForge/refs/heads/main/JOURNAL.md"
+  file_name: MuonForge.md
+
 MiniPrintV1:
   title: "MiniPrintV1"
   description: "3-axis printer designed for precision and complex parts and maybe even a swappable tool head"
