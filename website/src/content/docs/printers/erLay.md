@@ -19,7 +19,7 @@ This printer is built to print small parts needed fast at robotics competitions 
 # Total Time
 
 Aaron: 59h
-Evan: 14h
+Evan: 15h
 
 # Feb 12 2025
 
@@ -326,4 +326,10 @@ Cadding
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6cd0273d3beca79aefc81e11777e9dfeedac7693_screenshot_2025-03-09_175539.png)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2ecf0c055b351388e8a5fd1cf67841e1918324b0_image.png)
 
+# March 23
+Evan: 1h
+
+## Evan
+Did some research into the USB PD 3.0 spec (specifically PPS). Currently, there doesn't seem to be a (cheap) sink ic that supports PPS and a **configurable** i2c address.
+I basically want the [AP33772S](https://www.diodes.com/datasheet/download/AP33772S.pdf) but with a address configuration function (it has a static address of 0x52)
 

@@ -8,7 +8,7 @@ Made by: @chunyinkwong // https://github.com/chunyinkwong/
 
 Repository link: https://github.com/chunyinkwong/infill-journal
 
-Total hours so far: 5
+Total hours so far: 20
 
 - [x] I have access to 3D printing facilities and am able to obtain printed models on or before March 21st.
 
@@ -67,3 +67,15 @@ Bed slinger 3D printer design
   - Probably should lock in place when shut as well
  
 btw no clue how to design any of that in CAD brb gonna spend 6 hours later learning Fusion360
+
+## 14th March 2025
+
+Spent 3 hours learning Fusion360 again
+
+# 22nd March 2025
+
+Spent the last week learning CAD, took me 8 hours to make this (totally unrelated to the project, just to improve my CAD skills).
+
+I think I am ready to actually design the things in CAD after a quick sketch of my ideas, hopefully a week is enough.
+
+![cad animation](https://files.catbox.moe/ud7fq7.gif)

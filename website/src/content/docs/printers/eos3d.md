@@ -315,3 +315,27 @@ I'm hoping to be able to start building everything tomorrow morning!
 - Add back all the fasteners lost with the changes
 
 ![Day 23 Image Update](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a603d0c305e98e05ddfa00b68a038d78b514b342_image.png)
+
+# Day 24, 25 (March 21st-22nd)
+
+Hours worked: **9**
+
+Total hours on project: **68**
+
+### Making adjustments
+
+After the initial printing of the parts, I had to make adjustments for fitment, among other issues. These included adjusting the PSU mounts, adjusting the mounting to aluminum extrusions (I thought they had screw holes threaded) and the part cooling fan.
+
+#### Part cooling fan
+
+The old design was not fitting well due to a screw on the heatblock I did not account for. Instead of struggling to change it, I decided to completly redesign the part cooling fan duct. It now uses a single flat nozzle. After running CFD, the airflow is just as good as the original design with the added bonus of being a lot less complicated. Below is the CFD analysis and the duct itself:
+
+![New part cooling duct](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e2702bdabc0fa931be793e27c1242e527a57ac19_image.png)
+![CFD Results redesign side view](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4f7434917dfefa3c9a1482265eeeca74ac868855_image.png)
+![CFD Results redesign top view](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e8f7d77c191e1407edc38296c42078f37a935e47_image.png)
+
+### Final remarks
+
+Firstly, I just want to give an update on why there was a two week break. I was on vacation and could not work on the project. Secondly, I plan on adding the PicoMMU integration (really just a filament cutter and mount for the 4-1 bowden hub) once I have the printer up and running. I still have to add back all the fasteners. Its a PITA to do and I plan on doing it all in one go once the design in finalized.
+
+![Day 25 Image Update](https://hc-cdn.hel1.your-objectstorage.com/s/v3/89557edd0f18aa606cf607bd14bfc1c7f5bee0d9_image.png)
