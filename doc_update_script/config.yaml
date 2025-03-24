@@ -312,6 +312,13 @@ CageHome3D:
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
 
+
+QuestionableAtBest:
+  title: "QuestionalPrinter"
+  description: "A large-build volume 5-axis printer"
+  repository: "https://raw.githubusercontent.com/DinosaurPotato534/questionableAtBest/refs/heads/main/JOURNAL.md"
+  file_name: questionable.md
+
 PancakeFlipper:
   title: "Pancake Flipper"
   description: "Upside-down toolchanger printer with belted Z axis"
@@ -407,4 +414,3 @@ Axiom:
   description: "A mini desktop 3D printer powered by USB C."
   repository: "https://raw.githubusercontent.com/coolinventorr/axiom/refs/heads/main/JOURNAL.md"
   file_name: axiom.md
-
