@@ -312,6 +312,12 @@ CageHome3D:
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
 
+IshanB3D:
+  title: "IshanB3D"
+  description: "A Smart 3D Printer With A Helpful Touch UI + Possibly A Wireless Feature"
+  repository: "https://raw.githubusercontent.com/ibhat2010/ishanb3dp/refs/heads/main/JOURNAL.md"
+  file_name: ishanb3d.md
+
 NonLinear:
   title: "NonLinear"
   description: "5-axis printer designed for precision and complex parts"
@@ -336,12 +342,12 @@ WayneTech3D:
   repository: "https://raw.githubusercontent.com/Bhavya312007/WayneTech/refs/heads/main/JOURNAL.md"
   file_name: WayneTech3D.md
 
-  Terbium:
+Terbium:
   title: "Terbium"
   description: "Can't afford a printer? Terbium, build one. Cheap CoreXY printer!"
   repository: "https://raw.githubusercontent.com/akulsaju/terbium/refs/heads/main/JOURNAL.md"
   file_name: terbium.md
-
+  
 EZ3d:
   title: "EZ3D"
   description: "a printer that's minimal and gets the job done (hence the EZ)"
