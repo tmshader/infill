@@ -10,7 +10,7 @@ Total Wakatime Hours so far: 1 (source: [wakatime](https://waka.hackclub.com))
 
 Total research Hours so far: 13 (source: logbook)
 
-Total Hours so far: 17
+Total Hours so far: 21
 
 ## Design Requirements
 - Core XY
@@ -153,7 +153,36 @@ Didn't end up doing much more after, maybe an hour or so of tweaking and a bit o
 
 Hours spent: 3
 
+## Feb 24
+Thoughts today:
+- Firstly, I've been working on making my gantry and frame, specifically because I'm trying to figure out how to
+mount all of my steppers.
+- Secondly, my BL-Touch mount can actually be moved to under my extruder, and so I can potentially save
+an extra 10mm
 
+Hours spent: 4
+
+![image](https://cloud-op3cdvxwi-hack-club-bot.vercel.app/0image.png)
+
+## Feb 25
+More gantry design. Not much of an update today though, because really it's just a bit more research on gantry materials
+
+Hours spent: 1
+
+## Feb 26
+I've realised that I think that I can make my gantry from smooth rods and such, and if they're made from steel then I think
+that I might be able to make it fairly stable, while maintaining a very slim perimeter
+
+More thoughts on this, but it seems like a fairly promising design idea. I'll add some photos in a bit
+
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/379f56fd907cefa2d95ba27e0d1bdc4e8d8c88b2_image.png)
+It's fairly simple rn, but I'm going to work on it a bit more later. Essentially the entire gantry is made from stell rods
+(which are supposed to be fairly stiff) and fairly slim so that there's as little overlap as possible
+
+## Feb 27
+First prototype gantry and toolhead have been designed. (Slack killed the cdn bot so I'm going to use hack.ngo for a bit instead)
+![image](https://cdn.hack.ngo/slackcdn/1dc4fbcdf4fc1d7068aabddfff4127da.png)
+![image](https://cdn.hack.ngo/slackcdn/73d0993722a6262c96421189bacb5495.png)
 ## Resources
 Torque to Force calculator: https://calculator.academy/torque-to-force-calculator/
 
