@@ -312,6 +312,12 @@ CageHome3D:
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
 
+OrbeXY:
+  title: "OrbeXY"
+  description: "A small CoreXY 3D printer with a 10x10x10 build area"
+  repository: "https://raw.githubusercontent.com/esemv07/OrbeXY-3D-Printer/refs/heads/main/JOURNAL.md"
+  file_name: OrbXY.md
+
 CORE-SIX:
   title: "CORE-SIX"
   description: "A big, fast, multi-color CoreXY printer."
