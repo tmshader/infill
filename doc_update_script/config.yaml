@@ -311,6 +311,12 @@ CageHome3D:
   description: "A 3D printer that folds flush to enable efficient storage"
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
+  
+Billig:
+  title: "Billig"
+  description: "Sub 300$ 400²x250mm CoreXY enclosed 3D printer"
+  repository: "https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/JOURNAL.md"
+  file_name: billig.md
 
 WayneTech3D:
   title: "WayneTech3D"
