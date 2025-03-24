@@ -31,37 +31,37 @@ I would like to support multiple plastic types but I started to think, how would
 
 Data below is taken from [Plastic Material Melt & Mould Temperatures by PlastikCity](https://www.plastikcity.co.uk/useful-stuff/material-melt-mould-temperatures)
 
-| Material                        | Melt Temperature Range (°C) | Mould Temperature Range (°C) | Melt Temperature Range (°F) | Mould Temperature Range (°F) |
-| :-----------------------------: | :-------------------------: | :--------------------------: | :-------------------------: | :---------------------------: |
-| ABS                             | 190-270                    | 40-80                       | 374-518                    | 104-176                     |
-| ABS/PC ALLOY                    | 245-265                    | 40-80                       | 473-509                    | 104-176                     |
-| ACETAL                          | 180-210                    | 50-120                      | 356-410                    | 122-248                     |
-| ACRYLIC                         | 220-250                    | 50-80                       | 428-482                    | 122-176                     |
-| CAB                             | 170-240                    | 40-50                       | 338-464                    | 104-122                     |
-| HDPE                            | 210-270                    | 20-60                       | 410-518                    | 68-140                      |
-| LDPE                            | 180-240                    | 20-60                       | 356-464                    | 68-140                      |
-| NYLON 6                         | 230-290                    | 40-90                       | 446-554                    | 104-194                     |
-| NYLON 6 (30% GF)                | 250-290                    | 50-90                       | 482-554                    | 122-194                     |
-| NYLON 6/6                       | 270-300                    | 40-90                       | 518-572                    | 104-194                     |
-| NYLON 6/6 (33% GF)              | 280-300                    | 40-90                       | 536-572                    | 104-194                     |
-| NYLON 11                        | 220-250                    | 40-110                      | 428-482                    | 104-230                     |
-| NYLON 12                        | 190-200                    | 40-110                      | 374-392                    | 104-230                     |
-| PEEK                            | 350-390                    | 120-160                     | 662-734                    | 248-320                     |
-| POLYCARBONATE                   | 280-320                    | 85-120                      | 536-608                    | 185-248                     |
-| POLYESTER PBT                   | 240-275                    | 60-90                       | 464-527                    | 140-194                     |
-| PET (SEMI CRYSTALLINE)          | 260-280                    | 20-30                       | 500-536                    | 68-86                       |
-| PET (AMORPHOUS)                 | 260-280                    | 20-30                       | 500-536                    | 68-86                       |
-| POLYPROPYLENE (COPOLYMER)       | 200-280                    | 30-80                       | 392-536                    | 86-176                      |
-| POLYPROPYLENE (HOMOPOLYMER)     | 200-280                    | 30-80                       | 392-536                    | 86-176                      |
-| POLYPROPYLENE (30% TALC FILLED) | 240-290                    | 30-50                       | 464-554                    | 86-122                      |
-| POLYPROPYLENE (30% GF)          | 250-290                    | 40-80                       | 482-554                    | 104-176                     |
-| POLYSTYRENE                     | 170-280                    | 30-60                       | 338-536                    | 86-140                      |
-| POLYSTYRENE (30% GF)            | 250-290                    | 40-80                       | 482-554                    | 104-176                     |
-| PVC P                           | 170-190                    | 20-40                       | 338-374                    | 68-104                      |
-| PVC U                           | 160-210                    | 20-60                       | 320-410                    | 68-140                      |
-| SAN                             | 200-260                    | 50-85                       | 392-500                    | 122-185                     |
-| SAN (30% GF)                    | 250-270                    | 50-70                       | 482-518                    | 122-158                     |
-| TPE                             | 260-320                    | 40-70                       | 500-608                    | 104-158                     |
+|            Material             | Melt Temperature Range (°C) | Mould Temperature Range (°C) | Melt Temperature Range (°F) | Mould Temperature Range (°F) |
+| :-----------------------------: | :-------------------------: | :--------------------------: | :-------------------------: | :--------------------------: |
+|               ABS               |           190-270           |            40-80             |           374-518           |           104-176            |
+|          ABS/PC ALLOY           |           245-265           |            40-80             |           473-509           |           104-176            |
+|             ACETAL              |           180-210           |            50-120            |           356-410           |           122-248            |
+|             ACRYLIC             |           220-250           |            50-80             |           428-482           |           122-176            |
+|               CAB               |           170-240           |            40-50             |           338-464           |           104-122            |
+|              HDPE               |           210-270           |            20-60             |           410-518           |            68-140            |
+|              LDPE               |           180-240           |            20-60             |           356-464           |            68-140            |
+|             NYLON 6             |           230-290           |            40-90             |           446-554           |           104-194            |
+|        NYLON 6 (30% GF)         |           250-290           |            50-90             |           482-554           |           122-194            |
+|            NYLON 6/6            |           270-300           |            40-90             |           518-572           |           104-194            |
+|       NYLON 6/6 (33% GF)        |           280-300           |            40-90             |           536-572           |           104-194            |
+|            NYLON 11             |           220-250           |            40-110            |           428-482           |           104-230            |
+|            NYLON 12             |           190-200           |            40-110            |           374-392           |           104-230            |
+|              PEEK               |           350-390           |           120-160            |           662-734           |           248-320            |
+|          POLYCARBONATE          |           280-320           |            85-120            |           536-608           |           185-248            |
+|          POLYESTER PBT          |           240-275           |            60-90             |           464-527           |           140-194            |
+|     PET (SEMI CRYSTALLINE)      |           260-280           |            20-30             |           500-536           |            68-86             |
+|         PET (AMORPHOUS)         |           260-280           |            20-30             |           500-536           |            68-86             |
+|    POLYPROPYLENE (COPOLYMER)    |           200-280           |            30-80             |           392-536           |            86-176            |
+|   POLYPROPYLENE (HOMOPOLYMER)   |           200-280           |            30-80             |           392-536           |            86-176            |
+| POLYPROPYLENE (30% TALC FILLED) |           240-290           |            30-50             |           464-554           |            86-122            |
+|     POLYPROPYLENE (30% GF)      |           250-290           |            40-80             |           482-554           |           104-176            |
+|           POLYSTYRENE           |           170-280           |            30-60             |           338-536           |            86-140            |
+|      POLYSTYRENE (30% GF)       |           250-290           |            40-80             |           482-554           |           104-176            |
+|              PVC P              |           170-190           |            20-40             |           338-374           |            68-104            |
+|              PVC U              |           160-210           |            20-60             |           320-410           |            68-140            |
+|               SAN               |           200-260           |            50-85             |           392-500           |           122-185            |
+|          SAN (30% GF)           |           250-270           |            50-70             |           482-518           |           122-158            |
+|               TPE               |           260-320           |            40-70             |           500-608           |           104-158            |
 
 Time spent researching: 2 hours
 
@@ -103,4 +103,24 @@ As for the exhaust system, there are some options that I can use or even stack o
 
 Then having them routed to a filter box or outside—through a window?!—would be a great idea.
 
+> Polylactic acid, also known as PLA, is **a thermoplastic monomer derived from renewable, organic sources such as corn starch or sugar cane**. Using biomass resources makes PLA production different from most plastics, which are produced using fossil fuels through the distillation and polymerization of petroleum.
+
+taken from: https://www.twi-global.com/technical-knowledge/faqs/what-is-pla
+
+Making PLA from organic sources? Possibly.
+
 Time spent researching: 2 hours
+
+## Day 3 (February 15th 2025)
+
+Question:
+- Should I actually use PET? It emits fumes that are just harmful.
+
+## Day 4 (March 18th 2025)
+
+Whoa, what a month since I've procrastinated! I've had a couple of exams and today is going to be the last day of PAT (end of year exam) but I'll have some more as I'm 9th grade :heavysob:
+
+Back to designing, for the movement, I'm thinking of using linear rails as they are known for their precision. Aluminum extrusions along with a custom-made cartridge would be great though.
+
+> https://www.tokopedia.com/bangunkaryaac/aluminium-profile-20x20-extrusion-panjang-6000-mm
+
