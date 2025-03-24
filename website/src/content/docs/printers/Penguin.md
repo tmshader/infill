@@ -79,5 +79,5 @@ Finished researching electronics and finalized parts needed. Went through the BO
 ![image](https://github.com/user-attachments/assets/5101fd8c-3462-40ea-b3a2-6cf0d36dbb42)
 Here's the full printer rendered  (ooh). ![image](https://github.com/user-attachments/assets/e2794985-d96e-49b5-ab51-7955f0b84594)
 
-
-
+3/18/25 - 2hr (36 total)
+Spent some time looking over the the BOM again. After trying to find cheaper alternatives for every part, I got the total down to around 330 total before tax.

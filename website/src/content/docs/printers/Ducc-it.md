@@ -8,9 +8,20 @@ repository: "https://raw.githubusercontent.com/Dongathan-Jong/Ducc-it/refs/heads
 
 Made by: @Dongathan-Jong  
 Repository link: https://github.com/Dongathan-Jong/Ducc-it  
-Total hours so far: 60
+Total hours so far: 67
 
 BOM: [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESmatV1Npfq33ltyqs/edit?usp=sharing)
+
+This is a custom made 3d printer for Hack Club's Infill YSWS! Currently, the printer's features are: 
+- 160x160x160mm Print Volume
+- Cantilever Design
+- Auto Ejecting prints
+- Fits under $300 USD
+- At least 100mm/s printing
+- Klipper support
+
+As someone who has used Autodesk's Tinkercad their whole life, I have realised that CADing models on that software may not be the best idea. I have used this YSWS as an opportunity to learn Fusion 360 along with the electronic workings of a 3D printer. 
+
 
 ### Day 1 - 2/15/2025 - 12:02 PM (1 Hr)
 
@@ -85,3 +96,16 @@ I need to figure out how to make a good looking fan shroud since I'm pretty new 
 
 <img src="https://github.com/user-attachments/assets/b7593ea6-c7cc-43a7-bef1-3798d3698031"
      alt="Day 4-7 cad progress"/>
+
+### Day 8 - 3/21/2025 - 11:39 PM (7 Hours)
+
+Finally had some time to work on this, worked ~ 7 hours today figuring out electronics, PSU, what I am going to use since I have zero experience with what I am using. The popular choice was to go with a SKR Mini E3 V3, a 350W Creality power supply, and a RPI3 I have laying around. I also added a roll of Polymaker Carbon Reinforced filament, as the brace for the X axis won't be able to support the weight with normal PLA. This suprisingly took SO long because I watched so many YouTube videos on whats good and what isn't.
+
+I updated the bom, added some GT2 parts, belts, pulleys, etc. The total right now is a little over $290 USD, but I added around $2 to each part, since customs may be an issue. 
+
+<img src="https://github.com/user-attachments/assets/e77a89f3-8840-4f13-8c97-0db9c4bc47a3"
+     alt="Day 8 cad progress"/>
+
+I think I am going to just strap all the electronics under the bed, and create mounts as I go, since I cannot find the right CAD models for the parts. Also, for the self-ejecting part, I plan to use a servo to sweep the bed, but that will also need to be further researched into. 
+
+As of now, I am marking this printer as completed until I recieve the parts to fabricate!
