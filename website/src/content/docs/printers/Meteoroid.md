@@ -8,7 +8,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 8.0 hrs
+Total hours so far: 17.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -37,6 +37,50 @@ Project Time Span: Feb 1, 2025-Present
 
 # Log
 This is a log of every day I have worked on this project
+
+## Updated Icon - March 22nd, 2025
+I changed the design a bit to emphasize the M dip and make it look somewhat more like a toolhead.
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Logo/Meteoroid-logo.svg)
+
+## Started bed frame design - March 18th, 2025
+I created a combined bed corner and z linear rail peice. I hope it is rigid enough!
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-18%2022-45-12.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/f90ea5979eb5aaab7db21657/e/5ef495c38173f41e0befecf5)
+
+## Added Z axis rails - March 17th, 2025
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-17%2021-55-10.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/ac507458f413c697b0cd875a/e/5ef495c38173f41e0befecf5)
+
+Time: 1hr
+
+## Started frame stiffener - March 9th, 2025
+
+I designed a fun frame stiffener peice
+![Frame Stiffener](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-09 21-07-42.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/2ae4412215810c69bc8e58e2/e/1f99f85a2999227fc57382c6)
+
+Time: 2 hr
+
+## Finished Logo digital design - March 8th, 2025
+
+I spent quite a few hours working on turning my drawings into a logo for my printer. I created multiple versions of it for different situations and for 3D.
+
+Final logo:
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Logo/Meteoroid-logo-20250308.png)
+
+### My Process for creating Logo types
+1. Create the base color logo. Use offset live path effect with rounded corners and then flatten it to a normal object for the internal light colors. More control than the Path Outset tool. Break it apart and delete the weird extra small shapes. Make sure to name all objects, and have a layer for the printer and layer for the burn
+2. Copy and start on two-tone version. Delete the 3rd inset color. Make sure the color pallet only has Primary and Background colors. Change all lines to Primary color, and make sure everything else is a fill color. Re-create the burn internal offset except without internal edges. The burn has to go behind the printer now.
+3. Copy and start on black and white version. Only change necessary, which should just be the colors
+4. For Mono, take the path difference of the trail and the the background so that you have no background fill object. Delete the fill object for the printer. Now it should be transparent and have only one color
+5. Finally, to get a logo that can be extruded in 3D, convert all strokes to paths, boolean union on all paths, Get ride of all groups and layers, and save as a DXF R14 file without changing any of the defaults. 
+
+Time: 6 hrs
 
 ## Base Frame - March 5th, 2025
 
