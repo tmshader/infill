@@ -7,7 +7,7 @@ repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/desig
 # prntr
 Made by: @dari // alexren
 Repository link: https://github.com/M0HID/prntr
-Total hours so far: 11
+Total hours so far: 27
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -93,14 +93,42 @@ I spent wayy too long on this. Mainly learning how to do different things in fus
 Progress:
 ![image](https://github.com/user-attachments/assets/638ae73a-a623-49fe-aa5e-f5f60c905dd8)
 
-## Part cooling fan + duct: 3 hours
+## Part cooling fan + duct: 12 hours
 
-This is by far the most difficult thing i have had to model so far, mainly due to the rounded shape of the duct. Spent around 2 hours just trying different shapes and here is v1 of the cooling duct:
+This is by far the most difficult thing i have had to model so far, mainly due to the rounded shape of the duct. Spent around 2 hours just trying different shapes and here is v1 of the cooling duct: Time += 1 hour
 
 ![image](https://github.com/user-attachments/assets/29e03186-944a-46f8-bbf2-0930d4c9e20d)
 I will be remaking this shape however because the output of the duct isnt exactly in the correct position and the shape seems a little too big.
 
-Update: I remade the duct shape and now it looks a lot better, i have decreased the output width of the duct and also changed its shape to be more rounded. The output is also tilted so it is aiming more downwards.
+Update: I remade the duct shape and now it looks a lot better, i have decreased the output width of the duct and also changed its shape to be more rounded. The output is also tilted so it is aiming more downwards. Time += 2 hours
 
 ![image](https://github.com/user-attachments/assets/a2de6761-0b82-495b-b77d-b459020dae20)
+
+Update 2: After many many iterations and failed attempts i have finally come up with this vent design. I also redid the mounting style for the hotend to use a hard mount so that should make things more secure as well. This part cooling ducc has 3 profiles rather than 2 and took me forever just because of me trying different variations and designs. Time += 5 hours
+
+![image](https://github.com/user-attachments/assets/cbc9b7e0-61d1-428a-b9fc-9713ca34061e)
+
+Update 3: Learning how to use offset + combine in fusion 360 to turn the duct body into an actual duct
+I tried at first to use the 'shell' feature however that wasnt working well for my use case as it created a wall 'inside' the body, instead of outside... if that makes sense?
+Heres my updated ducts now, going to try doing some cfd on this to see if they are any good. Time += 1 hour
+
+![image](https://github.com/user-attachments/assets/af9441ef-02d4-4dc8-91c3-59ec370dd3e9)
+
+Update 4: Redid the ducts yet again, I realised the angle of airflow was meant to be angled downwards instead of perpendicular to the hotend, so it wasnt as effective at cooling down the parts. Created the ducts this time using an angled profile which should hopefully improve part cooling.
+Time += 3 hours
+![image](https://github.com/user-attachments/assets/a391eb97-ce7c-4554-9f2b-13c2fb518207)
+
+## Continue work on Hotend assembly
+
+### Belt clip
+Learnt how to use the rectangle array tool to create a kind of clip for the belt to slide into. Hopefully it wont slip at all otherwise that wouldnt be good...
+This should be able to secure the belt securely and tightly otherwise id need to redesign this bit :(
+Time += 1 hour
+![image](https://github.com/user-attachments/assets/fc4371ed-4eee-4e80-a86d-0cfc94936413)
+
+### Linear bearing mounts
+Decided to do something crazy. My idea is that the linear bearing can be embedded into the print by adding a pause and placing it inside the print, and then printing over it. Hopefully i never need to replace the bearings...
+Time += 3 hours
+![image](https://github.com/user-attachments/assets/d6853de1-b346-454b-8827-a0e29ee071d4)
+![image](https://github.com/user-attachments/assets/07d0ae4f-965f-4a02-9251-6104e272d07d)
 
