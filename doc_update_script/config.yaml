@@ -1,12 +1,5 @@
 ## Add your printers below
 
-Axiom:
-  title: "Axiom"
-  description: "A mini desktop 3D printer powered by USB C."
-  repository: "https://raw.githubusercontent.com/coolinventorr/axiom/refs/heads/main/JOURNAL.md"
-  file_name: axiom.md
-
-
 Infinite Benchy Theorem:
   title: "Infinite Benchy Theorem"
   description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
@@ -402,3 +395,9 @@ Helper 1:
   description: "A printer primarily focused on being tall to print big plane wings"
   repository: "https://raw.githubusercontent.com/Patcybermind/helper-1/refs/heads/main/JOURNAL.md"
   file_name: helper-1.md
+
+Axiom:
+  title: "Axiom"
+  description: "A mini desktop 3D printer powered by USB C."
+  repository: "https://raw.githubusercontent.com/coolinventorr/axiom/refs/heads/main/JOURNAL.md"
+  file_name: axiom.md
