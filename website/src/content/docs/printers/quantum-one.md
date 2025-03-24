@@ -12,9 +12,9 @@ Made by: Henry([@HenryNerd](https://github.com/HenryNerd))
 
 Repository Link: [https://github.com/Echo-Labs-Development/Quantum-One](https://github.com/Echo-Labs-Development/Quantum-One)
 
-Total Hours: 46 Hours
+Total Hours: 63 Hours
 
-![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/30215e2db6831e5d2b626288a596c79615d21eea_image.png)
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d0e912071a7f28678a7e13d009b208bd08d8e387_image.png)
 
 ## Goals
 - Quiet enough to be next to you on your desk
@@ -44,9 +44,13 @@ Total Hours: 46 Hours
 | 2.25.25 | 2 Hours |
 | 2.26.25 | 2 Hours |
 | 2.28.25 | 4 Hours |
+| 3.3.25 | 2 Hours |
+| 3.8.25 | 5 Hours |
+| 3.18.25 | 6 Hours |
+| 3.19.25 | 4 Hours |
 
 
-### Total Hours: 46 Hours
+### Total Hours: 63 Hours
 
 ## BOM
 [BOM.md](https://github.com/Echo-Labs-Development/Quantum-One/blob/8280ed5a5fece50f8bd1d9ca4763da4ab5bdc901/BOM.md)
@@ -110,3 +114,10 @@ May 16th - Ship Myself to RMRRF
 
 # Power Supply Mount
 ![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/77ada97038b5bccfc86ac20b60b5c705fe3e4518_image.png)
+
+# Spark Consle
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/737992d6a0e4856cdc01f29359c125ef6db91d82_image.png)
+
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cc9ca43c38eed016b07e75687806a1788278c46f_image.png)
+
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3e7ae3955bcd646e84b86e55afd00f0dd756e8b1_image.png)

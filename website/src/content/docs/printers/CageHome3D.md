@@ -8,7 +8,7 @@ Made by: @chunyinkwong // https://github.com/chunyinkwong/
 
 Repository link: https://github.com/chunyinkwong/infill-journal
 
-Total hours so far: 1
+Total hours so far: 20
 
 - [x] I have access to 3D printing facilities and am able to obtain printed models on or before March 21st.
 
@@ -40,3 +40,42 @@ Printer type:
     - Stability issues
 - Rectilinear
  
+## 5th March 2025
+
+CAD: 1 hour
+
+Installed Fusion360 and watched some tutorials on how to use CAD software
+
+## 12th March 2025
+
+Spent 2.5 hours trying to CAD a toolhead, realized that I have no clue that I am doing.
+
+Probably should've started on the gantry and frame first. This plan only took 30 mins and it's more progress that I've made on the toolhead
+
+**Frame plan**
+
+Bed slinger 3D printer design
+
+![pro drawing in paint](https://files.catbox.moe/vfhj1d.png)
+
+- Part circled in red should have some joint that allows it to fold
+- The top of the frame will move along the blue arrow
+- Ensure it actually folds flat given that the user manually moves the hotend to the top and the bed to one side after power off
+- When opened, it shoud be locked into place and a stopper or something that ensures it is square
+    - Perhaps some spring locking mechanisms but I don't know how any of that would work
+- To close it, probably will be some button or something to hold down
+  - Probably should lock in place when shut as well
+ 
+btw no clue how to design any of that in CAD brb gonna spend 6 hours later learning Fusion360
+
+## 14th March 2025
+
+Spent 3 hours learning Fusion360 again
+
+# 22nd March 2025
+
+Spent the last week learning CAD, took me 8 hours to make this (totally unrelated to the project, just to improve my CAD skills).
+
+I think I am ready to actually design the things in CAD after a quick sketch of my ideas, hopefully a week is enough.
+
+![cad animation](https://files.catbox.moe/ud7fq7.gif)
