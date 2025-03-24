@@ -1,8 +1,8 @@
 ---
-title: "Anixus Vex"
+title: "Anicept Vex"
 description: "A powerful, fast, precise CoreXY 3D printer aimed at intense speed"
-project_name: "Anixus Vex"
-repository: "https://raw.githubusercontent.com/invictus-anic3tus/anixus-vex/refs/heads/main/journal.md"
+project_name: "Anicept Vex"
+repository: "https://raw.githubusercontent.com/invictus-anic3tus/anicept-vex/refs/heads/main/journal.md"
 ---
 ## firstly,
 

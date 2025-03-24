@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/headblockhead/circumlocution/refs
 ---
 Made by: @Edward Hesketh
 Repository link: https://github.com/headblockhead/circumlocution/
-Total hours so far: 10
+Total hours so far: 20
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -130,3 +130,25 @@ I planned out the position for the rollers to follow the Z axis:
 Added the rollers, and started re-building the carriage.
 
 ![](https://cloud-aa22v5w8t-hack-club-bot.vercel.app/0image.png)
+
+## Hours 11-16
+
+<sup>took place across multiple days between timestamps 1740416875 and 1741539544</sup>
+
+I re-built the entire Z-following carriage into two 3D-printable parts, held together with insertable nuts and screws.
+
+(as seen from front side)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bbf534821b55a24cfd03fbf01609c99424e38789_image.png)
+
+(as seen from back side)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/56549c14186e0d0648153ff6db1491fdf45d664e_image.png)
+
+## Hours 17-20
+
+<sup>took place across multiple days between timestamps 1741539544 and 1742252892</sup>
+
+I moddled a holder to keep the X motor in place, added a belt and coupler, and connected the end of the extrusion to the X motor holder with an M6 screw to prevent the X rail from sliding through the Z follower.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e4114abc02d86b2a032e08489dd0641c4f12cb8_screenshot_from_2025-03-17_22-56-54.png)
