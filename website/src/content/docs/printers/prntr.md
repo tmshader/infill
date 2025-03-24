@@ -7,7 +7,7 @@ repository: "https://raw.githubusercontent.com/M0HID/prntr/refs/heads/main/desig
 # prntr
 Made by: @dari // alexren
 Repository link: https://github.com/M0HID/prntr
-Total hours so far: 20
+Total hours so far: 27
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -93,7 +93,7 @@ I spent wayy too long on this. Mainly learning how to do different things in fus
 Progress:
 ![image](https://github.com/user-attachments/assets/638ae73a-a623-49fe-aa5e-f5f60c905dd8)
 
-## Part cooling fan + duct: 9 hours
+## Part cooling fan + duct: 12 hours
 
 This is by far the most difficult thing i have had to model so far, mainly due to the rounded shape of the duct. Spent around 2 hours just trying different shapes and here is v1 of the cooling duct: Time += 1 hour
 
@@ -113,4 +113,22 @@ I tried at first to use the 'shell' feature however that wasnt working well for 
 Heres my updated ducts now, going to try doing some cfd on this to see if they are any good. Time += 1 hour
 
 ![image](https://github.com/user-attachments/assets/af9441ef-02d4-4dc8-91c3-59ec370dd3e9)
+
+Update 4: Redid the ducts yet again, I realised the angle of airflow was meant to be angled downwards instead of perpendicular to the hotend, so it wasnt as effective at cooling down the parts. Created the ducts this time using an angled profile which should hopefully improve part cooling.
+Time += 3 hours
+![image](https://github.com/user-attachments/assets/a391eb97-ce7c-4554-9f2b-13c2fb518207)
+
+## Continue work on Hotend assembly
+
+### Belt clip
+Learnt how to use the rectangle array tool to create a kind of clip for the belt to slide into. Hopefully it wont slip at all otherwise that wouldnt be good...
+This should be able to secure the belt securely and tightly otherwise id need to redesign this bit :(
+Time += 1 hour
+![image](https://github.com/user-attachments/assets/fc4371ed-4eee-4e80-a86d-0cfc94936413)
+
+### Linear bearing mounts
+Decided to do something crazy. My idea is that the linear bearing can be embedded into the print by adding a pause and placing it inside the print, and then printing over it. Hopefully i never need to replace the bearings...
+Time += 3 hours
+![image](https://github.com/user-attachments/assets/d6853de1-b346-454b-8827-a0e29ee071d4)
+![image](https://github.com/user-attachments/assets/07d0ae4f-965f-4a02-9251-6104e272d07d)
 

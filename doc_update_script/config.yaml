@@ -312,12 +312,42 @@ CageHome3D:
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
 
-  IshanB3D:
-    title: "IshanB3D"
-    description: "A Smart 3D Printer With A Helpful Touch UI + Possibly A Wireless Feature"
-    repository: "https://raw.githubusercontent.com/ibhat2010/ishanb3dp/refs/heads/main/JOURNAL.md"
-    file_name: ishanb3d.md
-    
+IshanB3D:
+  title: "IshanB3D"
+  description: "A Smart 3D Printer With A Helpful Touch UI + Possibly A Wireless Feature"
+  repository: "https://raw.githubusercontent.com/ibhat2010/ishanb3dp/refs/heads/main/JOURNAL.md"
+  file_name: ishanb3d.md
+
+NonLinear:
+  title: "NonLinear"
+  description: "5-axis printer designed for precision and complex parts"
+  repository: "https://github.com/Jyst7/NonLinear"
+  file_name: nonlinear.md
+
+Stratos:
+  title: "Stratos"
+  description: "Compact and high-speed 3D printer based on the Voron V0 design, with modular upgrades, future automation capabilities, touchscreen interface, silent stepper motors, auto bed leveling (BLTouch), and Wi-Fi connectivity for remote control."
+  repository: "https://raw.githubusercontent.com/aayush-ojha/Stratos/refs/heads/main/JOURNAL.md"
+  file_name: Stratos.md
+
+Billig:
+  title: "Billig"
+  description: "Sub 300$ 400²x250mm CoreXY enclosed 3D printer"
+  repository: "https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/JOURNAL.md"
+  file_name: billig.md
+
+WayneTech3D:
+  title: "WayneTech3D"
+  description: "A 3D printer that is stoarage efficient, of good build quality and some basic features of a normal printer hopefully and a littlebit of batman wayne company style as much as possible"
+  repository: "https://raw.githubusercontent.com/Bhavya312007/WayneTech/refs/heads/main/JOURNAL.md"
+  file_name: WayneTech3D.md
+
+Terbium:
+  title: "Terbium"
+  description: "Can't afford a printer? Terbium, build one. Cheap CoreXY printer!"
+  repository: "https://raw.githubusercontent.com/akulsaju/terbium/refs/heads/main/JOURNAL.md"
+  file_name: terbium.md
+  
 EZ3d:
   title: "EZ3D"
   description: "a printer that's minimal and gets the job done (hence the EZ)"

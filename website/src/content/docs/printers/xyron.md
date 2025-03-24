@@ -52,6 +52,7 @@ Six and a half hours.
 Today I continued working on the bed and started my BOM.BOM. I finished most of it, then realized that I would also need am extruder, so I had to model a mount for that.
 ### Time
 4 hours.
+![BOM](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7d7b2ad1ec9edff963e7cf3785368f108ebc2c96_image.png)
 ## Day Eight
 ### Design
 Today I worked on the z axis movement and got some suggestions for the printer, so I also added some clearances. I updated my BOM, and got it down to $130 (Not counting filament, or taxes), and I realized that I forgot to mount my SKR Mini, so I will do that tomorrow.
