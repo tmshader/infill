@@ -312,6 +312,12 @@ CageHome3D:
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
 
+EZ3d:
+  title: "EZ3D"
+  description: "a printer that's minimal and gets the job done (hence the EZ)"
+  repository: "https://raw.githubusercontent.com/VedanshMannem/EZ3D/refs/heads/main/JOURNAL.md"
+  file_name: EZ3D.md
+
 MuonForge:
   title: "MuonForge"
   description: "A battery and direct electricity powered 3d printer with rechargeability"
