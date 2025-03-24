@@ -324,6 +324,12 @@ NonLinear:
   repository: "https://github.com/Jyst7/NonLinear"
   file_name: nonlinear.md
 
+TwinTrude:
+  title: "TwinTrude"
+  description: "A dual extrusion/print head 3D printer with a type-c port!"
+  repository: "https://raw.githubusercontent.com/joel909/project-twintrude/refs/heads/main/journal.md"
+  file_name: TwinTrude.md
+
 Stratos:
   title: "Stratos"
   description: "Compact and high-speed 3D printer based on the Voron V0 design, with modular upgrades, future automation capabilities, touchscreen interface, silent stepper motors, auto bed leveling (BLTouch), and Wi-Fi connectivity for remote control."
