@@ -54,11 +54,11 @@ Aniprinter:
   repository: "https://raw.githubusercontent.com/cheyao/aniprinter/refs/heads/main/JOURNAL.md"
   file_name: aniprinter.md
 
-Anixus Vex:
-  title: "Anixus Vex"
+Anicept Vex:
+  title: "Anicept Vex"
   description: "A powerful, fast, precise CoreXY 3D printer aimed at intense speed"
-  repository: "https://raw.githubusercontent.com/invictus-anic3tus/anixus-vex/refs/heads/main/journal.md"
-  file_name: anixus_vex.md
+  repository: "https://raw.githubusercontent.com/invictus-anic3tus/anicept-vex/refs/heads/main/journal.md"
+  file_name: anicept_vex.md
 
 Grasshopper:
   title: "Grasshopper"
@@ -317,3 +317,21 @@ NanoLab:
   description: "A enclosed, small and thus hopefully portable 3D printer that allows printing high quality models with a whole bunch of different materials"
   repository: "https://raw.githubusercontent.com/Illuminum2/NanoLab/refs/heads/main/JOURNAL.md"
   file_name: nano_lab.md
+
+OrbeXY:
+  title: "OrbeXY"
+  description: "A small CoreXY 3D printer with a 10x10x10 build area"
+  repository: "https://raw.githubusercontent.com/esemv07/OrbeXY-3D-Printer/refs/heads/main/JOURNAL.md"
+  file_name: OrbXY.md
+
+CORE-SIX:
+  title: "CORE-SIX"
+  description: "A big, fast, multi-color CoreXY printer."
+  repository: "https://raw.githubusercontent.com/grandell1234/CORE-SIX/refs/heads/main/JOURNAL.md"
+  file_name: core_six.md
+
+Helper 1:
+  title: "Helper 1"
+  description: "A printer primarily focused on being tall to print big plane wings"
+  repository: "https://raw.githubusercontent.com/Patcybermind/helper-1/refs/heads/main/JOURNAL.md"
+  file_name: helper-1.md
