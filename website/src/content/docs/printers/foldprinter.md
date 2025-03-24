@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/BingleyPro/foldprinter/refs/heads
 ---
 Made by: @Bingley
 Repository link: https://github.com/BingleyPro/foldprinter
-Total hours so far: 1
+Total hours so far: 2
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -15,7 +15,7 @@ Total hours so far: 1
 
 **6:26pm**: Finished making a basic sketch:
 
-![alt](./sketches/Day%201%20Sketches.png)
+![Day 1 Sketches](https://hc-cdn.hel1.your-objectstorage.com/s/v3/26b00b22c5196df01f748437b00c7f00c51b1056_day_1_sketches.png)
 
 I realised my orginal thought process wasn't actually possible, but I made design #1, where the tall thingys move back and forth. I haven't seen this on a printer before, it's either the build plate moving (not really possible with the constraints) or the extruder moving two ways (again, not entirely possible, but a fold out thing could be possible but very difficult). I think I will stick with this design for now.
 
@@ -72,7 +72,7 @@ Still have no idea really where to start but to do some research!
 - fan that belows on hotend heat sink to keep it control and another fan inside power supply, may be one for control board, and park fan that cools filament as it comes out the nozzle
 - display screen, touch or seperate controls, stop and start prints from seperate micro-SD card
 
-**8:23pm**: And finished video! Learnt a lot mroe from that. Watching another video: https://www.youtube.com/watch?v=KZi3esvQ02w
+**8:23pm**: And finished video! Learnt a lot more from that. Watching another video: https://www.youtube.com/watch?v=KZi3esvQ02w
 - Filament fed by extruder, which consists of a stepper motor, a drive/hopped gear and an idler which pushes filament into hop gear (idle lever and bearing + adjustable spring)
 - Hotend melts filament at right temp: nozzle, heater block, heat break, heat sink
 - heat break mechnically supports heat block and nozzle while allowing as little heat as possible to creep into heatsink abrasive
@@ -92,3 +92,14 @@ Still have no idea really where to start but to do some research!
 Anyway, this will be the last entry today.
 
 **Time elapsed**: 5:48pm - 6:48pm, 7:59pm - 8:23pm, total: 1 hour, 24 minutes
+
+## March 4th, 2025
+**8:35pm**: Time to get to work again!
+
+The hardest part of my printer is the folding mechanism, which will be very tricky to pull off, since the tall part of the frame have to both fold, and slide along guide rails (belts?). I think having a hinge will be very helpful, but I need some way to lock the frame in the state of being up, plus supporting the extruder's weight, and also locked when down. I looked a bit at CoreXY and Cartesian, and since I'm completely new to anything remotely related to this, I'm going for Cartesian, with seems to be simplier.
+
+**8:59pm**: Idea time! The guide rails (or belts idk know what they called) will move a square, and then there will be a hinge connected to the tall frame part.
+
+**9:11pm**: Have absolutely no idea what I'm doing.
+
+**Time elapsed**: 8:35pm - 9:11pm, total: 36 minutes
