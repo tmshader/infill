@@ -311,3 +311,9 @@ CageHome3D:
   description: "A 3D printer that folds flush to enable efficient storage"
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
+
+Helper 1:
+  title: "Helper 1"
+  description: "A printer primarily focused on being tall to print big plane wings"
+  repository: "https://raw.githubusercontent.com/Patcybermind/helper-1/refs/heads/main/JOURNAL.md"
+  file_name: helper-1.md
