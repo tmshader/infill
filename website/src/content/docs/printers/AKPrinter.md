@@ -6,7 +6,7 @@ repository: "https://raw.githubusercontent.com/hash-ak/AK-Printer/refs/heads/mai
 ---
 Made by: @Hash-AK
 Repository link: https://github.com/Hash-AK/AK-Printer/
-Total hours so far: 3:05 hour
+Total hours so far: 6:00 hour
 
 - [x] I have access to a makerspace 3d printer, can't make infinite print with it tho
 
@@ -49,10 +49,18 @@ Research : 20 min
 
 # Day 4 ( Feb 26 2025)
 
-Yesterday after asking in the slack and some reasearch I decided that I will use 2020 V-slot aluminium extrusions, 250 mm of lenght. After importing it and setting it all in FreeCAD (I lost so much time trying to resize them), I finnally have a _very rought_ idea of how to case is looking ![image of the aluminium extrusions in freecad](to be added)  
+Yesterday after asking in the slack and some reasearch I decided that I will use 2020 V-slot aluminium extrusions, 250 mm of lenght. After importing it and setting it all in FreeCAD (I lost so much time trying to resize them), I finnally have a _very rought_ idea of how to case is looking ![image of the aluminium extrusions in freecad](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8481a678c763f07e890dcd723f270deac1fcd036_2025-02-26-110309_hyprshot.png)
 
-CAD time : 45 minutes
+I'm also searching on how to make the USB-C power. The main problem is that, from what I saw, USB-C PD (Power Delivery) can only go up to _100 watts_, which look pretty low for a printer. Maybe my printer will have a dual power system (either normal power, which more voltage, and USB-C when less power is required) ?
 
+CAD time : 1:05 minutes
+Research : 1 hour
+
+# Day 5 (2 March 2025)
+
+I added the extruder's motor (LBO Orbiter V2) and the extruder/hotend (TZ V2), added all that in my FreeCad project, then I gotta start making the printhead.
+
+CAD + Research time : 1:30 
 # Ressources I found
 - https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
 - https://kingroon.com/blogs/3d-print-101/cartesian-vs-corexy
@@ -60,3 +68,4 @@ CAD time : 45 minutes
 - https://www.instructables.com/Complete-newbie-step-by-step-3D-printer-with-all-p/
 - https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/FFF.html
 - https://www.geeky-gadgets.com/mondrian-customisable-reprap-3d-printer-07-12-2015/
+- https://reprap.org/wiki/Choosing_a_Power_Supply_for_your_RepRap

@@ -12,9 +12,9 @@ Made by: Henry([@HenryNerd](https://github.com/HenryNerd))
 
 Repository Link: [https://github.com/Echo-Labs-Development/Quantum-One](https://github.com/Echo-Labs-Development/Quantum-One)
 
-Total Hours: 40 Hours
+Total Hours: 63 Hours
 
-![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/30215e2db6831e5d2b626288a596c79615d21eea_image.png)
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d0e912071a7f28678a7e13d009b208bd08d8e387_image.png)
 
 ## Goals
 - Quiet enough to be next to you on your desk
@@ -42,9 +42,15 @@ Total Hours: 40 Hours
 | 2.23.25 | 5 Hours |
 | 2.24.25 | 2 Hours |
 | 2.25.25 | 2 Hours |
+| 2.26.25 | 2 Hours |
+| 2.28.25 | 4 Hours |
+| 3.3.25 | 2 Hours |
+| 3.8.25 | 5 Hours |
+| 3.18.25 | 6 Hours |
+| 3.19.25 | 4 Hours |
 
 
-### Total Hours: 40 Hours
+### Total Hours: 63 Hours
 
 ## BOM
 [BOM.md](https://github.com/Echo-Labs-Development/Quantum-One/blob/8280ed5a5fece50f8bd1d9ca4763da4ab5bdc901/BOM.md)
@@ -87,6 +93,9 @@ The Meteorite Toolhead is a custom toolhead designed specificly for the Quantum 
 ### Rev 03
 ![Meteorite Toolhead](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1b58a33db7e2a984d8df5b94a2ce6421278916f8_image.png)
 
+### Rev 04
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/79140e19e96355a6cf991bf583c19a091d5182d9_screenshot_2025-02-28_at_9.05.44___pm.png)
+
 ## Timeline
 Mar 1st - Finish Design
 
@@ -102,3 +111,13 @@ May 16th - Ship Myself to RMRRF
 
 # XY Stepper Mount
 ![Half Finished Skirt](https://cloud-4ai7mgw57-hack-club-bot.vercel.app/0image.png)
+
+# Power Supply Mount
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/77ada97038b5bccfc86ac20b60b5c705fe3e4518_image.png)
+
+# Spark Consle
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/737992d6a0e4856cdc01f29359c125ef6db91d82_image.png)
+
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cc9ca43c38eed016b07e75687806a1788278c46f_image.png)
+
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3e7ae3955bcd646e84b86e55afd00f0dd756e8b1_image.png)

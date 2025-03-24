@@ -18,8 +18,8 @@ This printer is built to print small parts needed fast at robotics competitions 
 
 # Total Time
 
-Aaron: 23h
-Evan: 13h
+Aaron: 59h
+Evan: 15h
 
 # Feb 12 2025
 
@@ -300,12 +300,36 @@ There are a couple options, but i've only looked at two so far:
 
 # Feb 24-26
 Aaron: 3h
-Evan: 2h
+Evan: 3h
 
+## Aaron
 Decided to build a custom tool head similar to ESO3D. CADing that and gantry.
-
 
 Inspiration:
 ESO3D
 Creality K1
 Voron V0
+
+## Evan
+Did some research on the RP2350. Read through the [integration guide](https://datasheets.raspberrypi.com/rp2350/hardware-design-with-rp2350.pdf) and [datasheet](https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf).
+We'll probably use the A variant over the B variant as we only need the I2C.
+
+# March 9-11
+Aaron: 36h
+Cadding
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/77764ee2d9902558b36006d0567d32e953ed0d55_screenshot_2025-03-09_174912.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b58ed7af6b8390dd2260b838b87cf3647395d5b5_screenshot_2025-03-09_170620.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0413d1285abeacb02bde7a57890c2a7a92ba62bc_screenshot_2025-03-10_021449.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e3bd04a5aadf4aa9010ca2115e4d4cfd83b76efd_screenshot_2025-03-10_021441.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/861d3e04107265b51eb068c50b367189b72301d2_screenshot_2025-03-10_015741.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6cd0273d3beca79aefc81e11777e9dfeedac7693_screenshot_2025-03-09_175539.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2ecf0c055b351388e8a5fd1cf67841e1918324b0_image.png)
+
+# March 23
+Evan: 1h
+
+## Evan
+Did some research into the USB PD 3.0 spec (specifically PPS). Currently, there doesn't seem to be a (cheap) sink ic that supports PPS and a **configurable** i2c address.
+I basically want the [AP33772S](https://www.diodes.com/datasheet/download/AP33772S.pdf) but with a address configuration function (it has a static address of 0x52)
+
