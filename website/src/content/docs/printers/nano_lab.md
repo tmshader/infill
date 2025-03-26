@@ -8,7 +8,7 @@ repository: "https://raw.githubusercontent.com/Illuminum2/NanoLab/refs/heads/mai
 
 Made by: @Iluminum2  
 Repo link: [https://github.com/Illuminum2/NanoLab](https://github.com/Illuminum2/NanoLab)  
-Total hours so far: 40.5
+Total hours so far: 43.5
 - [x] I have a 3D printer
 
 ## Idea
