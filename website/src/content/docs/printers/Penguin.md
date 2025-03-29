@@ -93,5 +93,6 @@ Continued redesign
 
 3/26-3/28 - 2hr (44.5 total)
 Fleshed out redesign and made some really cool renders. Check out renders tab! 
-![image](https://github.com/user-attachments/assets/b0b908d9-d64e-4168-8caf-7f9a40a2affb)
+![image](https://github.com/user-attachments/assets/432cb989-e714-43c5-a17b-25090acd974c)
+
 
