@@ -13,7 +13,7 @@ PS: its still pretty empty, gonna be adding stuf soon
 ## Printer
 Imma be building a core xy supr fast and high quality printr.
 
-##**Day 1**
+## **Day 1**
 
 Research on feasibility, ideas, premade projects, and deciding goals, along with basic planning
 
