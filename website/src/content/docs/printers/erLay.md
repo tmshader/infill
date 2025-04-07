@@ -18,8 +18,8 @@ This printer is built to print small parts needed fast at robotics competitions 
 - Can be powered by a (multiple) power banks (Gave up on this one)
 - NO STANDARD EXTRUSION (I think they look ewww and too normal)
 
-# Features
-- Locally sourced frame
+# Features (Items in the final build)
+- Locally sourced frame (Proudly Canadian)
 - Easy to disassemble (8 Bolts)
 - Core XY
 - Klipper
