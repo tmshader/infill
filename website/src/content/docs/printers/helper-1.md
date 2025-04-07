@@ -15,7 +15,7 @@ this will be useful for printing 3d printed plane wings etc and big things, thos
 
 # Log :
 
-Total hours so far: 65
+Total hours so far: 78
 
 ### Sunday, march 2nd
 7 hours
@@ -97,6 +97,8 @@ then i also started working on the z axis aka the moving bed assembly
 ### sunday april 6th
 7 hours 
 continued designing the printer, did some research on how the corexy system works because at first i was going to have one sationary motor and one that sits on the toolhead gantry but then i saw a short yesterday where both where stationary and i realised that using some sorcery you can have no moving motors exept the extruder one
+
+![image](https://github.com/user-attachments/assets/ffae8a3e-09b3-41ea-bc77-e3aa63f29bb2)
 
 
 
