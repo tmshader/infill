@@ -13,7 +13,7 @@ repository: "https://raw.githubusercontent.com/playlogo/billig/refs/heads/main/J
 **3D Printer available:** Yes  
 
 **Bom**: [Google sheets](https://docs.google.com/spreadsheets/d/1451xPwitG2cd0BywjLuyT1Flae_F1tCVU7JKSqZtRoc/edit?usp=sharing)  
-**CAD**: [Onshape](https://cad.onshape.com/documents/d0a1f0aa5ccbfda89a60ed00/w/724bd13dc87be16ac72aafeb/e/ab5d18244eafa3c49944618e?renderMode=0&uiState=67cdf3b468bb893dcada95f7)
+**CAD**: [Onshape](https://cad.onshape.com/documents/d0a1f0aa5ccbfda89a60ed00/w/724bd13dc87be16ac72aafeb/e/c63896b50a2324a549602fe6?renderMode=0&uiState=67f44fca4d37325097df6c3a)
 
 About the printer:
 
@@ -25,7 +25,7 @@ About the printer:
 - Build-in ABL and Nozzle offset sensor
 - ~$330 (including the two broken printers)
   
-> Take a look at the [Design-Notes](notes.md) to better understand my design decisions.
+> Take a look at the [Design-Notes](notes.md) to better understand some *hidden* design decisions.
 
 About the journal [Written on April 7]: So this journal didn't really work out that well. I started planning the printer and a timeline ~4 weeks ago on March 9., but then got sidetracked by other things (hackboard, pre-final school exams, irl stuff). During this time I constantly thought about it though, and decided to try to convert 2 broken [Anycubic Kobra 2 Neos](https://de.anycubic.com/products/kobra-2-neo) into *this* one big printer.
 
