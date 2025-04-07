@@ -49,7 +49,7 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 ### Days 17–22: March 2–6, 2025 (5 hours)
 - **Heatbed Mounting & Continued Research:**
   - Added support structure for the heatbed, revised z axis to use lead screw, linear rail and linear shaft.
-  - Continued background research to refine mechanical approach.
+  - Continued background research.
 
     ![Z AXIS](https://github.com/user-attachments/assets/a56423a7-f586-4adb-a9e5-d7c679b7e917)  
     ![Z AXIS](https://github.com/user-attachments/assets/52c3d090-2eeb-432f-a230-d23d1db38c38)
