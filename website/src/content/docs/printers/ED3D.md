@@ -29,12 +29,12 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 ### Days 2–4: February 16–18, 2025 (11 hours)
 - **Component Research & Design Skills:**
   - Sourced mechanical and electronic parts for the BOM. EXPENSIVEE!!
-  - Learned basic 3D modeling techniques for part design and visualization.
+  - Learned basic 3D modeling techniques for part design and visualization. Using fusion cuz sigma
 
 ### Day 5: February 20, 2025 (4 hours)
 - **Hardware Assembly:**
-  - Updated the BOM. Added other electronic components.
-  - Cadded the printer frame using welded galvanized square steel tubing.
+  - Updated the BOM. Added other electronic components. like power supply and motors.
+  - Cadded the printer frame using welded galvanized square steel tubing. 
  
     ![PRINTER-FRAME](https://github.com/user-attachments/assets/fef93311-ddb1-49f1-8a58-a70679d587c3)
 
@@ -42,7 +42,7 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 ### Days 6–16: February 21–March 2, 2025 (24 hours)
 - **Z-Axis Development:**
   - Began construction of the Z-axis assembly, thinking of using lead screw instead of ball screw actuator. 
-  - Revised BOM based on component fit and new constraints.
+  - Revised BOM based on component fit and new constraints, Removed ball screw and added the lead screw stuff
 
     ![Z AXISS](https://github.com/user-attachments/assets/536d5975-e3ec-4e65-87a3-0dc43c495e3e)
 
@@ -51,7 +51,9 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
   - Added support structure for the heatbed, revised z axis to use lead screw, linear rail and linear shaft.
   - Continued background research. Thinking of adding bl sensor. bl sensor very expensive in india (75 dolla)
 
-    ![Z AXIS](https://github.com/user-attachments/assets/a56423a7-f586-4adb-a9e5-d7c679b7e917)  
+    ![Z AXIS](https://github.com/user-attachments/assets/a56423a7-f586-4adb-a9e5-d7c679b7e917)
+ 
+      
     ![Z AXIS](https://github.com/user-attachments/assets/52c3d090-2eeb-432f-a230-d23d1db38c38)
 
 ### Days 23–30: March 7–13, 2025 (30 hours)
@@ -74,6 +76,7 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 - **Toolhead Completion:**
   - Finalized toolhead mechanics and mounted extruder assembly.
   - Revised BOM cuz of expensive parts 🤫🧏‍♂️
+ 
     ![image](https://github.com/user-attachments/assets/66bb0a5b-2c68-43ee-8bd2-acfb032acdd1)
 
 
@@ -81,7 +84,6 @@ repository: "https://raw.githubusercontent.com/Fastestkyo/ED3D/refs/heads/main/j
 - **Final Touches & Submission:**
   - Submitted the finished ED3D printer for review.
  
-    
     ![PRINTER](https://github.com/user-attachments/assets/f3fd9fda-ad09-4d44-9c03-00bf5b19854b)
     ![PRINTER-TOP](https://github.com/user-attachments/assets/26eac7e6-4b60-45c7-854c-48d358da1f2e)
 
