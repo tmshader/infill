@@ -4,8 +4,9 @@ description: "A 3d printer"
 project_name: "ChaosCompiler"
 repository: "https://raw.githubusercontent.com/souptik-samanta/ChaosCompiler/refs/heads/main/notes.md"
 ---
-![image](https://github.com/user-attachments/assets/be8b0d19-32dc-4f9d-9207-3e7ea432ba0c)
-### ✅ Total Time Spent: 63h 13min
+![image](https://github.com/user-attachments/assets/2eefbe1f-2f85-43e6-a543-48a2b9c85687)
+
+### ✅ Total Time Spent: 73.03
 ---
 | **Date** | **Time** | **Notes** | **Pics / Links** |
 |----------|----------|-----------|------------------|
