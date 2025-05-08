@@ -8,7 +8,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 56 hours
+Total hours so far: 59 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -424,5 +424,24 @@ Total hours so far: 56 hours
 ### Time Spent on This Day: 1 hour
 
 `BOM: 1 hour`
+
+<br><br>
+## Day 17: April 15th 2025
+
+`Orders` `BOM`
+
+- I ordered my first part from AliExpress which is the [LCD Screen](https://www.aliexpress.com/item/1005006135086424.html). This is the item I decided to use the Welcome Deal for so I got it for $10.55AUD.
+
+`Orders: +1 hour`
+
+- I then went through the Bill of Materials some more to make sure all the parts I had there well within price range, and had reasonable shipping times and fees.
+
+`BOM: +2 hours`
+
+***+ 3 hours***
+
+### Time Spent on This Day: 3 hours
+
+`Orders: 1 hour` `BOM: 2 hours`
 
 <br><br>
