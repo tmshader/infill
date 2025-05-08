@@ -8,7 +8,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 59 hours
+Total hours so far: 63 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -443,5 +443,43 @@ Total hours so far: 59 hours
 ### Time Spent on This Day: 3 hours
 
 `Orders: 1 hour` `BOM: 2 hours`
+
+<br><br>
+## Day 18: April 17th 2025
+
+`Orders`
+
+- I ordered another 15 parts which was almost all of the other parts I need. They are set to be delivered somewhere between the 20th and 30th of April.
+
+- I wasn't able to order the Hotend because for some reason the payment kept failing; I think AliExpress had flagged the card as suspicious for no reason. I tried to submit an appeal for the payment but it wouldn't allow me to. So I tried to chat with customer support but I was stuck going round in circles with the bad AI 'customer support worker' that kept suggesting the same solutions that had already not worked :roll_eyes:
+
+`Orders: +3 hours`
+
+- I also realised after ordering one of the parts, that the seller was very suspicious so the order may not get fulfilled. Hopefully I can get a refund.
+
+- So now I guess it's just a case of waiting :hourglass_flowing_sand:	:alarm_clock:
+
+***+ 3 hours***
+
+### Time Spent on This Day: 3 hours
+
+`Orders: 3 hours`
+
+<br><br>
+## Day 19: April 18th 2025
+
+`Orders`
+
+- I continued to try to pay for the Hotend; I tried many different sellers but all of them failed. Eventually I ended up having to use a different card to pay for it and it worked first time.
+
+- No idea why it was so difficult but it was pretty annoying. At least I got it ordered in the end.
+
+`Orders: +1 hour`
+
+***+ 1 hour***
+
+### Time Spent on This Day: 1 hour
+
+`Orders: 1 hour`
 
 <br><br>
